@@ -1,47 +1,47 @@
-﻿{
-    "updatedAt":  "2026-07-05T23:28:34.1786211+07:00",
-    "items":  [
-                  {
-                      "category":  "Investment",
-                      "title":  "Dollar weakens against dong on black market",
-                      "summary":  "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
-                      "sourceName":  "VnExpress International Business",
-                      "url":  "https://e.vnexpress.net/news/business/markets/dollar-weakens-against-dong-on-black-market-5093334.html"
-                  },
-                  {
-                      "category":  "Investment",
-                      "title":  "Dollar slips against dong",
-                      "summary":  "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
-                      "sourceName":  "VnExpress International Business",
-                      "url":  "https://e.vnexpress.net/news/business/markets/dollar-slips-against-dong-5093009.html"
-                  },
-                  {
-                      "category":  "Finance / Markets",
-                      "title":  "World Bank lifts Vietnam into upper-middle income category",
-                      "summary":  "Finance and market headlines help owners track confidence, currency pressure, consumer sentiment, and timing risk.",
-                      "sourceName":  "VnExpress International Business",
-                      "url":  "https://e.vnexpress.net/news/business/economy/world-bank-lifts-vietnam-into-upper-middle-income-category-5092529.html"
-                  },
-                  {
-                      "category":  "Investment",
-                      "title":  "Vinhomes to invest in high-speed rail linking Hanoi, Ha Long Bay",
-                      "summary":  "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
-                      "sourceName":  "VnExpress International Business",
-                      "url":  "https://e.vnexpress.net/news/business/companies/vinhomes-to-invest-in-high-speed-rail-linking-hanoi-ha-long-bay-5092629.html"
-                  },
-                  {
-                      "category":  "Vietnam Economy",
-                      "title":  "HCM City\u0027s economy expands 8.55% in H1",
-                      "summary":  "Vietnam economic news selected for business owners considering market entry, partnerships, or local setup.",
-                      "sourceName":  "Vietnam News Economy",
-                      "url":  "https://vietnamnews.vn/economy/1784748/hcm-city-s-economy-expands-8-55-in-h1.html"
-                  },
-                  {
-                      "category":  "Finance / Markets",
-                      "title":  "Market mixed, VN-Index falls for second day",
-                      "summary":  "Finance and market headlines help owners track confidence, currency pressure, consumer sentiment, and timing risk.",
-                      "sourceName":  "Vietnam News Economy",
-                      "url":  "https://vietnamnews.vn/economy/1784718/market-mixed-vn-index-falls-for-second-day.html"
-                  }
-              ]
+{
+  "updatedAt": "2026-07-05T16:56:25.5587252+00:00",
+  "items": [
+    {
+      "category": "Investment",
+      "title": "Dollar weakens against dong on black market",
+      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
+      "sourceName": "VnExpress International Business",
+      "url": "https://e.vnexpress.net/news/business/markets/dollar-weakens-against-dong-on-black-market-5093334.html"
+    },
+    {
+      "category": "Investment",
+      "title": "Dollar slips against dong",
+      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
+      "sourceName": "VnExpress International Business",
+      "url": "https://e.vnexpress.net/news/business/markets/dollar-slips-against-dong-5093009.html"
+    },
+    {
+      "category": "Finance / Markets",
+      "title": "World Bank lifts Vietnam into upper-middle income category",
+      "summary": "Finance and market headlines help owners track confidence, currency pressure, consumer sentiment, and timing risk.",
+      "sourceName": "VnExpress International Business",
+      "url": "https://e.vnexpress.net/news/business/economy/world-bank-lifts-vietnam-into-upper-middle-income-category-5092529.html"
+    },
+    {
+      "category": "Investment",
+      "title": "Vinhomes to invest in high-speed rail linking Hanoi, Ha Long Bay",
+      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
+      "sourceName": "VnExpress International Business",
+      "url": "https://e.vnexpress.net/news/business/companies/vinhomes-to-invest-in-high-speed-rail-linking-hanoi-ha-long-bay-5092629.html"
+    },
+    {
+      "category": "Vietnam Economy",
+      "title": "HCM City's economy expands 8.55% in H1",
+      "summary": "Vietnam economic news selected for business owners considering market entry, partnerships, or local setup.",
+      "sourceName": "Vietnam News Economy",
+      "url": "https://vietnamnews.vn/economy/1784748/hcm-city-s-economy-expands-8-55-in-h1.html"
+    },
+    {
+      "category": "Finance / Markets",
+      "title": "Market mixed, VN-Index falls for second day",
+      "summary": "Finance and market headlines help owners track confidence, currency pressure, consumer sentiment, and timing risk.",
+      "sourceName": "Vietnam News Economy",
+      "url": "https://vietnamnews.vn/economy/1784718/market-mixed-vn-index-falls-for-second-day.html"
+    }
+  ]
 }
