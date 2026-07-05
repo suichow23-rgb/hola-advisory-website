@@ -43,6 +43,20 @@ $excludedOpportunityTerms = @(
   "franchise your business"
 )
 
+$excludedOpportunityProfileTerms = @(
+  "individual buyer", "corporate acquirer", "financial investor",
+  "strategic investor", "business loan", "investment bank",
+  "looking to buyout", "looking to acquire", "advisor in",
+  "consultant in", "broker in", "director in"
+)
+
+function Write-JsonFile {
+  param([string]$Path, [object]$Payload)
+  $json = $Payload | ConvertTo-Json -Depth 8
+  $encoding = New-Object System.Text.UTF8Encoding($false)
+  [System.IO.File]::WriteAllText($Path, $json, $encoding)
+}
+
 function ConvertTo-PlainText {
   param([string]$Text)
   if ([string]::IsNullOrWhiteSpace($Text)) { return "" }
@@ -213,6 +227,7 @@ function Get-OpportunityItems {
     foreach ($anchor in Get-AnchorsFromHtml $html $Source.url) {
       if ($anchor.title.Length -lt 14 -or $anchor.title.Length -gt 150) { continue }
       if (Test-ContainsAny $anchor.title $excludedOpportunityTerms) { continue }
+      if (Test-ContainsAny $anchor.title $excludedOpportunityProfileTerms) { continue }
       if ($anchor.url -match "spain\.businessesforsale\.com") { continue }
       if (-not (Test-ContainsAny $anchor.title $terms)) { continue }
 
@@ -256,10 +271,10 @@ $dedupedInsights = foreach ($item in $insightItems) {
 }
 
 if (@($dedupedInsights).Count -gt 0) {
-  [pscustomobject]@{
+  Write-JsonFile -Path $insightsPath -Payload ([pscustomobject]@{
     updatedAt = (Get-Date).ToString("o")
     items = @($dedupedInsights | Select-Object -First $InsightLimit)
-  } | ConvertTo-Json -Depth 8 | Set-Content -LiteralPath $insightsPath -Encoding UTF8
+  })
 }
 
 $opportunityItems = New-Object System.Collections.Generic.List[object]
@@ -323,15 +338,28 @@ $dedupedOpportunities = foreach ($item in $opportunityItems) {
   }
 }
 
+if (@($dedupedOpportunities).Count -eq 0 -and (Test-Path -LiteralPath $opportunitiesPath)) {
+  try {
+    $existingOpportunities = Get-Content -Raw -LiteralPath $opportunitiesPath | ConvertFrom-Json
+    if (@($existingOpportunities.items).Count -gt 0) {
+      Write-Warning "No live opportunity items found. Keeping existing opportunity feed."
+      Write-Host "Updated insights and opportunities JSON."
+      exit 0
+    }
+  } catch {
+    Write-Warning "Existing opportunity feed could not be reused: $($_.Exception.Message)"
+  }
+}
+
 if (@($dedupedOpportunities).Count -eq 0) {
   $dedupedOpportunities = $fallbackOpportunityItems
 } else {
   $dedupedOpportunities = @($dedupedOpportunities | Select-Object -First $OpportunityLimit) + $fallbackOpportunityItems
 }
 
-[pscustomobject]@{
+Write-JsonFile -Path $opportunitiesPath -Payload ([pscustomobject]@{
   updatedAt = (Get-Date).ToString("o")
   items = @($dedupedOpportunities | Select-Object -First $OpportunityLimit)
-} | ConvertTo-Json -Depth 8 | Set-Content -LiteralPath $opportunitiesPath -Encoding UTF8
+})
 
 Write-Host "Updated insights and opportunities JSON."
