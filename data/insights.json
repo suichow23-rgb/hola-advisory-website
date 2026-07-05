@@ -1,26 +1,47 @@
 {
-  "updatedAt": "2026-07-04T00:00:00+07:00",
+  "updatedAt": "2026-07-05T14:35:00+07:00",
   "items": [
     {
-      "category": "Live Feed Ready",
-      "title": "Vietnam business insights will refresh from approved sources",
-      "summary": "This section is wired to read generated feed data. The automation should pull public RSS/news sources, summarize SME relevance, and publish approved items here.",
-      "sourceName": "Hola Advisory feed system",
-      "url": "#contact"
-    },
-    {
-      "category": "Source",
-      "title": "VnExpress International business coverage",
-      "summary": "Use as one public source for Vietnam business and market updates, then add a practical SME interpretation before publishing.",
-      "sourceName": "VnExpress International",
-      "url": "https://e.vnexpress.net/news/business"
-    },
-    {
-      "category": "Source",
-      "title": "Vietnam News economy coverage",
-      "summary": "Use for Vietnam economy, investment, trade, and development news that may matter to foreign SMEs.",
+      "category": "AI / Data Infrastructure",
+      "title": "G-Group receives investment certificate for US$300 million AI campus",
+      "summary": "Large-scale AI and digital infrastructure investment signals demand for data, cloud, enterprise technology, and supporting services in Vietnam.",
       "sourceName": "Vietnam News",
-      "url": "https://vietnamnews.vn/economy"
+      "url": "https://vietnamnews.vn/economy/1784752/g-group-receives-investment-certificate-for-us-300-million-ai-campus.html"
+    },
+    {
+      "category": "City Growth",
+      "title": "HCM City's economy expands 8.55% in H1",
+      "summary": "Ho Chi Minh City remains a key entry point for consumer, services, office, retail, and B2B expansion into Vietnam.",
+      "sourceName": "Vietnam News",
+      "url": "https://vietnamnews.vn/economy/1784748/hcm-city-s-economy-expands-8-55-in-h1.html"
+    },
+    {
+      "category": "Consumer Demand",
+      "title": "Retail sales, consumer services up nearly 13% in first half",
+      "summary": "Rising retail and service revenue supports the case for consumer brands to test Vietnam with measured, city-by-city market entry.",
+      "sourceName": "Vietnam News",
+      "url": "https://vietnamnews.vn/economy/1784747/retail-sales-consumer-services-up-nearly-13-in-first-half.html"
+    },
+    {
+      "category": "Green Economy",
+      "title": "Vietnam launches pilot carbon trading exchange",
+      "summary": "Carbon market development creates future opportunities for ESG, compliance, manufacturing, energy, and advisory-linked services.",
+      "sourceName": "Vietnam Investment Review",
+      "url": "https://vir.com.vn/vietnam-launches-pilot-carbon-trading-exchange-155704.html"
+    },
+    {
+      "category": "Infrastructure",
+      "title": "Eight major infrastructure projects break ground in Ho Chi Minh City",
+      "summary": "Major infrastructure spending can shift property, logistics, industrial, retail, and office-location decisions for new entrants.",
+      "sourceName": "Vietnam Investment Review",
+      "url": "https://vir.com.vn/eight-major-infrastructure-projects-break-ground-in-ho-chi-minh-city-155859.html"
+    },
+    {
+      "category": "Markets",
+      "title": "Gold prices edge up",
+      "summary": "Vietnam market and currency-sensitive headlines are useful signals for owners watching consumer confidence, inflation, and investment sentiment.",
+      "sourceName": "VnExpress International",
+      "url": "https://e.vnexpress.net/news/business/markets/gold-prices-edge-up-5092532.html"
     }
   ]
 }
