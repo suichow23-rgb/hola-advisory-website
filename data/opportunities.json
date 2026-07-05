@@ -1,45 +1,93 @@
-{
-  "updatedAt": "2026-07-04T00:00:00+07:00",
-  "items": [
-    {
-      "type": "sale",
-      "category": "Business For Sale",
-      "title": "Successful established coworking, cafe, and rooftop spa",
-      "summary": "Public listing signal for a Da Nang co-working, cafe, and rooftop spa opportunity. Verify figures and availability directly with the seller.",
-      "location": "Da Nang",
-      "price": "Under USD 100K",
-      "sourceName": "BusinessesForSale Vietnam",
-      "url": "https://www.businessesforsale.com/search/businesses-for-sale-in-vietnam"
-    },
-    {
-      "type": "sale",
-      "category": "Business For Sale",
-      "title": "Software development company",
-      "summary": "Public listing signal for a Vietnam software development company. Treat as a lead only; due diligence is required before any buyer discussion.",
-      "location": "Vietnam",
-      "price": "Undisclosed",
-      "sourceName": "BusinessesForSale Vietnam",
-      "url": "https://www.businessesforsale.com/search/businesses-for-sale-in-vietnam"
-    },
-    {
-      "type": "franchise",
-      "category": "Franchise",
-      "title": "Vietnam franchise opportunity pipeline",
-      "summary": "This slot is ready for franchise leads from public platforms, chambers, brand submissions, and approved partner referrals.",
-      "location": "Vietnam",
-      "price": "Case by case",
-      "sourceName": "Submit or request franchise leads",
-      "url": "#contact"
-    },
-    {
-      "type": "property",
-      "category": "Property / Workspace",
-      "title": "Starter office and retail search",
-      "summary": "Workspace, virtual office, private office, and retail location routes for new Vietnam entrants.",
-      "location": "Ho Chi Minh City",
-      "price": "On request",
-      "sourceName": "Hola Advisory",
-      "url": "#workspace"
-    }
-  ]
+﻿{
+    "updatedAt":  "2026-07-05T23:28:36.6387303+07:00",
+    "items":  [
+                  {
+                      "type":  "sale",
+                      "category":  "Business For Sale",
+                      "title":  "Successful Established Coworking, Cafe, And Rooftop Spa",
+                      "summary":  "Automatically discovered public lead. Verify seller identity, financials, ownership, availability, and terms before presenting to any buyer.",
+                      "location":  "Vietnam",
+                      "price":  "Check source",
+                      "sourceName":  "BusinessesForSale Vietnam",
+                      "url":  "https://www.businessesforsale.com/successful-established-coworking-cafe-and-rooftop-spa.aspx",
+                      "verificationStatus":  "Public source only"
+                  },
+                  {
+                      "type":  "sale",
+                      "category":  "Business For Sale",
+                      "title":  "Beachfront Hotel In Vietnam",
+                      "summary":  "Automatically discovered public lead. Verify seller identity, financials, ownership, availability, and terms before presenting to any buyer.",
+                      "location":  "Vietnam",
+                      "price":  "Check source",
+                      "sourceName":  "BusinessesForSale Vietnam",
+                      "url":  "https://www.businessesforsale.com/beachfront-hotel-in-vietnam.aspx",
+                      "verificationStatus":  "Public source only"
+                  },
+                  {
+                      "type":  "sale",
+                      "category":  "Business For Sale",
+                      "title":  "Software Development Company",
+                      "summary":  "Automatically discovered public lead. Verify seller identity, financials, ownership, availability, and terms before presenting to any buyer.",
+                      "location":  "Vietnam",
+                      "price":  "Check source",
+                      "sourceName":  "BusinessesForSale Vietnam",
+                      "url":  "https://www.businessesforsale.com/software-development-company-for-sale-1.aspx",
+                      "verificationStatus":  "Public source only"
+                  },
+                  {
+                      "type":  "sale",
+                      "category":  "Business For Sale",
+                      "title":  "PET Bottles Manufacturing Business",
+                      "summary":  "Automatically discovered public lead. Verify seller identity, financials, ownership, availability, and terms before presenting to any buyer.",
+                      "location":  "Vietnam",
+                      "price":  "Check source",
+                      "sourceName":  "BusinessesForSale Vietnam",
+                      "url":  "https://www.businessesforsale.com/pet-bottles-manufacturing-business-for-sale.aspx",
+                      "verificationStatus":  "Public source only"
+                  },
+                  {
+                      "type":  "franchise",
+                      "category":  "Franchise",
+                      "title":  "Individual Buyer in Ho Chi Minh City, Vietnam",
+                      "summary":  "Automatically discovered public lead. Verify seller identity, financials, ownership, availability, and terms before presenting to any buyer.",
+                      "location":  "Vietnam",
+                      "price":  "Check source",
+                      "sourceName":  "SMERGERS",
+                      "url":  "https://www.smergers.com/investor/director-industrial-machinery-individual-buyer-in-ho-chi-minh-city-looking-to-buyout-industrial-and-energy-businesses-upto-usd-600-million/axjpl/",
+                      "verificationStatus":  "Public source only"
+                  },
+                  {
+                      "type":  "franchise",
+                      "category":  "Franchise",
+                      "title":  "Corporate Acquirer in Ho Chi Minh City, Vietnam",
+                      "summary":  "Automatically discovered public lead. Verify seller identity, financials, ownership, availability, and terms before presenting to any buyer.",
+                      "location":  "Vietnam",
+                      "price":  "Check source",
+                      "sourceName":  "SMERGERS",
+                      "url":  "https://www.smergers.com/investor/supply-chain-analyst-strategic-supply-chain-consultancy-corporate-acquirer-in-ho-chi-minh-city-looking-to-buyout-auto-component-and-vegetable-processing-businesses-upto-vnd-300000-million/lidt8/",
+                      "verificationStatus":  "Public source only"
+                  },
+                  {
+                      "type":  "sale",
+                      "category":  "Business For Sale",
+                      "title":  "Investment Bank in Vietnam",
+                      "summary":  "Automatically discovered public lead. Verify seller identity, financials, ownership, availability, and terms before presenting to any buyer.",
+                      "location":  "Vietnam",
+                      "price":  "Check source",
+                      "sourceName":  "SMERGERS",
+                      "url":  "https://www.smergers.com/investor/management-mbs-investment-bank-in-vietnam-looking-to-buyout-businesses-upto-vnd-2000000-million/fzu05/",
+                      "verificationStatus":  "Public source only"
+                  },
+                  {
+                      "type":  "sale",
+                      "category":  "Business For Sale",
+                      "title":  "Investment Bank in Hanoi, Vietnam",
+                      "summary":  "Automatically discovered public lead. Verify seller identity, financials, ownership, availability, and terms before presenting to any buyer.",
+                      "location":  "Vietnam",
+                      "price":  "Check source",
+                      "sourceName":  "SMERGERS",
+                      "url":  "https://www.smergers.com/investor/ma-advisor-tanviet-securities-incorportation-investment-bank-in-hanoi-looking-to-buyout-businesses-upto-usd-100-million/rad16/",
+                      "verificationStatus":  "Public source only"
+                  }
+              ]
 }
