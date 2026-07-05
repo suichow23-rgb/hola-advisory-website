@@ -3,7 +3,7 @@ const listingGrid = document.querySelector("#listing-grid");
 const insightGrid = document.querySelector("#insight-grid");
 
 const fallbackInsights = [
-  { category: "Market View", title: "Vietnam consumer growth: where SMEs should test first", summary: "Short practical notes on sectors, customer behavior, and first-step tests for foreign SMEs.", sourceName: "Hola Advisory", url: "#contact" },
+  { category: "Vietnam Economy", title: "Vietnam business headline feed is being refreshed", summary: "We filter for Vietnam-only economy, investment, infrastructure, consumer, and market-entry signals.", sourceName: "Hola Advisory", url: "#contact" },
   { category: "Operator Note", title: "Virtual office first, full office later", summary: "A lower-risk path for companies that want presence before committing to larger fixed costs.", sourceName: "Hola Advisory", url: "#workspace" },
   { category: "Expansion Watch", title: "Buying a small business vs starting from zero", summary: "When acquisition, franchise, or partnership may be smarter than building from scratch.", sourceName: "Hola Advisory", url: "#opportunities" }
 ];
