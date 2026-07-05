@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-label="Sunveil Ring SV Emblem">
+  <rect width="512" height="512" rx="96" fill="#f7f8f4"/>
+  <circle cx="256" cy="256" r="178" fill="none" stroke="#111514" stroke-width="20"/>
+  <path d="M169 194c31-36 74-55 128-55 60 0 101 22 123 67" fill="none" stroke="#111514" stroke-width="24" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M169 196c59 81 108 156 146 226 42-72 88-148 140-228" fill="none" stroke="#111514" stroke-width="24" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

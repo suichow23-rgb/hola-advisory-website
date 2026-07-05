@@ -1,0 +1,44 @@
+{
+  "newsSources": [
+    {
+      "name": "VnExpress International Business",
+      "url": "https://e.vnexpress.net/news/business",
+      "rss": "https://e.vnexpress.net/rss/business.rss",
+      "topics": ["business", "economy", "retail", "investment"]
+    },
+    {
+      "name": "Vietnam News Economy",
+      "url": "https://vietnamnews.vn/economy",
+      "rss": "https://vietnamnews.vn/rss/economy.rss",
+      "topics": ["economy", "trade", "infrastructure", "policy"]
+    },
+    {
+      "name": "Vietnam Investment Review",
+      "url": "https://vir.com.vn/",
+      "rss": "https://vir.com.vn/rss/home.rss",
+      "topics": ["investment", "FDI", "infrastructure", "property"]
+    },
+    {
+      "name": "VnEconomy",
+      "url": "https://vneconomy.vn/",
+      "rss": "https://vneconomy.vn/rss.htm",
+      "topics": ["economy", "business", "market"]
+    }
+  ],
+  "opportunitySources": [
+    {
+      "name": "BusinessesForSale Vietnam",
+      "url": "https://www.businessesforsale.com/search/businesses-for-sale-in-vietnam",
+      "type": "sale"
+    },
+    {
+      "name": "SMERGERS",
+      "url": "https://www.smergers.com/",
+      "type": "sale-franchise-investment"
+    }
+  ],
+  "facebookPolicy": {
+    "mode": "curatedOnly",
+    "note": "Do not scrape Facebook groups without authorization. Use approved submissions, owned groups/pages, or authorized APIs only."
+  }
+}

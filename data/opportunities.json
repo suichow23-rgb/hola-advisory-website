@@ -1,0 +1,45 @@
+{
+  "updatedAt": "2026-07-04T00:00:00+07:00",
+  "items": [
+    {
+      "type": "sale",
+      "category": "Business For Sale",
+      "title": "Successful established coworking, cafe, and rooftop spa",
+      "summary": "Public listing signal for a Da Nang co-working, cafe, and rooftop spa opportunity. Verify figures and availability directly with the seller.",
+      "location": "Da Nang",
+      "price": "Under USD 100K",
+      "sourceName": "BusinessesForSale Vietnam",
+      "url": "https://www.businessesforsale.com/search/businesses-for-sale-in-vietnam"
+    },
+    {
+      "type": "sale",
+      "category": "Business For Sale",
+      "title": "Software development company",
+      "summary": "Public listing signal for a Vietnam software development company. Treat as a lead only; due diligence is required before any buyer discussion.",
+      "location": "Vietnam",
+      "price": "Undisclosed",
+      "sourceName": "BusinessesForSale Vietnam",
+      "url": "https://www.businessesforsale.com/search/businesses-for-sale-in-vietnam"
+    },
+    {
+      "type": "franchise",
+      "category": "Franchise",
+      "title": "Vietnam franchise opportunity pipeline",
+      "summary": "This slot is ready for franchise leads from public platforms, chambers, brand submissions, and approved partner referrals.",
+      "location": "Vietnam",
+      "price": "Case by case",
+      "sourceName": "Submit or request franchise leads",
+      "url": "#contact"
+    },
+    {
+      "type": "property",
+      "category": "Property / Workspace",
+      "title": "Starter office and retail search",
+      "summary": "Workspace, virtual office, private office, and retail location routes for new Vietnam entrants.",
+      "location": "Ho Chi Minh City",
+      "price": "On request",
+      "sourceName": "Hola Advisory",
+      "url": "#workspace"
+    }
+  ]
+}

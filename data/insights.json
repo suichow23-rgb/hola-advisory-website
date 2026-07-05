@@ -1,0 +1,26 @@
+{
+  "updatedAt": "2026-07-04T00:00:00+07:00",
+  "items": [
+    {
+      "category": "Live Feed Ready",
+      "title": "Vietnam business insights will refresh from approved sources",
+      "summary": "This section is wired to read generated feed data. The automation should pull public RSS/news sources, summarize SME relevance, and publish approved items here.",
+      "sourceName": "Hola Advisory feed system",
+      "url": "#contact"
+    },
+    {
+      "category": "Source",
+      "title": "VnExpress International business coverage",
+      "summary": "Use as one public source for Vietnam business and market updates, then add a practical SME interpretation before publishing.",
+      "sourceName": "VnExpress International",
+      "url": "https://e.vnexpress.net/news/business"
+    },
+    {
+      "category": "Source",
+      "title": "Vietnam News economy coverage",
+      "summary": "Use for Vietnam economy, investment, trade, and development news that may matter to foreign SMEs.",
+      "sourceName": "Vietnam News",
+      "url": "https://vietnamnews.vn/economy"
+    }
+  ]
+}
