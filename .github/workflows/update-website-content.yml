@@ -1,0 +1,33 @@
+name: Update website content feeds
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-content:
+    runs-on: windows-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Refresh website feed data
+        shell: pwsh
+        run: ./scripts/update-feeds.ps1
+
+      - name: Commit feed updates
+        shell: pwsh
+        run: |
+          git config user.name "hola-feed-bot"
+          git config user.email "hola-feed-bot@users.noreply.github.com"
+          git add data/insights.json data/opportunities.json
+          if (git diff --cached --quiet) {
+            Write-Host "No feed changes to commit."
+          } else {
+            git commit -m "Update website content feeds"
+            git push
+          }
