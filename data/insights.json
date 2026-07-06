@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-07-06T03:36:49.5815728+00:00",
+  "updatedAt": "2026-07-06T15:34:47.9675911+00:00",
   "items": [
+    {
+      "category": "Investment",
+      "title": "Dollar slides against dong",
+      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
+      "sourceName": "VnExpress International Business",
+      "url": "https://e.vnexpress.net/news/business/markets/dollar-slides-against-dong-5094002.html"
+    },
     {
       "category": "Investment",
       "title": "Uncertainty is a given but Vietnam remains a long-term growth story: UOB CEO",
@@ -23,25 +30,18 @@
       "url": "https://e.vnexpress.net/news/business/markets/dollar-slips-against-dong-5093009.html"
     },
     {
-      "category": "Finance / Markets",
-      "title": "World Bank lifts Vietnam into upper-middle income category",
-      "summary": "Finance and market headlines help owners track confidence, currency pressure, consumer sentiment, and timing risk.",
-      "sourceName": "VnExpress International Business",
-      "url": "https://e.vnexpress.net/news/business/economy/world-bank-lifts-vietnam-into-upper-middle-income-category-5092529.html"
+      "category": "Vietnam Economy",
+      "title": "HCM City achieves fastest economic growth in 10 years",
+      "summary": "Vietnam economic news selected for business owners considering market entry, partnerships, or local setup.",
+      "sourceName": "Vietnam News Economy",
+      "url": "https://vietnamnews.vn/economy/1784877/hcm-city-achieves-fastest-economic-growth-in-10-years.html"
     },
     {
       "category": "Investment",
-      "title": "Vinhomes to invest in high-speed rail linking Hanoi, Ha Long Bay",
+      "title": "HCM City aims to make logistics key economic sector",
       "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
-      "sourceName": "VnExpress International Business",
-      "url": "https://e.vnexpress.net/news/business/companies/vinhomes-to-invest-in-high-speed-rail-linking-hanoi-ha-long-bay-5092629.html"
-    },
-    {
-      "category": "Vietnam Economy",
-      "title": "HCM City's economy expands 8.55% in H1",
-      "summary": "Vietnam economic news selected for business owners considering market entry, partnerships, or local setup.",
       "sourceName": "Vietnam News Economy",
-      "url": "https://vietnamnews.vn/economy/1784748/hcm-city-s-economy-expands-8-55-in-h1.html"
+      "url": "https://vietnamnews.vn/economy/1784868/hcm-city-aims-to-make-logistics-key-economic-sector.html"
     }
   ]
 }
