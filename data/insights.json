@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-07-09T03:21:32.6860265+00:00",
+  "updatedAt": "2026-07-09T15:12:03.8133484+00:00",
   "items": [
+    {
+      "category": "Investment",
+      "title": "Vietnam domestic airfares hit six-year low with tickets from $25",
+      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
+      "sourceName": "VnExpress International Business",
+      "url": "https://e.vnexpress.net/news/business/economy/vietnam-domestic-airfares-hit-six-year-low-with-tickets-from-25-5095089.html"
+    },
+    {
+      "category": "Investment",
+      "title": "Dollar inches up against dong",
+      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
+      "sourceName": "VnExpress International Business",
+      "url": "https://e.vnexpress.net/news/business/markets/dollar-inches-up-against-dong-5095386.html"
+    },
     {
       "category": "Finance / Markets",
       "title": "Technology, finance firms pledge support for Hanoi",
@@ -16,32 +30,18 @@
       "url": "https://e.vnexpress.net/news/business/markets/dollar-gains-over-dong-5094946.html"
     },
     {
-      "category": "Vietnam Economy",
-      "title": "First Vietnamese facility approved to use gamma and X-ray irradiation on fruit exports",
-      "summary": "Vietnam economic news selected for business owners considering market entry, partnerships, or local setup.",
+      "category": "Green Economy",
+      "title": "Long An port becomes first Vietnamese company to win Asia-Pacific smart green award",
+      "summary": "Green-economy and compliance shifts can create opportunities for ESG, manufacturing, energy, and advisory-linked services.",
       "sourceName": "Vietnam News Economy",
-      "url": "https://vietnamnews.vn/economy/1785040/first-vietnamese-facility-approved-to-use-gamma-and-x-ray-irradiation-on-fruit-exports.html"
-    },
-    {
-      "category": "Infrastructure",
-      "title": "Eurasian bridge for ASEAN: Tamchy SFIT gives Vietnamese businesses access to new continental markets",
-      "summary": "Infrastructure movement can affect office, retail, logistics, industrial, and property-entry decisions for new Vietnam entrants.",
-      "sourceName": "Vietnam News Economy",
-      "url": "https://vietnamnews.vn/economy/1784985/eurasian-bridge-for-asean-tamchy-sfit-gives-vietnamese-businesses-access-to-new-continental-markets.html"
-    },
-    {
-      "category": "Finance / Markets",
-      "title": "CUKTECH Hosts Its First \"Charge & Connect\" Event, Officially Strengthening Its Presence In Vietnam’s Technology Market",
-      "summary": "Finance and market headlines help owners track confidence, currency pressure, consumer sentiment, and timing risk.",
-      "sourceName": "Vietnam News Economy",
-      "url": "https://vietnamnews.vn/media-outreach/1785048/cuktech-hosts-its-first-charge-connect-event-officially-strengthening-its-presence-in-vietnam-s-technology-market.html"
+      "url": "https://vietnamnews.vn/economy/1785145/long-an-port-becomes-first-vietnamese-company-to-win-asia-pacific-smart-green-award.html"
     },
     {
       "category": "Investment",
-      "title": "Vietnamese cuisine gains global spotlight through leaders’ street food moments",
+      "title": "HCM City launches AI platform to streamline investment promotion",
       "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
       "sourceName": "Vietnam News Economy",
-      "url": "https://vietnamnews.vn/life-style/1780452/vietnamese-cuisine-gains-global-spotlight-through-leaders-street-food-moments.html"
+      "url": "https://vietnamnews.vn/economy/1785115/hcm-city-launches-ai-platform-to-streamline-investment-promotion.html"
     }
   ]
 }
