@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-07-08T14:09:39.5265713+00:00",
+  "updatedAt": "2026-07-09T03:21:32.6860265+00:00",
   "items": [
+    {
+      "category": "Finance / Markets",
+      "title": "Technology, finance firms pledge support for Hanoi",
+      "summary": "Finance and market headlines help owners track confidence, currency pressure, consumer sentiment, and timing risk.",
+      "sourceName": "VnExpress International Business",
+      "url": "https://e.vnexpress.net/news/business/technology-finance-firms-pledge-support-for-hanoi-s-development-5093933.html"
+    },
     {
       "category": "Investment",
       "title": "Dollar gains over dong",
@@ -9,18 +16,11 @@
       "url": "https://e.vnexpress.net/news/business/markets/dollar-gains-over-dong-5094946.html"
     },
     {
-      "category": "Investment",
-      "title": "Dollar edges down against dong on black market",
-      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
-      "sourceName": "VnExpress International Business",
-      "url": "https://e.vnexpress.net/news/business/markets/dollar-edges-down-against-dong-on-black-market-5094554.html"
-    },
-    {
-      "category": "Finance / Markets",
-      "title": "Citi sees Vietnam as key market for social finance growth",
-      "summary": "Finance and market headlines help owners track confidence, currency pressure, consumer sentiment, and timing risk.",
-      "sourceName": "VnExpress International Business",
-      "url": "https://e.vnexpress.net/news/business/citi-sees-vietnam-as-key-market-for-social-finance-growth-5094375.html"
+      "category": "Vietnam Economy",
+      "title": "First Vietnamese facility approved to use gamma and X-ray irradiation on fruit exports",
+      "summary": "Vietnam economic news selected for business owners considering market entry, partnerships, or local setup.",
+      "sourceName": "Vietnam News Economy",
+      "url": "https://vietnamnews.vn/economy/1785040/first-vietnamese-facility-approved-to-use-gamma-and-x-ray-irradiation-on-fruit-exports.html"
     },
     {
       "category": "Infrastructure",
