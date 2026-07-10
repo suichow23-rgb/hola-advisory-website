@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-07-10T03:23:48.7185617+00:00",
+  "updatedAt": "2026-07-10T14:28:15.1755075+00:00",
   "items": [
+    {
+      "category": "Investment",
+      "title": "Dollar strengthens against dong",
+      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
+      "sourceName": "VnExpress International Business",
+      "url": "https://e.vnexpress.net/news/business/markets/dollar-strengthens-against-dong-5095826.html"
+    },
+    {
+      "category": "Investment",
+      "title": "Vietnam to remain Southeast Asia",
+      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
+      "sourceName": "VnExpress International Business",
+      "url": "https://e.vnexpress.net/news/business/economy/vietnam-to-remain-southeast-asia-s-fastest-growing-economy-adb-5095758.html"
+    },
     {
       "category": "Investment",
       "title": "Vietnam domestic airfares hit six-year low with tickets from $25",
@@ -16,32 +30,18 @@
       "url": "https://e.vnexpress.net/news/business/markets/dollar-inches-up-against-dong-5095386.html"
     },
     {
-      "category": "Finance / Markets",
-      "title": "Technology, finance firms pledge support for Hanoi",
-      "summary": "Finance and market headlines help owners track confidence, currency pressure, consumer sentiment, and timing risk.",
-      "sourceName": "VnExpress International Business",
-      "url": "https://e.vnexpress.net/news/business/technology-finance-firms-pledge-support-for-hanoi-s-development-5093933.html"
+      "category": "Vietnam Economy",
+      "title": "Suntory PepsiCo Vietnam’s largest manufacturing facility in Việt Nam opened",
+      "summary": "Vietnam economic news selected for business owners considering market entry, partnerships, or local setup.",
+      "sourceName": "Vietnam News Economy",
+      "url": "https://vietnamnews.vn/economy/1785220/suntory-pepsico-vietnam-s-largest-manufacturing-facility-in-viet-nam-opened.html"
     },
     {
       "category": "Investment",
-      "title": "Dollar gains over dong",
-      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
-      "sourceName": "VnExpress International Business",
-      "url": "https://e.vnexpress.net/news/business/markets/dollar-gains-over-dong-5094946.html"
-    },
-    {
-      "category": "Green Economy",
-      "title": "Long An port becomes first Vietnamese company to win Asia-Pacific smart green award",
-      "summary": "Green-economy and compliance shifts can create opportunities for ESG, manufacturing, energy, and advisory-linked services.",
-      "sourceName": "Vietnam News Economy",
-      "url": "https://vietnamnews.vn/economy/1785145/long-an-port-becomes-first-vietnamese-company-to-win-asia-pacific-smart-green-award.html"
-    },
-    {
-      "category": "Investment",
-      "title": "HCM City launches AI platform to streamline investment promotion",
+      "title": "Vietnam Airlines expands Northeast Asia network as travel demand rises",
       "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
       "sourceName": "Vietnam News Economy",
-      "url": "https://vietnamnews.vn/economy/1785115/hcm-city-launches-ai-platform-to-streamline-investment-promotion.html"
+      "url": "https://vietnamnews.vn/economy/1785084/vietnam-airlines-expands-northeast-asia-network-as-travel-demand-rises.html"
     }
   ]
 }
