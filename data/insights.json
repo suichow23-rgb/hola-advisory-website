@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-07-13T02:51:15.0561661+00:00",
+  "updatedAt": "2026-07-13T14:35:37.8429831+00:00",
   "items": [
+    {
+      "category": "Investment",
+      "title": "Dollar slips against dong",
+      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
+      "sourceName": "VnExpress International Business",
+      "url": "https://e.vnexpress.net/news/business/markets/dollar-slips-against-dong-5096788.html"
+    },
+    {
+      "category": "Investment",
+      "title": "Home Credit Vietnam earns recognition for finance, sustainability initiatives",
+      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
+      "sourceName": "VnExpress International Business",
+      "url": "https://e.vnexpress.net/news/business/home-credit-vietnam-earns-recognition-for-finance-sustainability-initiatives-5096802.html"
+    },
     {
       "category": "Investment",
       "title": "Singapore lender UOB raises Vietnam economic growth forecast to 8.5%",
@@ -10,24 +24,10 @@
     },
     {
       "category": "Finance / Markets",
-      "title": "Techcombank co-organizes Vietnam Financial Forum 2026",
+      "title": "Supermarkets expand promotion of OCOP, Vietnamese products",
       "summary": "Finance and market headlines help owners track confidence, currency pressure, consumer sentiment, and timing risk.",
-      "sourceName": "VnExpress International Business",
-      "url": "https://e.vnexpress.net/news/business/techcombank-co-organizes-vietnam-financial-forum-2026-5096003.html"
-    },
-    {
-      "category": "Investment",
-      "title": "Dollar strengthens against dong",
-      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
-      "sourceName": "VnExpress International Business",
-      "url": "https://e.vnexpress.net/news/business/markets/dollar-strengthens-against-dong-5095826.html"
-    },
-    {
-      "category": "Investment",
-      "title": "Vietnam to remain Southeast Asia",
-      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
-      "sourceName": "VnExpress International Business",
-      "url": "https://e.vnexpress.net/news/business/economy/vietnam-to-remain-southeast-asia-s-fastest-growing-economy-adb-5095758.html"
+      "sourceName": "Vietnam News Economy",
+      "url": "https://vietnamnews.vn/economy/1785317/supermarkets-expand-promotion-of-ocop-vietnamese-products.html"
     },
     {
       "category": "Vietnam Economy",
