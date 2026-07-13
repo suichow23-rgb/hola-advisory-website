@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-12T13:20:51.4844731+00:00",
+  "updatedAt": "2026-07-13T02:51:15.0561661+00:00",
   "items": [
     {
       "category": "Investment",
@@ -31,17 +31,17 @@
     },
     {
       "category": "Vietnam Economy",
+      "title": "Vietnamese steelmakers find growth momentum despite export challenges",
+      "summary": "Vietnam economic news selected for business owners considering market entry, partnerships, or local setup.",
+      "sourceName": "Vietnam News Economy",
+      "url": "https://vietnamnews.vn/economy/1785270/vietnamese-steelmakers-find-growth-momentum-despite-export-challenges.html"
+    },
+    {
+      "category": "Vietnam Economy",
       "title": "Suntory PepsiCo Vietnam’s largest manufacturing facility in Việt Nam opened",
       "summary": "Vietnam economic news selected for business owners considering market entry, partnerships, or local setup.",
       "sourceName": "Vietnam News Economy",
       "url": "https://vietnamnews.vn/economy/1785220/suntory-pepsico-vietnam-s-largest-manufacturing-facility-in-viet-nam-opened.html"
-    },
-    {
-      "category": "Investment",
-      "title": "Vietnam Airlines expands Northeast Asia network as travel demand rises",
-      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
-      "sourceName": "Vietnam News Economy",
-      "url": "https://vietnamnews.vn/economy/1785084/vietnam-airlines-expands-northeast-asia-network-as-travel-demand-rises.html"
     }
   ]
 }
