@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-07-14T02:32:17.6350335+00:00",
+  "updatedAt": "2026-07-14T13:44:54.6828093+00:00",
   "items": [
+    {
+      "category": "Finance / Markets",
+      "title": "China overtakes US as Vietnam’s largest seafood market",
+      "summary": "Finance and market headlines help owners track confidence, currency pressure, consumer sentiment, and timing risk.",
+      "sourceName": "VnExpress International Business",
+      "url": "https://e.vnexpress.net/news/business/economy/china-overtakes-us-as-vietnam-s-largest-seafood-market-5097235.html"
+    },
+    {
+      "category": "Investment",
+      "title": "Dollar falls against dong",
+      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
+      "sourceName": "VnExpress International Business",
+      "url": "https://e.vnexpress.net/news/business/markets/dollar-falls-against-dong-5097241.html"
+    },
     {
       "category": "Investment",
       "title": "Dollar slips against dong",
@@ -17,13 +31,6 @@
     },
     {
       "category": "Investment",
-      "title": "Singapore lender UOB raises Vietnam economic growth forecast to 8.5%",
-      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
-      "sourceName": "VnExpress International Business",
-      "url": "https://e.vnexpress.net/news/business/economy/singapore-lender-uob-raises-vietnam-economic-growth-forecast-to-8-5-5095766.html"
-    },
-    {
-      "category": "Investment",
       "title": "Vietnam Airlines shares to resume normal trading after HoSE lifts restrictions",
       "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
       "sourceName": "Vietnam News Economy",
@@ -31,17 +38,10 @@
     },
     {
       "category": "Finance / Markets",
-      "title": "Supermarkets expand promotion of OCOP, Vietnamese products",
+      "title": "Young Vietnamese singer wins gold at Asia Arts Festival",
       "summary": "Finance and market headlines help owners track confidence, currency pressure, consumer sentiment, and timing risk.",
       "sourceName": "Vietnam News Economy",
-      "url": "https://vietnamnews.vn/economy/1785317/supermarkets-expand-promotion-of-ocop-vietnamese-products.html"
-    },
-    {
-      "category": "Vietnam Economy",
-      "title": "Vietnamese steelmakers find growth momentum despite export challenges",
-      "summary": "Vietnam economic news selected for business owners considering market entry, partnerships, or local setup.",
-      "sourceName": "Vietnam News Economy",
-      "url": "https://vietnamnews.vn/economy/1785270/vietnamese-steelmakers-find-growth-momentum-despite-export-challenges.html"
+      "url": "https://vietnamnews.vn/life-style/1785416/young-vietnamese-singer-wins-gold-at-asia-arts-festival.html"
     }
   ]
 }
