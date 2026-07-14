@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-13T14:35:37.8429831+00:00",
+  "updatedAt": "2026-07-14T02:32:17.6350335+00:00",
   "items": [
     {
       "category": "Investment",
@@ -23,6 +23,13 @@
       "url": "https://e.vnexpress.net/news/business/economy/singapore-lender-uob-raises-vietnam-economic-growth-forecast-to-8-5-5095766.html"
     },
     {
+      "category": "Investment",
+      "title": "Vietnam Airlines shares to resume normal trading after HoSE lifts restrictions",
+      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
+      "sourceName": "Vietnam News Economy",
+      "url": "https://vietnamnews.vn/economy/1785353/vietnam-airlines-shares-to-resume-normal-trading-after-hose-lifts-restrictions.html"
+    },
+    {
       "category": "Finance / Markets",
       "title": "Supermarkets expand promotion of OCOP, Vietnamese products",
       "summary": "Finance and market headlines help owners track confidence, currency pressure, consumer sentiment, and timing risk.",
@@ -35,13 +42,6 @@
       "summary": "Vietnam economic news selected for business owners considering market entry, partnerships, or local setup.",
       "sourceName": "Vietnam News Economy",
       "url": "https://vietnamnews.vn/economy/1785270/vietnamese-steelmakers-find-growth-momentum-despite-export-challenges.html"
-    },
-    {
-      "category": "Vietnam Economy",
-      "title": "Suntory PepsiCo Vietnam’s largest manufacturing facility in Việt Nam opened",
-      "summary": "Vietnam economic news selected for business owners considering market entry, partnerships, or local setup.",
-      "sourceName": "Vietnam News Economy",
-      "url": "https://vietnamnews.vn/economy/1785220/suntory-pepsico-vietnam-s-largest-manufacturing-facility-in-viet-nam-opened.html"
     }
   ]
 }
