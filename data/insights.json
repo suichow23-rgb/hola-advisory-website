@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-07-16T02:38:21.8521059+00:00",
+  "updatedAt": "2026-07-16T13:52:01.8424345+00:00",
   "items": [
+    {
+      "category": "Investment",
+      "title": "Dollar hovers at 3-week low against dong",
+      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
+      "sourceName": "VnExpress International Business",
+      "url": "https://e.vnexpress.net/news/business/markets/dollar-hovers-at-3-week-low-against-dong-5098113.html"
+    },
     {
       "category": "Investment",
       "title": "Dollar slides against dong on black market",
@@ -9,18 +16,18 @@
       "url": "https://e.vnexpress.net/news/business/markets/dollar-slides-against-dong-on-black-market-5097701.html"
     },
     {
-      "category": "Finance / Markets",
-      "title": "China overtakes US as Vietnam’s largest seafood market",
-      "summary": "Finance and market headlines help owners track confidence, currency pressure, consumer sentiment, and timing risk.",
-      "sourceName": "VnExpress International Business",
-      "url": "https://e.vnexpress.net/news/business/economy/china-overtakes-us-as-vietnam-s-largest-seafood-market-5097235.html"
+      "category": "Investment",
+      "title": "HCM City targets high-quality FDI to drive green growth, sustainable development",
+      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
+      "sourceName": "Vietnam News Economy",
+      "url": "https://vietnamnews.vn/economy/1785580/hcm-city-targets-high-quality-fdi-to-drive-green-growth-sustainable-development.html"
     },
     {
-      "category": "Investment",
-      "title": "Dollar falls against dong",
-      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
-      "sourceName": "VnExpress International Business",
-      "url": "https://e.vnexpress.net/news/business/markets/dollar-falls-against-dong-5097241.html"
+      "category": "Green Economy",
+      "title": "Energy independence becomes strategic priority for Vietnamese businesses",
+      "summary": "Green-economy and compliance shifts can create opportunities for ESG, manufacturing, energy, and advisory-linked services.",
+      "sourceName": "Vietnam News Economy",
+      "url": "https://vietnamnews.vn/economy/1785578/energy-independence-becomes-strategic-priority-for-vietnamese-businesses.html"
     },
     {
       "category": "Green Economy",
@@ -35,13 +42,6 @@
       "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
       "sourceName": "Vietnam News Economy",
       "url": "https://vietnamnews.vn/life-style/1780452/vietnamese-cuisine-gains-global-spotlight-through-leaders-street-food-moments.html"
-    },
-    {
-      "category": "Investment",
-      "title": "Vietnam Investment Review - VIR",
-      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
-      "sourceName": "Vietnam Investment Review",
-      "url": "https://vir.com.vn/"
     }
   ]
 }
