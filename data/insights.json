@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-07-17T02:41:30.1686474+00:00",
+  "updatedAt": "2026-07-17T13:38:53.7203370+00:00",
   "items": [
+    {
+      "category": "Investment",
+      "title": "Dollar weakens against dong",
+      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
+      "sourceName": "VnExpress International Business",
+      "url": "https://e.vnexpress.net/news/business/markets/dollar-weakens-against-dong-5098525.html"
+    },
     {
       "category": "Investment",
       "title": "Dollar hovers at 3-week low against dong",
@@ -10,10 +17,24 @@
     },
     {
       "category": "Investment",
-      "title": "Dollar slides against dong on black market",
+      "title": "HCM City proposes subsidies to help firms hire AI, chip experts",
       "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
-      "sourceName": "VnExpress International Business",
-      "url": "https://e.vnexpress.net/news/business/markets/dollar-slides-against-dong-on-black-market-5097701.html"
+      "sourceName": "Vietnam News Economy",
+      "url": "https://vietnamnews.vn/economy/1785653/hcm-city-proposes-subsidies-to-help-firms-hire-ai-chip-experts.html"
+    },
+    {
+      "category": "Finance / Markets",
+      "title": "MoIT, Vietnam Post partner to expand market for Vietnamese goods",
+      "summary": "Finance and market headlines help owners track confidence, currency pressure, consumer sentiment, and timing risk.",
+      "sourceName": "Vietnam News Economy",
+      "url": "https://vietnamnews.vn/economy/1785640/moit-vietnam-post-partner-to-expand-market-for-vietnamese-goods.html"
+    },
+    {
+      "category": "Green Economy",
+      "title": "BIDV becomes first Vietnamese bank to join global carbon accounting alliance",
+      "summary": "Green-economy and compliance shifts can create opportunities for ESG, manufacturing, energy, and advisory-linked services.",
+      "sourceName": "Vietnam News Economy",
+      "url": "https://vietnamnews.vn/economy/1785639/bidv-becomes-first-vietnamese-bank-to-join-global-carbon-accounting-alliance.html"
     },
     {
       "category": "Finance / Markets",
@@ -21,27 +42,6 @@
       "summary": "Finance and market headlines help owners track confidence, currency pressure, consumer sentiment, and timing risk.",
       "sourceName": "Vietnam News Economy",
       "url": "https://vietnamnews.vn/economy/1785621/aeon-vietnam-opens-its-first-aeon-maxvalu-supermarket-in-hcm-city.html"
-    },
-    {
-      "category": "Investment",
-      "title": "HCM City targets high-quality FDI to drive green growth, sustainable development",
-      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
-      "sourceName": "Vietnam News Economy",
-      "url": "https://vietnamnews.vn/economy/1785580/hcm-city-targets-high-quality-fdi-to-drive-green-growth-sustainable-development.html"
-    },
-    {
-      "category": "Green Economy",
-      "title": "Energy independence becomes strategic priority for Vietnamese businesses",
-      "summary": "Green-economy and compliance shifts can create opportunities for ESG, manufacturing, energy, and advisory-linked services.",
-      "sourceName": "Vietnam News Economy",
-      "url": "https://vietnamnews.vn/economy/1785578/energy-independence-becomes-strategic-priority-for-vietnamese-businesses.html"
-    },
-    {
-      "category": "Investment",
-      "title": "Vietnamese cuisine gains global spotlight through leaders’ street food moments",
-      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
-      "sourceName": "Vietnam News Economy",
-      "url": "https://vietnamnews.vn/life-style/1780452/vietnamese-cuisine-gains-global-spotlight-through-leaders-street-food-moments.html"
     }
   ]
 }
