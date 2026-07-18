@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-07-18T02:32:21.5163680+00:00",
+  "updatedAt": "2026-07-18T13:16:25.7534529+00:00",
   "items": [
+    {
+      "category": "Investment",
+      "title": "Dollar slips against dong on black market",
+      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
+      "sourceName": "VnExpress International Business",
+      "url": "https://e.vnexpress.net/news/business/markets/dollar-slips-against-dong-on-black-market-5098850.html"
+    },
     {
       "category": "Investment",
       "title": "Dollar weakens against dong",
@@ -10,38 +17,31 @@
     },
     {
       "category": "Investment",
-      "title": "Dollar hovers at 3-week low against dong",
+      "title": "AI platform launched to strengthen traceability of Vietnamese farm produce",
       "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
-      "sourceName": "VnExpress International Business",
-      "url": "https://e.vnexpress.net/news/business/markets/dollar-hovers-at-3-week-low-against-dong-5098113.html"
+      "sourceName": "Vietnam News Economy",
+      "url": "https://vietnamnews.vn/economy/1785693/ai-platform-launched-to-strengthen-traceability-of-vietnamese-farm-produce.html"
     },
     {
       "category": "Investment",
-      "title": "Vietnam Investment Review - VIR",
+      "title": "HCM City proposes subsidies to help firms hire AI, chip experts",
       "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
-      "sourceName": "Vietnam Investment Review",
-      "url": "https://vir.com.vn/"
+      "sourceName": "Vietnam News Economy",
+      "url": "https://vietnamnews.vn/economy/1785653/hcm-city-proposes-subsidies-to-help-firms-hire-ai-chip-experts.html"
     },
     {
       "category": "Finance / Markets",
-      "title": "Vietnam emerges as promising market for US ethanol",
+      "title": "MoIT, Vietnam Post partner to expand market for Vietnamese goods",
       "summary": "Finance and market headlines help owners track confidence, currency pressure, consumer sentiment, and timing risk.",
-      "sourceName": "Vietnam Investment Review",
-      "url": "https://vir.com.vn/vietnam-emerges-as-promising-market-for-us-ethanol-156860.html"
+      "sourceName": "Vietnam News Economy",
+      "url": "https://vietnamnews.vn/economy/1785640/moit-vietnam-post-partner-to-expand-market-for-vietnamese-goods.html"
     },
     {
       "category": "Green Economy",
-      "title": "Vietnam could cut emissions by 3 per cent with $15-per-tonne carbon tax",
+      "title": "BIDV becomes first Vietnamese bank to join global carbon accounting alliance",
       "summary": "Green-economy and compliance shifts can create opportunities for ESG, manufacturing, energy, and advisory-linked services.",
-      "sourceName": "Vietnam Investment Review",
-      "url": "https://vir.com.vn/vietnam-could-cut-emissions-by-3-per-cent-with-15-per-tonne-carbon-tax-156667.html"
-    },
-    {
-      "category": "Investment",
-      "title": "Private and foreign-invested enterprises remain Vietnam",
-      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
-      "sourceName": "Vietnam Investment Review",
-      "url": "https://vir.com.vn/private-and-foreign-invested-enterprises-remain-vietnams-largest-job-creators-156774.html"
+      "sourceName": "Vietnam News Economy",
+      "url": "https://vietnamnews.vn/economy/1785639/bidv-becomes-first-vietnamese-bank-to-join-global-carbon-accounting-alliance.html"
     }
   ]
 }
