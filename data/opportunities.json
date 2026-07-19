@@ -1,50 +1,6 @@
 {
-  "updatedAt": "2026-07-18T13:16:27.4756091+00:00",
+  "updatedAt": "2026-07-19T02:46:07.9496259+00:00",
   "items": [
-    {
-      "type": "sale",
-      "category": "Business For Sale",
-      "title": "Successful Established Coworking, Cafe, And Rooftop Spa",
-      "summary": "Automatically discovered public lead. Verify seller identity, financials, ownership, availability, and terms before presenting to any buyer.",
-      "location": "Vietnam",
-      "price": "Check source",
-      "sourceName": "BusinessesForSale Vietnam",
-      "url": "https://www.businessesforsale.com/successful-established-coworking-cafe-and-rooftop-spa.aspx",
-      "verificationStatus": "Public source only"
-    },
-    {
-      "type": "sale",
-      "category": "Business For Sale",
-      "title": "Beachfront Hotel In Vietnam",
-      "summary": "Automatically discovered public lead. Verify seller identity, financials, ownership, availability, and terms before presenting to any buyer.",
-      "location": "Vietnam",
-      "price": "Check source",
-      "sourceName": "BusinessesForSale Vietnam",
-      "url": "https://www.businessesforsale.com/beachfront-hotel-in-vietnam.aspx",
-      "verificationStatus": "Public source only"
-    },
-    {
-      "type": "sale",
-      "category": "Business For Sale",
-      "title": "Software Development Company",
-      "summary": "Automatically discovered public lead. Verify seller identity, financials, ownership, availability, and terms before presenting to any buyer.",
-      "location": "Vietnam",
-      "price": "Check source",
-      "sourceName": "BusinessesForSale Vietnam",
-      "url": "https://www.businessesforsale.com/software-development-company-for-sale-1.aspx",
-      "verificationStatus": "Public source only"
-    },
-    {
-      "type": "sale",
-      "category": "Business For Sale",
-      "title": "PET Bottles Manufacturing Business",
-      "summary": "Automatically discovered public lead. Verify seller identity, financials, ownership, availability, and terms before presenting to any buyer.",
-      "location": "Vietnam",
-      "price": "Check source",
-      "sourceName": "BusinessesForSale Vietnam",
-      "url": "https://www.businessesforsale.com/pet-bottles-manufacturing-business-for-sale.aspx",
-      "verificationStatus": "Public source only"
-    },
     {
       "type": "franchise",
       "category": "Franchise",
@@ -87,6 +43,50 @@
       "price": "Check source",
       "sourceName": "SMERGERS",
       "url": "https://www.smergers.com/businesses-for-sale-near-me/t2x215b/",
+      "verificationStatus": "Public source only"
+    },
+    {
+      "type": "sale",
+      "category": "Business For Sale",
+      "title": "Startup Investors",
+      "summary": "Automatically discovered public lead. Verify seller identity, financials, ownership, availability, and terms before presenting to any buyer.",
+      "location": "Vietnam",
+      "price": "Check source",
+      "sourceName": "SMERGERS",
+      "url": "https://www.smergers.com/startup-investors/t2x144i/",
+      "verificationStatus": "Public source only"
+    },
+    {
+      "type": "franchise",
+      "category": "Franchise",
+      "title": "Business for Sale by Owner",
+      "summary": "Automatically discovered public lead. Verify seller identity, financials, ownership, availability, and terms before presenting to any buyer.",
+      "location": "Vietnam",
+      "price": "Check source",
+      "sourceName": "SMERGERS",
+      "url": "https://www.smergers.com/businesses-for-sale-by-owner/t2x75b/",
+      "verificationStatus": "Public source only"
+    },
+    {
+      "type": "franchise",
+      "category": "Franchise",
+      "title": "Startups for Sale",
+      "summary": "Automatically discovered public lead. Verify seller identity, financials, ownership, availability, and terms before presenting to any buyer.",
+      "location": "Vietnam",
+      "price": "Check source",
+      "sourceName": "SMERGERS",
+      "url": "https://www.smergers.com/startups-for-sale/t2x76b/",
+      "verificationStatus": "Public source only"
+    },
+    {
+      "type": "franchise",
+      "category": "Franchise",
+      "title": "Manufacturing Business for Sale",
+      "summary": "Automatically discovered public lead. Verify seller identity, financials, ownership, availability, and terms before presenting to any buyer.",
+      "location": "Vietnam",
+      "price": "Check source",
+      "sourceName": "SMERGERS",
+      "url": "https://www.smergers.com/manufacturing-businesses-for-sale-and-investment/x88b/",
       "verificationStatus": "Public source only"
     }
   ]
