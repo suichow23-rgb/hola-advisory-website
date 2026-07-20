@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-19T13:18:40.0502159+00:00",
+  "updatedAt": "2026-07-20T03:15:38.5435712+00:00",
   "items": [
     {
       "category": "Investment",
@@ -17,6 +17,13 @@
     },
     {
       "category": "Investment",
+      "title": "Vietnam AI Innovation Challenge 2026 spotlights real-world AI solutions",
+      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
+      "sourceName": "Vietnam News Economy",
+      "url": "https://vietnamnews.vn/economy/1785763/vietnam-ai-innovation-challenge-2026-spotlights-real-world-ai-solutions.html"
+    },
+    {
+      "category": "Investment",
       "title": "AI platform launched to strengthen traceability of Vietnamese farm produce",
       "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
       "sourceName": "Vietnam News Economy",
@@ -24,24 +31,17 @@
     },
     {
       "category": "Investment",
-      "title": "HCM City proposes subsidies to help firms hire AI, chip experts",
+      "title": "Fairmont Hanoi brings new momentum to Hà Nội’s MICE tourism ambitions",
       "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
       "sourceName": "Vietnam News Economy",
-      "url": "https://vietnamnews.vn/economy/1785653/hcm-city-proposes-subsidies-to-help-firms-hire-ai-chip-experts.html"
+      "url": "https://vietnamnews.vn/brandinfo/1785675/fairmont-hanoi-brings-new-momentum-to-ha-noi-s-mice-tourism-ambitions.html"
     },
     {
-      "category": "Finance / Markets",
-      "title": "MoIT, Vietnam Post partner to expand market for Vietnamese goods",
-      "summary": "Finance and market headlines help owners track confidence, currency pressure, consumer sentiment, and timing risk.",
+      "category": "Investment",
+      "title": "Vietnamese cuisine gains global spotlight through leaders’ street food moments",
+      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
       "sourceName": "Vietnam News Economy",
-      "url": "https://vietnamnews.vn/economy/1785640/moit-vietnam-post-partner-to-expand-market-for-vietnamese-goods.html"
-    },
-    {
-      "category": "Green Economy",
-      "title": "BIDV becomes first Vietnamese bank to join global carbon accounting alliance",
-      "summary": "Green-economy and compliance shifts can create opportunities for ESG, manufacturing, energy, and advisory-linked services.",
-      "sourceName": "Vietnam News Economy",
-      "url": "https://vietnamnews.vn/economy/1785639/bidv-becomes-first-vietnamese-bank-to-join-global-carbon-accounting-alliance.html"
+      "url": "https://vietnamnews.vn/life-style/1780452/vietnamese-cuisine-gains-global-spotlight-through-leaders-street-food-moments.html"
     }
   ]
 }
