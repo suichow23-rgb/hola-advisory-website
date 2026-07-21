@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-07-20T14:07:03.3472651+00:00",
+  "updatedAt": "2026-07-21T02:43:58.6622551+00:00",
   "items": [
+    {
+      "category": "Investment",
+      "title": "Standard Chartered raises Vietnam’s 2026 GDP growth forecast to 9.5%",
+      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
+      "sourceName": "VnExpress International Business",
+      "url": "https://e.vnexpress.net/news/business/economy/standard-chartered-raises-vietnam-s-2026-gdp-growth-forecast-to-9-5-5099584.html"
+    },
     {
       "category": "Investment",
       "title": "Dollar rises against dong on black market",
@@ -23,25 +30,18 @@
       "url": "https://e.vnexpress.net/news/business/markets/dollar-weakens-against-dong-5098525.html"
     },
     {
+      "category": "Finance / Markets",
+      "title": "Winning global markets starts with protecting Vietnamese brands",
+      "summary": "Finance and market headlines help owners track confidence, currency pressure, consumer sentiment, and timing risk.",
+      "sourceName": "Vietnam News Economy",
+      "url": "https://vietnamnews.vn/economy/1785811/winning-global-markets-starts-with-protecting-vietnamese-brands.html"
+    },
+    {
       "category": "Investment",
       "title": "VN-Index posts strongest daily fall in nearly four months",
       "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
       "sourceName": "Vietnam News Economy",
       "url": "https://vietnamnews.vn/economy/1785808/vn-index-posts-strongest-daily-fall-in-nearly-four-months.html"
-    },
-    {
-      "category": "Investment",
-      "title": "Vietnam AI Innovation Challenge 2026 spotlights real-world AI solutions",
-      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
-      "sourceName": "Vietnam News Economy",
-      "url": "https://vietnamnews.vn/economy/1785763/vietnam-ai-innovation-challenge-2026-spotlights-real-world-ai-solutions.html"
-    },
-    {
-      "category": "Investment",
-      "title": "AI platform launched to strengthen traceability of Vietnamese farm produce",
-      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
-      "sourceName": "Vietnam News Economy",
-      "url": "https://vietnamnews.vn/economy/1785693/ai-platform-launched-to-strengthen-traceability-of-vietnamese-farm-produce.html"
     }
   ]
 }
