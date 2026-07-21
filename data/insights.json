@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-07-21T02:43:58.6622551+00:00",
+  "updatedAt": "2026-07-21T13:51:27.1483425+00:00",
   "items": [
+    {
+      "category": "Investment",
+      "title": "Dollar strengthens against dong",
+      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
+      "sourceName": "VnExpress International Business",
+      "url": "https://e.vnexpress.net/news/business/markets/dollar-strengthens-against-dong-5099895.html"
+    },
     {
       "category": "Investment",
       "title": "Standard Chartered raises Vietnam’s 2026 GDP growth forecast to 9.5%",
@@ -21,13 +28,6 @@
       "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
       "sourceName": "VnExpress International Business",
       "url": "https://e.vnexpress.net/news/business/markets/dollar-slips-against-dong-on-black-market-5098850.html"
-    },
-    {
-      "category": "Investment",
-      "title": "Dollar weakens against dong",
-      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
-      "sourceName": "VnExpress International Business",
-      "url": "https://e.vnexpress.net/news/business/markets/dollar-weakens-against-dong-5098525.html"
     },
     {
       "category": "Finance / Markets",
