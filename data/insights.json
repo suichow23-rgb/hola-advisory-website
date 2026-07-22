@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-21T13:51:27.1483425+00:00",
+  "updatedAt": "2026-07-22T02:41:22.8191288+00:00",
   "items": [
     {
       "category": "Investment",
@@ -24,10 +24,17 @@
     },
     {
       "category": "Investment",
-      "title": "Dollar slips against dong on black market",
+      "title": "VN-Index falls for third straight session",
       "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
-      "sourceName": "VnExpress International Business",
-      "url": "https://e.vnexpress.net/news/business/markets/dollar-slips-against-dong-on-black-market-5098850.html"
+      "sourceName": "Vietnam News Economy",
+      "url": "https://vietnamnews.vn/economy/1785908/vn-index-falls-for-third-straight-session.html"
+    },
+    {
+      "category": "Finance / Markets",
+      "title": "First Czech pork shipment officially enters Vietnamese market",
+      "summary": "Finance and market headlines help owners track confidence, currency pressure, consumer sentiment, and timing risk.",
+      "sourceName": "Vietnam News Economy",
+      "url": "https://vietnamnews.vn/economy/1785915/first-czech-pork-shipment-officially-enters-vietnamese-market.html"
     },
     {
       "category": "Finance / Markets",
@@ -35,13 +42,6 @@
       "summary": "Finance and market headlines help owners track confidence, currency pressure, consumer sentiment, and timing risk.",
       "sourceName": "Vietnam News Economy",
       "url": "https://vietnamnews.vn/economy/1785811/winning-global-markets-starts-with-protecting-vietnamese-brands.html"
-    },
-    {
-      "category": "Investment",
-      "title": "VN-Index posts strongest daily fall in nearly four months",
-      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
-      "sourceName": "Vietnam News Economy",
-      "url": "https://vietnamnews.vn/economy/1785808/vn-index-posts-strongest-daily-fall-in-nearly-four-months.html"
     }
   ]
 }
