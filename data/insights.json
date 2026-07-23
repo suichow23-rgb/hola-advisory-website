@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-07-23T02:47:04.0593861+00:00",
+  "updatedAt": "2026-07-23T14:01:26.0561115+00:00",
   "items": [
+    {
+      "category": "Investment",
+      "title": "Dollar edges up against dong on black market",
+      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
+      "sourceName": "VnExpress International Business",
+      "url": "https://e.vnexpress.net/news/business/markets/dollar-edges-up-against-dong-on-black-market-5100691.html"
+    },
+    {
+      "category": "Investment",
+      "title": "Stock market selloff wipes out $3.1B in a day for Vietnamese billionaires",
+      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
+      "sourceName": "VnExpress International Business",
+      "url": "https://e.vnexpress.net/news/business/billionaires/stock-market-selloff-wipes-out-3-1b-in-a-day-for-vietnamese-billionaires-5100676.html"
+    },
+    {
+      "category": "Vietnam Economy",
+      "title": "Citi discusses economic cooperation with Vietnam",
+      "summary": "Vietnam economic news selected for business owners considering market entry, partnerships, or local setup.",
+      "sourceName": "VnExpress International Business",
+      "url": "https://e.vnexpress.net/news/business/citi-discusses-economic-cooperation-with-vietnam-s-ambassador-to-us-5100499.html"
+    },
     {
       "category": "Investment",
       "title": "Dollar strengthens against dong",
@@ -9,11 +30,11 @@
       "url": "https://e.vnexpress.net/news/business/markets/dollar-strengthens-against-dong-5100327.html"
     },
     {
-      "category": "Investment",
-      "title": "Standard Chartered raises Vietnam’s 2026 GDP growth forecast to 9.5%",
-      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
-      "sourceName": "VnExpress International Business",
-      "url": "https://e.vnexpress.net/news/business/economy/standard-chartered-raises-vietnam-s-2026-gdp-growth-forecast-to-9-5-5099584.html"
+      "category": "Property",
+      "title": "Innovation, intellectual property key to strengthening Vietnamese brands: forum",
+      "summary": "Property and real-estate movement can affect office, retail, industrial, and workspace-entry planning.",
+      "sourceName": "Vietnam News Economy",
+      "url": "https://vietnamnews.vn/economy/1796038/innovation-intellectual-property-key-to-strengthening-vietnamese-brands-forum.html"
     },
     {
       "category": "Investment",
@@ -21,27 +42,6 @@
       "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
       "sourceName": "Vietnam News Economy",
       "url": "https://vietnamnews.vn/economy/1795945/vietnam-airlines-plans-to-lease-19-boeing-737-max-8-aircraft.html"
-    },
-    {
-      "category": "Finance / Markets",
-      "title": "A gateway for Vietnamese goods to the South American market",
-      "summary": "Finance and market headlines help owners track confidence, currency pressure, consumer sentiment, and timing risk.",
-      "sourceName": "Vietnam News Economy",
-      "url": "https://vietnamnews.vn/economy/1785897/a-gateway-for-vietnamese-goods-to-the-south-american-market.html"
-    },
-    {
-      "category": "Investment",
-      "title": "Foreign bubble tea chains intensify competition in Vietnamese market",
-      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
-      "sourceName": "Vietnam News Economy",
-      "url": "https://vietnamnews.vn/economy/1785891/foreign-bubble-tea-chains-intensify-competition-in-vietnamese-market.html"
-    },
-    {
-      "category": "Investment",
-      "title": "VN-Index falls for third straight session",
-      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
-      "sourceName": "Vietnam News Economy",
-      "url": "https://vietnamnews.vn/economy/1785908/vn-index-falls-for-third-straight-session.html"
     }
   ]
 }
