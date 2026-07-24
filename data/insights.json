@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-07-24T02:42:46.4526798+00:00",
+  "updatedAt": "2026-07-24T13:46:21.5836107+00:00",
   "items": [
+    {
+      "category": "Investment",
+      "title": "Dollar rises against dong",
+      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
+      "sourceName": "VnExpress International Business",
+      "url": "https://e.vnexpress.net/news/business/markets/dollar-rises-against-dong-5101176.html"
+    },
     {
       "category": "Investment",
       "title": "Dollar edges up against dong on black market",
@@ -10,38 +17,31 @@
     },
     {
       "category": "Investment",
-      "title": "Stock market selloff wipes out $3.1B in a day for Vietnamese billionaires",
+      "title": "Market dips, VN-Index falls below 1,700 threshold again",
       "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
-      "sourceName": "VnExpress International Business",
-      "url": "https://e.vnexpress.net/news/business/billionaires/stock-market-selloff-wipes-out-3-1b-in-a-day-for-vietnamese-billionaires-5100676.html"
-    },
-    {
-      "category": "Vietnam Economy",
-      "title": "Citi discusses economic cooperation with Vietnam",
-      "summary": "Vietnam economic news selected for business owners considering market entry, partnerships, or local setup.",
-      "sourceName": "VnExpress International Business",
-      "url": "https://e.vnexpress.net/news/business/citi-discusses-economic-cooperation-with-vietnam-s-ambassador-to-us-5100499.html"
-    },
-    {
-      "category": "Property",
-      "title": "Innovation, intellectual property key to strengthening Vietnamese brands: forum",
-      "summary": "Property and real-estate movement can affect office, retail, industrial, and workspace-entry planning.",
       "sourceName": "Vietnam News Economy",
-      "url": "https://vietnamnews.vn/economy/1796038/innovation-intellectual-property-key-to-strengthening-vietnamese-brands-forum.html"
+      "url": "https://vietnamnews.vn/economy/1796162/market-dips-vn-index-falls-below-1-700-threshold-again.html"
     },
     {
       "category": "Investment",
-      "title": "Commercial service units gain attention as urban development reshapes HCM City market",
+      "title": "Efforts stepped up to bring Vietnamese products into supply chains in Argentina",
       "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
       "sourceName": "Vietnam News Economy",
-      "url": "https://vietnamnews.vn/brandinfo/1796010/commercial-service-units-gain-attention-as-urban-development-reshapes-hcm-city-market.html"
+      "url": "https://vietnamnews.vn/economy/1796125/efforts-stepped-up-to-bring-vietnamese-products-into-supply-chains-in-argentina.html"
     },
     {
-      "category": "Investment",
-      "title": "Vietnamese cuisine gains global spotlight through leaders’ street food moments",
-      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
+      "category": "Infrastructure",
+      "title": "Vinhomes Advances Two ESG++ Mega-Projects, Shaping Sustainable Urban Development From North To South Vietnam",
+      "summary": "Infrastructure movement can affect office, retail, logistics, industrial, and property-entry decisions for new Vietnam entrants.",
       "sourceName": "Vietnam News Economy",
-      "url": "https://vietnamnews.vn/life-style/1780452/vietnamese-cuisine-gains-global-spotlight-through-leaders-street-food-moments.html"
+      "url": "https://vietnamnews.vn/media-outreach/1796160/vinhomes-advances-two-esg-mega-projects-shaping-sustainable-urban-development-from-north-to-south-vietnam.html"
+    },
+    {
+      "category": "Consumer Demand",
+      "title": "AEON Vietnam expands retail ecosystem with first AEON MaxValu store in southern Việt Nam",
+      "summary": "Consumer and service-sector signals help foreign brands judge whether Vietnam is worth testing city by city.",
+      "sourceName": "Vietnam News Economy",
+      "url": "https://vietnamnews.vn/brandinfo/1796153/aeon-vietnam-expands-retail-ecosystem-with-first-aeon-maxvalu-store-in-southern-viet-nam.html"
     }
   ]
 }
