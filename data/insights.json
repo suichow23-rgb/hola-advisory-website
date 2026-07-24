@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-23T14:01:26.0561115+00:00",
+  "updatedAt": "2026-07-24T02:42:46.4526798+00:00",
   "items": [
     {
       "category": "Investment",
@@ -23,13 +23,6 @@
       "url": "https://e.vnexpress.net/news/business/citi-discusses-economic-cooperation-with-vietnam-s-ambassador-to-us-5100499.html"
     },
     {
-      "category": "Investment",
-      "title": "Dollar strengthens against dong",
-      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
-      "sourceName": "VnExpress International Business",
-      "url": "https://e.vnexpress.net/news/business/markets/dollar-strengthens-against-dong-5100327.html"
-    },
-    {
       "category": "Property",
       "title": "Innovation, intellectual property key to strengthening Vietnamese brands: forum",
       "summary": "Property and real-estate movement can affect office, retail, industrial, and workspace-entry planning.",
@@ -38,10 +31,17 @@
     },
     {
       "category": "Investment",
-      "title": "Vietnam Airlines plans to lease 19 Boeing 737 MAX 8 Aircraft",
+      "title": "Commercial service units gain attention as urban development reshapes HCM City market",
       "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
       "sourceName": "Vietnam News Economy",
-      "url": "https://vietnamnews.vn/economy/1795945/vietnam-airlines-plans-to-lease-19-boeing-737-max-8-aircraft.html"
+      "url": "https://vietnamnews.vn/brandinfo/1796010/commercial-service-units-gain-attention-as-urban-development-reshapes-hcm-city-market.html"
+    },
+    {
+      "category": "Investment",
+      "title": "Vietnamese cuisine gains global spotlight through leaders’ street food moments",
+      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
+      "sourceName": "Vietnam News Economy",
+      "url": "https://vietnamnews.vn/life-style/1780452/vietnamese-cuisine-gains-global-spotlight-through-leaders-street-food-moments.html"
     }
   ]
 }
