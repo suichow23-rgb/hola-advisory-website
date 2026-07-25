@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-24T13:46:21.5836107+00:00",
+  "updatedAt": "2026-07-25T02:41:30.5748454+00:00",
   "items": [
     {
       "category": "Investment",
@@ -7,13 +7,6 @@
       "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
       "sourceName": "VnExpress International Business",
       "url": "https://e.vnexpress.net/news/business/markets/dollar-rises-against-dong-5101176.html"
-    },
-    {
-      "category": "Investment",
-      "title": "Dollar edges up against dong on black market",
-      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
-      "sourceName": "VnExpress International Business",
-      "url": "https://e.vnexpress.net/news/business/markets/dollar-edges-up-against-dong-on-black-market-5100691.html"
     },
     {
       "category": "Investment",
@@ -42,6 +35,13 @@
       "summary": "Consumer and service-sector signals help foreign brands judge whether Vietnam is worth testing city by city.",
       "sourceName": "Vietnam News Economy",
       "url": "https://vietnamnews.vn/brandinfo/1796153/aeon-vietnam-expands-retail-ecosystem-with-first-aeon-maxvalu-store-in-southern-viet-nam.html"
+    },
+    {
+      "category": "Investment",
+      "title": "Commercial service units gain attention as urban development reshapes HCM City market",
+      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
+      "sourceName": "Vietnam News Economy",
+      "url": "https://vietnamnews.vn/brandinfo/1796010/commercial-service-units-gain-attention-as-urban-development-reshapes-hcm-city-market.html"
     }
   ]
 }
