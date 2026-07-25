@@ -1,12 +1,26 @@
 {
-  "updatedAt": "2026-07-25T02:41:30.5748454+00:00",
+  "updatedAt": "2026-07-25T13:27:29.3332042+00:00",
   "items": [
+    {
+      "category": "Investment",
+      "title": "Dollar inches up against dong on black market",
+      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
+      "sourceName": "VnExpress International Business",
+      "url": "https://e.vnexpress.net/news/business/markets/dollar-inches-up-against-dong-on-black-market-5101530.html"
+    },
     {
       "category": "Investment",
       "title": "Dollar rises against dong",
       "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
       "sourceName": "VnExpress International Business",
       "url": "https://e.vnexpress.net/news/business/markets/dollar-rises-against-dong-5101176.html"
+    },
+    {
+      "category": "Vietnam Economy",
+      "title": "Brazil spends nearly $35 million on Vietnamese tilapia, imports surge 289-fold",
+      "summary": "Vietnam economic news selected for business owners considering market entry, partnerships, or local setup.",
+      "sourceName": "Vietnam News Economy",
+      "url": "https://vietnamnews.vn/economy/1796184/brazil-spends-nearly-35-million-on-vietnamese-tilapia-imports-surge-289-fold.html"
     },
     {
       "category": "Investment",
@@ -28,20 +42,6 @@
       "summary": "Infrastructure movement can affect office, retail, logistics, industrial, and property-entry decisions for new Vietnam entrants.",
       "sourceName": "Vietnam News Economy",
       "url": "https://vietnamnews.vn/media-outreach/1796160/vinhomes-advances-two-esg-mega-projects-shaping-sustainable-urban-development-from-north-to-south-vietnam.html"
-    },
-    {
-      "category": "Consumer Demand",
-      "title": "AEON Vietnam expands retail ecosystem with first AEON MaxValu store in southern Việt Nam",
-      "summary": "Consumer and service-sector signals help foreign brands judge whether Vietnam is worth testing city by city.",
-      "sourceName": "Vietnam News Economy",
-      "url": "https://vietnamnews.vn/brandinfo/1796153/aeon-vietnam-expands-retail-ecosystem-with-first-aeon-maxvalu-store-in-southern-viet-nam.html"
-    },
-    {
-      "category": "Investment",
-      "title": "Commercial service units gain attention as urban development reshapes HCM City market",
-      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
-      "sourceName": "Vietnam News Economy",
-      "url": "https://vietnamnews.vn/brandinfo/1796010/commercial-service-units-gain-attention-as-urban-development-reshapes-hcm-city-market.html"
     }
   ]
 }
