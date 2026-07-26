@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-07-25T13:27:29.3332042+00:00",
+  "updatedAt": "2026-07-26T02:49:56.2270591+00:00",
   "items": [
+    {
+      "category": "Vietnam Economy",
+      "title": "HCMC company investigated over nearly 50,000 alleged fake Nike shoes",
+      "summary": "Vietnam economic news selected for business owners considering market entry, partnerships, or local setup.",
+      "sourceName": "VnExpress International Business",
+      "url": "https://e.vnexpress.net/news/business/companies/hcmc-company-investigated-over-nearly-50-000-alleged-fake-nike-shoes-5101319.html"
+    },
     {
       "category": "Investment",
       "title": "Dollar inches up against dong on black market",
@@ -35,13 +42,6 @@
       "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
       "sourceName": "Vietnam News Economy",
       "url": "https://vietnamnews.vn/economy/1796125/efforts-stepped-up-to-bring-vietnamese-products-into-supply-chains-in-argentina.html"
-    },
-    {
-      "category": "Infrastructure",
-      "title": "Vinhomes Advances Two ESG++ Mega-Projects, Shaping Sustainable Urban Development From North To South Vietnam",
-      "summary": "Infrastructure movement can affect office, retail, logistics, industrial, and property-entry decisions for new Vietnam entrants.",
-      "sourceName": "Vietnam News Economy",
-      "url": "https://vietnamnews.vn/media-outreach/1796160/vinhomes-advances-two-esg-mega-projects-shaping-sustainable-urban-development-from-north-to-south-vietnam.html"
     }
   ]
 }
