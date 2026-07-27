@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-26T13:23:14.9940356+00:00",
+  "updatedAt": "2026-07-27T02:57:46.6493388+00:00",
   "items": [
     {
       "category": "Vietnam Economy",
@@ -30,18 +30,18 @@
       "url": "https://vietnamnews.vn/economy/1796184/brazil-spends-nearly-35-million-on-vietnamese-tilapia-imports-surge-289-fold.html"
     },
     {
-      "category": "Investment",
-      "title": "Market dips, VN-Index falls below 1,700 threshold again",
-      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
-      "sourceName": "Vietnam News Economy",
-      "url": "https://vietnamnews.vn/economy/1796162/market-dips-vn-index-falls-below-1-700-threshold-again.html"
-    },
-    {
       "category": "Infrastructure",
       "title": "Vinhomes Advances Two ESG++ Mega-Projects, Shaping Sustainable Urban Development From North To South Vietnam",
       "summary": "Infrastructure movement can affect office, retail, logistics, industrial, and property-entry decisions for new Vietnam entrants.",
       "sourceName": "Vietnam News Economy",
       "url": "https://vietnamnews.vn/media-outreach/1796160/vinhomes-advances-two-esg-mega-projects-shaping-sustainable-urban-development-from-north-to-south-vietnam.html"
+    },
+    {
+      "category": "Consumer Demand",
+      "title": "AEON Vietnam expands retail ecosystem with first AEON MaxValu store in southern Việt Nam",
+      "summary": "Consumer and service-sector signals help foreign brands judge whether Vietnam is worth testing city by city.",
+      "sourceName": "Vietnam News Economy",
+      "url": "https://vietnamnews.vn/brandinfo/1796153/aeon-vietnam-expands-retail-ecosystem-with-first-aeon-maxvalu-store-in-southern-viet-nam.html"
     }
   ]
 }
