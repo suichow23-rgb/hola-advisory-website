@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-28T02:33:58.8078361+00:00",
+  "updatedAt": "2026-07-28T14:07:34.1681338+00:00",
   "items": [
     {
       "category": "Investment",
@@ -16,18 +16,11 @@
       "url": "https://e.vnexpress.net/news/business/stavian-industrial-metal-begins-distribution-of-vietnam-s-first-primary-aluminum-ingots-5102125.html"
     },
     {
-      "category": "Vietnam Economy",
-      "title": "HCMC company investigated over nearly 50,000 alleged fake Nike shoes",
-      "summary": "Vietnam economic news selected for business owners considering market entry, partnerships, or local setup.",
-      "sourceName": "VnExpress International Business",
-      "url": "https://e.vnexpress.net/news/business/companies/hcmc-company-investigated-over-nearly-50-000-alleged-fake-nike-shoes-5101319.html"
-    },
-    {
-      "category": "Investment",
-      "title": "Dollar inches up against dong on black market",
-      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
-      "sourceName": "VnExpress International Business",
-      "url": "https://e.vnexpress.net/news/business/markets/dollar-inches-up-against-dong-on-black-market-5101530.html"
+      "category": "Infrastructure",
+      "title": "HCM City prioritises logistics infrastructure to raise direct import-export throughput above 80%",
+      "summary": "Infrastructure movement can affect office, retail, logistics, industrial, and property-entry decisions for new Vietnam entrants.",
+      "sourceName": "Vietnam News Economy",
+      "url": "https://vietnamnews.vn/economy/1796334/hcm-city-prioritises-logistics-infrastructure-to-raise-direct-import-export-throughput-above-80.html"
     },
     {
       "category": "Vietnam Economy",
@@ -37,11 +30,18 @@
       "url": "https://vietnamnews.vn/economy/1796324/hcm-city-sets-up-4-174-ha-free-trade-zone-to-boost-trade-and-logistics.html"
     },
     {
-      "category": "Consumer Demand",
-      "title": "Vietnamese consumers spent over $11 billion shopping online in H1",
-      "summary": "Consumer and service-sector signals help foreign brands judge whether Vietnam is worth testing city by city.",
+      "category": "Investment",
+      "title": "Vietnamese community remains safe after Japan quake",
+      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
       "sourceName": "Vietnam News Economy",
-      "url": "https://vietnamnews.vn/economy/1796267/vietnamese-consumers-spent-over-11-billion-shopping-online-in-h1.html"
+      "url": "https://vietnamnews.vn/society/1796393/vietnamese-community-remains-safe-after-japan-quake.html"
+    },
+    {
+      "category": "Vietnam Economy",
+      "title": "Vietnamese PM, Cambodian NA President pledge stronger economic, security ties",
+      "summary": "Vietnam economic news selected for business owners considering market entry, partnerships, or local setup.",
+      "sourceName": "Vietnam News Economy",
+      "url": "https://vietnamnews.vn/politics-laws/1796387/vietnamese-pm-cambodian-na-president-pledge-stronger-economic-security-ties.html"
     }
   ]
 }
