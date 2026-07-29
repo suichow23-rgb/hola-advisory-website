@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-28T14:07:34.1681338+00:00",
+  "updatedAt": "2026-07-29T02:40:08.3944530+00:00",
   "items": [
     {
       "category": "Investment",
@@ -16,6 +16,20 @@
       "url": "https://e.vnexpress.net/news/business/stavian-industrial-metal-begins-distribution-of-vietnam-s-first-primary-aluminum-ingots-5102125.html"
     },
     {
+      "category": "Consumer Demand",
+      "title": "Vietnamese shrimp exports to China offset weaker sales to US",
+      "summary": "Consumer and service-sector signals help foreign brands judge whether Vietnam is worth testing city by city.",
+      "sourceName": "Vietnam News Economy",
+      "url": "https://vietnamnews.vn/economy/1796366/vietnamese-shrimp-exports-to-china-offset-weaker-sales-to-us.html"
+    },
+    {
+      "category": "Consumer Demand",
+      "title": "TikTok Vietnam strengthens partnership to boost sales of rural products",
+      "summary": "Consumer and service-sector signals help foreign brands judge whether Vietnam is worth testing city by city.",
+      "sourceName": "Vietnam News Economy",
+      "url": "https://vietnamnews.vn/economy/1796397/tiktok-vietnam-strengthens-partnership-to-boost-sales-of-rural-products.html"
+    },
+    {
       "category": "Infrastructure",
       "title": "HCM City prioritises logistics infrastructure to raise direct import-export throughput above 80%",
       "summary": "Infrastructure movement can affect office, retail, logistics, industrial, and property-entry decisions for new Vietnam entrants.",
@@ -23,25 +37,11 @@
       "url": "https://vietnamnews.vn/economy/1796334/hcm-city-prioritises-logistics-infrastructure-to-raise-direct-import-export-throughput-above-80.html"
     },
     {
-      "category": "Vietnam Economy",
-      "title": "HCM City sets up 4,174-ha free trade zone to boost trade and logistics",
-      "summary": "Vietnam economic news selected for business owners considering market entry, partnerships, or local setup.",
-      "sourceName": "Vietnam News Economy",
-      "url": "https://vietnamnews.vn/economy/1796324/hcm-city-sets-up-4-174-ha-free-trade-zone-to-boost-trade-and-logistics.html"
-    },
-    {
       "category": "Investment",
-      "title": "Vietnamese community remains safe after Japan quake",
+      "title": "HCM City eyes sustainable tech-driven growth by 2030",
       "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
       "sourceName": "Vietnam News Economy",
-      "url": "https://vietnamnews.vn/society/1796393/vietnamese-community-remains-safe-after-japan-quake.html"
-    },
-    {
-      "category": "Vietnam Economy",
-      "title": "Vietnamese PM, Cambodian NA President pledge stronger economic, security ties",
-      "summary": "Vietnam economic news selected for business owners considering market entry, partnerships, or local setup.",
-      "sourceName": "Vietnam News Economy",
-      "url": "https://vietnamnews.vn/politics-laws/1796387/vietnamese-pm-cambodian-na-president-pledge-stronger-economic-security-ties.html"
+      "url": "https://vietnamnews.vn/society/1796379/hcm-city-eyes-sustainable-tech-driven-growth-by-2030.html"
     }
   ]
 }
