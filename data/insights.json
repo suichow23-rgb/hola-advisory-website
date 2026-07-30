@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-07-30T02:26:29.3955922+00:00",
+  "updatedAt": "2026-07-30T14:02:45.8238492+00:00",
   "items": [
+    {
+      "category": "Investment",
+      "title": "Dollar rises against dong",
+      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
+      "sourceName": "VnExpress International Business",
+      "url": "https://e.vnexpress.net/news/business/markets/dollar-rises-against-dong-5103275.html"
+    },
     {
       "category": "Investment",
       "title": "Dollar gains over dong",
@@ -31,17 +38,10 @@
     },
     {
       "category": "Finance / Markets",
-      "title": "Deputy PM urges stronger Vietnam–Switzerland cooperation in finance, innovation",
+      "title": "India opens market to fresh Vietnamese durian",
       "summary": "Finance and market headlines help owners track confidence, currency pressure, consumer sentiment, and timing risk.",
       "sourceName": "Vietnam News Economy",
-      "url": "https://vietnamnews.vn/economy/1796469/deputy-pm-urges-stronger-vietnam-switzerland-cooperation-in-finance-innovation.html"
-    },
-    {
-      "category": "Investment",
-      "title": "Catalonia, HCM City eye stronger investment ties",
-      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
-      "sourceName": "Vietnam News Economy",
-      "url": "https://vietnamnews.vn/economy/1796463/catalonia-hcm-city-eye-stronger-investment-ties.html"
+      "url": "https://vietnamnews.vn/economy/1796557/india-opens-market-to-fresh-vietnamese-durian.html"
     }
   ]
 }
