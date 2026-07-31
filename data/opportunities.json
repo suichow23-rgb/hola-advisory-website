@@ -4,90 +4,90 @@
     {
       "type": "franchise",
       "category": "Franchise",
-      "title": "Low Cost Franchise",
-      "summary": "Automatically discovered public lead. Verify seller identity, financials, ownership, availability, and terms before presenting to any buyer.",
+      "title": "Vietnam franchise partner pipeline",
+      "summary": "Brands and operators seeking Vietnam partners, pilot locations, or master franchise routes.",
       "location": "Vietnam",
-      "price": "Check source",
-      "sourceName": "SMERGERS",
-      "url": "https://www.smergers.com/low-cost-franchise-opportunities/t11x216b/",
-      "verificationStatus": "Public source only"
+      "price": "Case by case",
+      "sourceName": "HOLA Advisory",
+      "url": "#contact",
+      "verificationStatus": "Pipeline"
     },
     {
       "type": "franchise",
       "category": "Franchise",
       "title": "Restaurants for Sale",
-      "summary": "Automatically discovered public lead. Verify seller identity, financials, ownership, availability, and terms before presenting to any buyer.",
+      "summary": "Public listing signal for buyer screening. Availability, ownership, financials, and terms should be checked before any client recommendation.",
       "location": "Vietnam",
       "price": "Check source",
       "sourceName": "SMERGERS",
       "url": "https://www.smergers.com/restaurants-for-sale-and-investment/s409b/",
-      "verificationStatus": "Public source only"
+      "verificationStatus": "Public lead"
     },
     {
       "type": "franchise",
       "category": "Franchise",
       "title": "Franchise for Sale",
-      "summary": "Automatically discovered public lead. Verify seller identity, financials, ownership, availability, and terms before presenting to any buyer.",
+      "summary": "Public listing signal for buyer screening. Availability, ownership, financials, and terms should be checked before any client recommendation.",
       "location": "Vietnam",
       "price": "Check source",
       "sourceName": "SMERGERS",
       "url": "https://www.smergers.com/franchises-for-sale-and-investment/x146b/",
-      "verificationStatus": "Public source only"
+      "verificationStatus": "Public lead"
     },
     {
       "type": "franchise",
       "category": "Franchise",
       "title": "Business for Sale Near Me",
-      "summary": "Automatically discovered public lead. Verify seller identity, financials, ownership, availability, and terms before presenting to any buyer.",
+      "summary": "Public listing signal for buyer screening. Availability, ownership, financials, and terms should be checked before any client recommendation.",
       "location": "Vietnam",
       "price": "Check source",
       "sourceName": "SMERGERS",
       "url": "https://www.smergers.com/businesses-for-sale-near-me/t2x215b/",
-      "verificationStatus": "Public source only"
+      "verificationStatus": "Public lead"
     },
     {
       "type": "sale",
-      "category": "Business For Sale",
+      "category": "Business Sale",
       "title": "Startup Investors",
-      "summary": "Automatically discovered public lead. Verify seller identity, financials, ownership, availability, and terms before presenting to any buyer.",
+      "summary": "Public listing signal for buyer screening. Availability, ownership, financials, and terms should be checked before any client recommendation.",
       "location": "Vietnam",
       "price": "Check source",
       "sourceName": "SMERGERS",
       "url": "https://www.smergers.com/startup-investors/t2x144i/",
-      "verificationStatus": "Public source only"
+      "verificationStatus": "Public lead"
     },
     {
       "type": "franchise",
       "category": "Franchise",
       "title": "Business for Sale by Owner",
-      "summary": "Automatically discovered public lead. Verify seller identity, financials, ownership, availability, and terms before presenting to any buyer.",
+      "summary": "Public listing signal for buyer screening. Availability, ownership, financials, and terms should be checked before any client recommendation.",
       "location": "Vietnam",
       "price": "Check source",
       "sourceName": "SMERGERS",
       "url": "https://www.smergers.com/businesses-for-sale-by-owner/t2x75b/",
-      "verificationStatus": "Public source only"
+      "verificationStatus": "Public lead"
     },
     {
       "type": "franchise",
       "category": "Franchise",
       "title": "Startups for Sale",
-      "summary": "Automatically discovered public lead. Verify seller identity, financials, ownership, availability, and terms before presenting to any buyer.",
+      "summary": "Public listing signal for buyer screening. Availability, ownership, financials, and terms should be checked before any client recommendation.",
       "location": "Vietnam",
       "price": "Check source",
       "sourceName": "SMERGERS",
       "url": "https://www.smergers.com/startups-for-sale/t2x76b/",
-      "verificationStatus": "Public source only"
+      "verificationStatus": "Public lead"
     },
     {
       "type": "franchise",
       "category": "Franchise",
       "title": "Manufacturing Business for Sale",
-      "summary": "Automatically discovered public lead. Verify seller identity, financials, ownership, availability, and terms before presenting to any buyer.",
+      "summary": "Public listing signal for buyer screening. Availability, ownership, financials, and terms should be checked before any client recommendation.",
       "location": "Vietnam",
       "price": "Check source",
       "sourceName": "SMERGERS",
       "url": "https://www.smergers.com/manufacturing-businesses-for-sale-and-investment/x88b/",
-      "verificationStatus": "Public source only"
+      "verificationStatus": "Public lead"
     }
   ]
 }

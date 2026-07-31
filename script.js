@@ -3,15 +3,15 @@ const listingGrid = document.querySelector("#listing-grid");
 const insightGrid = document.querySelector("#insight-grid");
 
 const fallbackInsights = [
-  { category: "Vietnam Economy", title: "Vietnam business headline feed is being refreshed", summary: "We filter for Vietnam-only economy, investment, infrastructure, consumer, and market-entry signals.", sourceName: "Hola Advisory", url: "#contact" },
-  { category: "Operator Note", title: "Virtual office first, full office later", summary: "A lower-risk path for companies that want presence before committing to larger fixed costs.", sourceName: "Hola Advisory", url: "#workspace" },
-  { category: "Expansion Watch", title: "Buying a small business vs starting from zero", summary: "When acquisition, franchise, or partnership may be smarter than building from scratch.", sourceName: "Hola Advisory", url: "#opportunities" }
+  { category: "Market Signal", title: "Vietnam consumer growth: where SMEs should test first", summary: "Short practical notes on sectors, customer behavior, and first-step tests for foreign SMEs.", sourceName: "HOLA Advisory", url: "#contact" },
+  { category: "Operator Note", title: "Virtual office first, full office later", summary: "A lower-risk path for companies that want presence before committing to larger fixed costs.", sourceName: "HOLA Advisory", url: "#workspace" },
+  { category: "Expansion Watch", title: "Acquisition, franchise, or start from zero?", summary: "A practical view on when buying, partnering, or franchising may be smarter than building everything from scratch.", sourceName: "HOLA Advisory", url: "#opportunities" }
 ];
 
 const fallbackListings = [
-  { type: "sale", category: "Business For Sale", title: "Vietnam public acquisition listings", summary: "Use public listings as discovery leads only. Verify seller claims, financials, ownership, and availability directly.", location: "Vietnam", price: "Varies", sourceName: "BusinessesForSale", url: "https://www.businessesforsale.com/search/businesses-for-sale-in-vietnam" },
-  { type: "franchise", category: "Franchise", title: "Franchise opportunity pipeline", summary: "Track brands and operators seeking Vietnam partners, pilot locations, or master franchise routes.", location: "Vietnam", price: "Case by case", sourceName: "Hola Advisory", url: "#contact" },
-  { type: "property", category: "Property / Workspace", title: "Starter office and retail search", summary: "Workspace, virtual office, private office, and retail location routes for new Vietnam entrants.", location: "Ho Chi Minh City", price: "On request", sourceName: "Hola Advisory", url: "#workspace" }
+  { type: "sale", category: "Business Sale", title: "Vietnam acquisition listing scan", summary: "A starting point for buyers reviewing public Vietnam business-sale leads before commissioning deeper screening.", location: "Vietnam", price: "Varies", sourceName: "BusinessesForSale", url: "https://www.businessesforsale.com/search/businesses-for-sale-in-vietnam" },
+  { type: "franchise", category: "Franchise", title: "Vietnam franchise partner pipeline", summary: "Brands and operators seeking Vietnam partners, pilot locations, or master franchise routes.", location: "Vietnam", price: "Case by case", sourceName: "HOLA Advisory", url: "#contact" },
+  { type: "property", category: "Property / Workspace", title: "Starter office and retail search", summary: "Workspace, virtual office, private office, and retail location routes for new Vietnam entrants.", location: "Ho Chi Minh City", price: "On request", sourceName: "HOLA Advisory", url: "#workspace" }
 ];
 
 function escapeHtml(value) {
