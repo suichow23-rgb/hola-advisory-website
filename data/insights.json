@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-08-01T02:49:54.2647463+00:00",
+  "updatedAt": "2026-08-01T13:21:26.9623055+00:00",
   "items": [
+    {
+      "category": "Investment",
+      "title": "Former Boeing Vietnam CEO appointed vice chairman of FLC",
+      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
+      "sourceName": "VnExpress International Business",
+      "url": "https://e.vnexpress.net/news/business/companies/former-boeing-vietnam-ceo-appointed-vice-chairman-of-flc-5104020.html"
+    },
+    {
+      "category": "Investment",
+      "title": "Dollar slips against dong on black market",
+      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
+      "sourceName": "VnExpress International Business",
+      "url": "https://e.vnexpress.net/news/business/markets/dollar-slips-against-dong-on-black-market-5104043.html"
+    },
     {
       "category": "Green Economy",
       "title": "India greenlights durian imports from Vietnam",
@@ -28,20 +42,6 @@
       "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
       "sourceName": "VnExpress International Business",
       "url": "https://e.vnexpress.net/news/business/ai-assisted-health-screening-expands-in-vietnam-5102216.html"
-    },
-    {
-      "category": "Investment",
-      "title": "Dollar rises against dong",
-      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
-      "sourceName": "VnExpress International Business",
-      "url": "https://e.vnexpress.net/news/business/markets/dollar-rises-against-dong-5103275.html"
-    },
-    {
-      "category": "Vietnam Economy",
-      "title": "Vietnamese coffee exports shine in EC’s agri-food trade report",
-      "summary": "Vietnam economic news selected for business owners considering market entry, partnerships, or local setup.",
-      "sourceName": "Vietnam News Economy",
-      "url": "https://vietnamnews.vn/economy/1796620/vietnamese-coffee-exports-shine-in-ec-s-agri-food-trade-report.html"
     }
   ]
 }
