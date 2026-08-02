@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-08-02T02:48:55.3742666+00:00",
+  "updatedAt": "2026-08-02T13:21:32.8336005+00:00",
   "items": [
+    {
+      "category": "Vietnam Economy",
+      "title": "Vietnam raw cashew imports exceed $3B in almost 7 months",
+      "summary": "Vietnam economic news selected for business owners considering market entry, partnerships, or local setup.",
+      "sourceName": "VnExpress International Business",
+      "url": "https://e.vnexpress.net/news/business/economy/vietnam-raw-cashew-imports-exceed-3b-in-almost-7-months-5104307.html"
+    },
     {
       "category": "Investment",
       "title": "Former Boeing Vietnam CEO appointed vice chairman of FLC",
@@ -35,13 +42,6 @@
       "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
       "sourceName": "VnExpress International Business",
       "url": "https://e.vnexpress.net/news/business/markets/dollar-slides-against-dong-5103691.html"
-    },
-    {
-      "category": "Investment",
-      "title": "AI-assisted health screening expands in Vietnam",
-      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
-      "sourceName": "VnExpress International Business",
-      "url": "https://e.vnexpress.net/news/business/ai-assisted-health-screening-expands-in-vietnam-5102216.html"
     }
   ]
 }
