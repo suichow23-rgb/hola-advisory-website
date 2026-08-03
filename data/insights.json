@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-08-03T02:50:16.5778671+00:00",
+  "updatedAt": "2026-08-03T14:39:42.4875960+00:00",
   "items": [
+    {
+      "category": "Investment",
+      "title": "Dollar weakens against dong",
+      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
+      "sourceName": "VnExpress International Business",
+      "url": "https://e.vnexpress.net/news/business/markets/dollar-weakens-against-dong-5104573.html"
+    },
+    {
+      "category": "Finance / Markets",
+      "title": "Vietnam only Southeast Asian country with declining gold demand in Q2",
+      "summary": "Finance and market headlines help owners track confidence, currency pressure, consumer sentiment, and timing risk.",
+      "sourceName": "VnExpress International Business",
+      "url": "https://e.vnexpress.net/news/business/markets/vietnam-only-southeast-asian-country-with-declining-gold-demand-in-q2-5104033.html"
+    },
     {
       "category": "Investment",
       "title": "Indonesia gold demand exceeds Thailand, Vietnam combined",
@@ -28,20 +42,6 @@
       "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
       "sourceName": "VnExpress International Business",
       "url": "https://e.vnexpress.net/news/business/markets/dollar-slips-against-dong-on-black-market-5104043.html"
-    },
-    {
-      "category": "Green Economy",
-      "title": "India greenlights durian imports from Vietnam",
-      "summary": "Green-economy and compliance shifts can create opportunities for ESG, manufacturing, energy, and advisory-linked services.",
-      "sourceName": "VnExpress International Business",
-      "url": "https://e.vnexpress.net/news/business/economy/india-greenlights-durian-imports-from-vietnam-5103623.html"
-    },
-    {
-      "category": "Vietnam Economy",
-      "title": "Owner of Singapore-based Vietnamese matchmaking agency retires after 3 decades, sells business for $76,000",
-      "summary": "Vietnam economic news selected for business owners considering market entry, partnerships, or local setup.",
-      "sourceName": "VnExpress International Business",
-      "url": "https://e.vnexpress.net/news/business/companies/owner-of-singapore-based-vietnamese-matchmaking-agency-retires-after-3-decades-sells-business-for-76-000-5103284.html"
     }
   ]
 }
