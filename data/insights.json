@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-08-02T13:21:32.8336005+00:00",
+  "updatedAt": "2026-08-03T02:50:16.5778671+00:00",
   "items": [
+    {
+      "category": "Investment",
+      "title": "Indonesia gold demand exceeds Thailand, Vietnam combined",
+      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
+      "sourceName": "VnExpress International Business",
+      "url": "https://e.vnexpress.net/news/business/markets/indonesia-gold-demand-exceeds-thailand-vietnam-combined-5103783.html"
+    },
     {
       "category": "Vietnam Economy",
       "title": "Vietnam raw cashew imports exceed $3B in almost 7 months",
@@ -35,13 +42,6 @@
       "summary": "Vietnam economic news selected for business owners considering market entry, partnerships, or local setup.",
       "sourceName": "VnExpress International Business",
       "url": "https://e.vnexpress.net/news/business/companies/owner-of-singapore-based-vietnamese-matchmaking-agency-retires-after-3-decades-sells-business-for-76-000-5103284.html"
-    },
-    {
-      "category": "Investment",
-      "title": "Dollar slides against dong",
-      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
-      "sourceName": "VnExpress International Business",
-      "url": "https://e.vnexpress.net/news/business/markets/dollar-slides-against-dong-5103691.html"
     }
   ]
 }
