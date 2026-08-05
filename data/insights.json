@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-08-05T02:32:46.6545744+00:00",
+  "updatedAt": "2026-08-05T14:09:24.1672957+00:00",
   "items": [
+    {
+      "category": "Investment",
+      "title": "Dollar gains over dong on black market",
+      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
+      "sourceName": "VnExpress International Business",
+      "url": "https://e.vnexpress.net/news/business/markets/dollar-gains-over-dong-on-black-market-5105513.html"
+    },
     {
       "category": "Investment",
       "title": "Dollar falls against dong",
@@ -16,32 +23,25 @@
       "url": "https://e.vnexpress.net/news/business/how-new-world-saigon-is-preparing-for-vietnam-s-next-tourism-chapter-5105082.html"
     },
     {
-      "category": "Investment",
-      "title": "Dollar weakens against dong",
-      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
-      "sourceName": "VnExpress International Business",
-      "url": "https://e.vnexpress.net/news/business/markets/dollar-weakens-against-dong-5104573.html"
-    },
-    {
-      "category": "Finance / Markets",
-      "title": "Vietnam only Southeast Asian country with declining gold demand in Q2",
-      "summary": "Finance and market headlines help owners track confidence, currency pressure, consumer sentiment, and timing risk.",
-      "sourceName": "VnExpress International Business",
-      "url": "https://e.vnexpress.net/news/business/markets/vietnam-only-southeast-asian-country-with-declining-gold-demand-in-q2-5104033.html"
-    },
-    {
-      "category": "Investment",
-      "title": "Indonesia gold demand exceeds Thailand, Vietnam combined",
-      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
-      "sourceName": "VnExpress International Business",
-      "url": "https://e.vnexpress.net/news/business/markets/indonesia-gold-demand-exceeds-thailand-vietnam-combined-5103783.html"
-    },
-    {
       "category": "Finance / Markets",
       "title": "FTSE upgrade review may bring 30 Vietnamese stocks into global index basket",
       "summary": "Finance and market headlines help owners track confidence, currency pressure, consumer sentiment, and timing risk.",
       "sourceName": "Vietnam News Economy",
       "url": "https://vietnamnews.vn/economy/1796844/ftse-upgrade-review-may-bring-30-vietnamese-stocks-into-global-index-basket.html"
+    },
+    {
+      "category": "Finance / Markets",
+      "title": "Vạn Xuân Group named Best Mid-Market Residential Developer at Dot Property Vietnam Awards 2026",
+      "summary": "Finance and market headlines help owners track confidence, currency pressure, consumer sentiment, and timing risk.",
+      "sourceName": "Vietnam News Economy",
+      "url": "https://vietnamnews.vn/brandinfo/1796771/van-xuan-group-named-best-mid-market-residential-developer-at-dot-property-vietnam-awards-2026.html"
+    },
+    {
+      "category": "Investment",
+      "title": "Vietnamese cuisine gains global spotlight through leaders’ street food moments",
+      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
+      "sourceName": "Vietnam News Economy",
+      "url": "https://vietnamnews.vn/life-style/1780452/vietnamese-cuisine-gains-global-spotlight-through-leaders-street-food-moments.html"
     }
   ]
 }
