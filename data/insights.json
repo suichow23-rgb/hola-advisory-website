@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T01:45:47.1069433+00:00",
+  "updatedAt": "2026-08-09T12:50:39.8536019+00:00",
   "items": [
     {
       "category": "Finance / Markets",
@@ -23,6 +23,13 @@
       "url": "https://e.vnexpress.net/news/business/vietnam-green-finance-conference-explores-ways-to-unlock-global-capital-5106341.html"
     },
     {
+      "category": "Investment",
+      "title": "Air Premia to resume Incheon–HCM City route from November",
+      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
+      "sourceName": "Vietnam News Economy",
+      "url": "https://vietnamnews.vn/economy/1797154/air-premia-to-resume-incheon-hcm-city-route-from-november.html"
+    },
+    {
       "category": "Vietnam Economy",
       "title": "HCM City businesses seek stronger cooperation to achieve double-digit growth",
       "summary": "Vietnam economic news selected for business owners considering market entry, partnerships, or local setup.",
@@ -35,13 +42,6 @@
       "summary": "Finance and market headlines help owners track confidence, currency pressure, consumer sentiment, and timing risk.",
       "sourceName": "Vietnam News Economy",
       "url": "https://vietnamnews.vn/brandinfo/1796771/van-xuan-group-named-best-mid-market-residential-developer-at-dot-property-vietnam-awards-2026.html"
-    },
-    {
-      "category": "Investment",
-      "title": "Vietnamese cuisine gains global spotlight through leaders’ street food moments",
-      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
-      "sourceName": "Vietnam News Economy",
-      "url": "https://vietnamnews.vn/life-style/1780452/vietnamese-cuisine-gains-global-spotlight-through-leaders-street-food-moments.html"
     }
   ]
 }
