@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T12:50:39.8536019+00:00",
+  "updatedAt": "2026-08-10T01:49:22.8367578+00:00",
   "items": [
     {
       "category": "Finance / Markets",
@@ -14,13 +14,6 @@
       "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
       "sourceName": "VnExpress International Business",
       "url": "https://e.vnexpress.net/news/business/markets/dollar-rises-against-dong-5106355.html"
-    },
-    {
-      "category": "Green Economy",
-      "title": "Vietnam Green Finance Conference explores ways to unlock global capital",
-      "summary": "Green-economy and compliance shifts can create opportunities for ESG, manufacturing, energy, and advisory-linked services.",
-      "sourceName": "VnExpress International Business",
-      "url": "https://e.vnexpress.net/news/business/vietnam-green-finance-conference-explores-ways-to-unlock-global-capital-5106341.html"
     },
     {
       "category": "Investment",
@@ -42,6 +35,13 @@
       "summary": "Finance and market headlines help owners track confidence, currency pressure, consumer sentiment, and timing risk.",
       "sourceName": "Vietnam News Economy",
       "url": "https://vietnamnews.vn/brandinfo/1796771/van-xuan-group-named-best-mid-market-residential-developer-at-dot-property-vietnam-awards-2026.html"
+    },
+    {
+      "category": "Investment",
+      "title": "Vietnamese cuisine gains global spotlight through leaders’ street food moments",
+      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
+      "sourceName": "Vietnam News Economy",
+      "url": "https://vietnamnews.vn/life-style/1780452/vietnamese-cuisine-gains-global-spotlight-through-leaders-street-food-moments.html"
     }
   ]
 }
