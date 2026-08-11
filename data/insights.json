@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-08-11T01:45:59.3103610+00:00",
+  "updatedAt": "2026-08-11T13:05:10.0372419+00:00",
   "items": [
+    {
+      "category": "Investment",
+      "title": "Dollar drops to nearly 5-month low against dong",
+      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
+      "sourceName": "VnExpress International Business",
+      "url": "https://e.vnexpress.net/news/business/markets/dollar-drops-to-nearly-5-month-low-against-dong-5107815.html"
+    },
+    {
+      "category": "Investment",
+      "title": "Vietnamese AI app outpaces global rivals as local user engagement climbs",
+      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
+      "sourceName": "VnExpress International Business",
+      "url": "https://e.vnexpress.net/news/business/vietnamese-ai-app-outpaces-global-rivals-as-local-user-engagement-climbs-5105558.html"
+    },
     {
       "category": "Investment",
       "title": "Vietnam airfares to Singapore, Thailand plummet",
@@ -23,25 +37,11 @@
       "url": "https://e.vnexpress.net/news/business/property/hanoi-apartment-flippers-trapped-as-market-downturn-keeps-buyers-away-5105565.html"
     },
     {
-      "category": "Investment",
-      "title": "Dollar rises against dong",
-      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
-      "sourceName": "VnExpress International Business",
-      "url": "https://e.vnexpress.net/news/business/markets/dollar-rises-against-dong-5106355.html"
-    },
-    {
-      "category": "Green Economy",
-      "title": "VN-Index extends rallies on financial, energy stocks,",
-      "summary": "Green-economy and compliance shifts can create opportunities for ESG, manufacturing, energy, and advisory-linked services.",
+      "category": "Consumer Demand",
+      "title": "Vietnamese consumers develop taste for Australian, New Zealand fruit",
+      "summary": "Consumer and service-sector signals help foreign brands judge whether Vietnam is worth testing city by city.",
       "sourceName": "Vietnam News Economy",
-      "url": "https://vietnamnews.vn/economy/1797222/vn-index-extends-rallies-on-financial-energy-stocks.html"
-    },
-    {
-      "category": "Investment",
-      "title": "Air Premia to resume Incheon–HCM City route from November",
-      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
-      "sourceName": "Vietnam News Economy",
-      "url": "https://vietnamnews.vn/economy/1797154/air-premia-to-resume-incheon-hcm-city-route-from-november.html"
+      "url": "https://vietnamnews.vn/economy/1797274/vietnamese-consumers-develop-taste-for-australian-new-zealand-fruit.html"
     }
   ]
 }
