@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-08-13T02:00:24.9407034+00:00",
+  "updatedAt": "2026-08-13T13:11:15.1123553+00:00",
   "items": [
+    {
+      "category": "Investment",
+      "title": "Dollar sinks to over 5-month low against dong",
+      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
+      "sourceName": "VnExpress International Business",
+      "url": "https://e.vnexpress.net/news/business/markets/dollar-sinks-to-over-5-month-low-against-dong-5108675.html"
+    },
     {
       "category": "Vietnam Economy",
       "title": "Vietnam durian exports to China soar",
@@ -16,25 +23,18 @@
       "url": "https://e.vnexpress.net/news/business/markets/dollar-gains-over-dong-5108261.html"
     },
     {
-      "category": "Investment",
-      "title": "Techcombank helps foreign investors unlock growth opportunities in Vietnam",
-      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
-      "sourceName": "VnExpress International Business",
-      "url": "https://e.vnexpress.net/news/business/techcombank-helps-foreign-investors-unlock-growth-opportunities-in-vietnam-5108391.html"
-    },
-    {
-      "category": "Vietnam Economy",
-      "title": "Uganda pitches itself as gateway for Vietnamese businesses into Africa",
-      "summary": "Vietnam economic news selected for business owners considering market entry, partnerships, or local setup.",
+      "category": "Property",
+      "title": "HCM City hosts three industrial expos",
+      "summary": "Property and real-estate movement can affect office, retail, industrial, and workspace-entry planning.",
       "sourceName": "Vietnam News Economy",
-      "url": "https://vietnamnews.vn/economy/1797357/uganda-pitches-itself-as-gateway-for-vietnamese-businesses-into-africa.html"
+      "url": "https://vietnamnews.vn/economy/1797483/hcm-city-hosts-three-industrial-expos.html"
     },
     {
       "category": "Investment",
-      "title": "Vietnam Railway begins operations under group model",
+      "title": "EWEC-Da Nang 2026 trade, tourism, investment fair opens",
       "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
       "sourceName": "Vietnam News Economy",
-      "url": "https://vietnamnews.vn/economy/1797334/vietnam-railway-begins-operations-under-group-model.html"
+      "url": "https://vietnamnews.vn/economy/1797448/ewec-da-nang-2026-trade-tourism-investment-fair-opens.html"
     },
     {
       "category": "Investment",
