@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-08-14T01:58:13.2155444+00:00",
+  "updatedAt": "2026-08-14T13:05:54.8809928+00:00",
   "items": [
+    {
+      "category": "Investment",
+      "title": "Dollar strengthens against dong",
+      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
+      "sourceName": "VnExpress International Business",
+      "url": "https://e.vnexpress.net/news/business/markets/dollar-strengthens-against-dong-5109122.html"
+    },
+    {
+      "category": "Investment",
+      "title": "Citi raises Vietnam",
+      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
+      "sourceName": "VnExpress International Business",
+      "url": "https://e.vnexpress.net/news/business/citi-raises-vietnam-s-2026-gdp-growth-forecast-to-around-8-5109075.html"
+    },
     {
       "category": "Investment",
       "title": "Dollar sinks to over 5-month low against dong",
@@ -10,17 +24,10 @@
     },
     {
       "category": "Vietnam Economy",
-      "title": "Vietnam durian exports to China soar",
+      "title": "Turkish cooperatives open sourcing channel for Vietnamese businesses",
       "summary": "Vietnam economic news selected for business owners considering market entry, partnerships, or local setup.",
-      "sourceName": "VnExpress International Business",
-      "url": "https://e.vnexpress.net/news/business/economy/vietnam-durian-exports-to-china-soar-5107869.html"
-    },
-    {
-      "category": "Investment",
-      "title": "Dollar gains over dong",
-      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
-      "sourceName": "VnExpress International Business",
-      "url": "https://e.vnexpress.net/news/business/markets/dollar-gains-over-dong-5108261.html"
+      "sourceName": "Vietnam News Economy",
+      "url": "https://vietnamnews.vn/economy/1797512/turkish-cooperatives-open-sourcing-channel-for-vietnamese-businesses.html"
     },
     {
       "category": "Property",
@@ -28,13 +35,6 @@
       "summary": "Property and real-estate movement can affect office, retail, industrial, and workspace-entry planning.",
       "sourceName": "Vietnam News Economy",
       "url": "https://vietnamnews.vn/economy/1797483/hcm-city-hosts-three-industrial-expos.html"
-    },
-    {
-      "category": "Investment",
-      "title": "EWEC-Da Nang 2026 trade, tourism, investment fair opens",
-      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
-      "sourceName": "Vietnam News Economy",
-      "url": "https://vietnamnews.vn/economy/1797448/ewec-da-nang-2026-trade-tourism-investment-fair-opens.html"
     },
     {
       "category": "Investment",
