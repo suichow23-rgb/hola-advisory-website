@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T01:14:35.7986497+00:00",
+  "updatedAt": "2026-08-15T12:37:11.5742991+00:00",
   "items": [
     {
       "category": "Investment",
@@ -23,25 +23,25 @@
       "url": "https://e.vnexpress.net/news/business/markets/dollar-sinks-to-over-5-month-low-against-dong-5108675.html"
     },
     {
-      "category": "Vietnam Economy",
-      "title": "Turkish cooperatives open sourcing channel for Vietnamese businesses",
-      "summary": "Vietnam economic news selected for business owners considering market entry, partnerships, or local setup.",
-      "sourceName": "Vietnam News Economy",
-      "url": "https://vietnamnews.vn/economy/1797512/turkish-cooperatives-open-sourcing-channel-for-vietnamese-businesses.html"
-    },
-    {
-      "category": "Property",
-      "title": "HCM City hosts three industrial expos",
-      "summary": "Property and real-estate movement can affect office, retail, industrial, and workspace-entry planning.",
-      "sourceName": "Vietnam News Economy",
-      "url": "https://vietnamnews.vn/economy/1797483/hcm-city-hosts-three-industrial-expos.html"
-    },
-    {
       "category": "Investment",
       "title": "Vietnamese cuisine gains global spotlight through leaders’ street food moments",
       "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
       "sourceName": "Vietnam News Economy",
       "url": "https://vietnamnews.vn/life-style/1780452/vietnamese-cuisine-gains-global-spotlight-through-leaders-street-food-moments.html"
+    },
+    {
+      "category": "Investment",
+      "title": "Vietnam Investment Review - VIR",
+      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
+      "sourceName": "Vietnam Investment Review",
+      "url": "https://vir.com.vn/"
+    },
+    {
+      "category": "Investment",
+      "title": "Techcombank helps foreign investors unlock growth opportunities in Vietnam",
+      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
+      "sourceName": "Vietnam Investment Review",
+      "url": "https://vir.com.vn/techcombank-helps-foreign-investors-unlock-growth-opportunities-in-vietnam-158615.html"
     }
   ]
 }
