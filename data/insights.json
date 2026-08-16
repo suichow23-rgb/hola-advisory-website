@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T12:37:11.5742991+00:00",
+  "updatedAt": "2026-08-16T01:19:42.8777776+00:00",
   "items": [
     {
       "category": "Investment",
@@ -24,6 +24,13 @@
     },
     {
       "category": "Investment",
+      "title": "US raises anti-dumping duties on Vietnamese pangasius",
+      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
+      "sourceName": "Vietnam News Economy",
+      "url": "https://vietnamnews.vn/economy/1797596/us-raises-anti-dumping-duties-on-vietnamese-pangasius.html"
+    },
+    {
+      "category": "Investment",
       "title": "Vietnamese cuisine gains global spotlight through leaders’ street food moments",
       "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
       "sourceName": "Vietnam News Economy",
@@ -35,13 +42,6 @@
       "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
       "sourceName": "Vietnam Investment Review",
       "url": "https://vir.com.vn/"
-    },
-    {
-      "category": "Investment",
-      "title": "Techcombank helps foreign investors unlock growth opportunities in Vietnam",
-      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
-      "sourceName": "Vietnam Investment Review",
-      "url": "https://vir.com.vn/techcombank-helps-foreign-investors-unlock-growth-opportunities-in-vietnam-158615.html"
     }
   ]
 }
