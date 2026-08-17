@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-08-17T01:16:04.5778667+00:00",
+  "updatedAt": "2026-08-17T12:43:05.3517474+00:00",
   "items": [
+    {
+      "category": "Vietnam Economy",
+      "title": "Singapore logistics firm Cosco Shipping eyes Vietnam, Indonesia expansion",
+      "summary": "Vietnam economic news selected for business owners considering market entry, partnerships, or local setup.",
+      "sourceName": "VnExpress International Business",
+      "url": "https://e.vnexpress.net/news/business/companies/singapore-logistics-firm-cosco-shipping-eyes-vietnam-indonesia-expansion-5109903.html"
+    },
+    {
+      "category": "Investment",
+      "title": "Dollar climbs against dong",
+      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
+      "sourceName": "VnExpress International Business",
+      "url": "https://e.vnexpress.net/news/business/markets/dollar-climbs-against-dong-5109981.html"
+    },
     {
       "category": "Consumer Demand",
       "title": "Canadian lobsters win over Vietnamese consumers with lower prices",
@@ -24,24 +38,10 @@
     },
     {
       "category": "Investment",
-      "title": "Citi raises Vietnam",
-      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
-      "sourceName": "VnExpress International Business",
-      "url": "https://e.vnexpress.net/news/business/citi-raises-vietnam-s-2026-gdp-growth-forecast-to-around-8-5109075.html"
-    },
-    {
-      "category": "Investment",
-      "title": "US raises anti-dumping duties on Vietnamese pangasius",
+      "title": "VN-Index falls for third straight session",
       "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
       "sourceName": "Vietnam News Economy",
-      "url": "https://vietnamnews.vn/economy/1797596/us-raises-anti-dumping-duties-on-vietnamese-pangasius.html"
-    },
-    {
-      "category": "Investment",
-      "title": "Vietnamese cuisine gains global spotlight through leaders’ street food moments",
-      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
-      "sourceName": "Vietnam News Economy",
-      "url": "https://vietnamnews.vn/life-style/1780452/vietnamese-cuisine-gains-global-spotlight-through-leaders-street-food-moments.html"
+      "url": "https://vietnamnews.vn/economy/1797685/vn-index-falls-for-third-straight-session.html"
     }
   ]
 }
