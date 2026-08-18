@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-08-18T01:13:20.8599471+00:00",
+  "updatedAt": "2026-08-18T12:45:44.7148130+00:00",
   "items": [
+    {
+      "category": "Investment",
+      "title": "Dollar inches up against dong",
+      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
+      "sourceName": "VnExpress International Business",
+      "url": "https://e.vnexpress.net/news/business/markets/dollar-inches-up-against-dong-5110298.html"
+    },
     {
       "category": "Vietnam Economy",
       "title": "Singapore logistics firm Cosco Shipping eyes Vietnam, Indonesia expansion",
@@ -28,13 +35,6 @@
       "summary": "Vietnam economic news selected for business owners considering market entry, partnerships, or local setup.",
       "sourceName": "VnExpress International Business",
       "url": "https://e.vnexpress.net/news/business/economy/vietnam-needs-to-generate-227-231b-in-exports-during-final-five-months-5109607.html"
-    },
-    {
-      "category": "Investment",
-      "title": "Dollar strengthens against dong",
-      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
-      "sourceName": "VnExpress International Business",
-      "url": "https://e.vnexpress.net/news/business/markets/dollar-strengthens-against-dong-5109122.html"
     },
     {
       "category": "Investment",
