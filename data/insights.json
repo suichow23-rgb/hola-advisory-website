@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-08-19T01:15:07.3573454+00:00",
+  "updatedAt": "2026-08-19T12:46:54.2398381+00:00",
   "items": [
+    {
+      "category": "Investment",
+      "title": "Dollar dips against dong",
+      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
+      "sourceName": "VnExpress International Business",
+      "url": "https://e.vnexpress.net/news/business/markets/dollar-dips-against-dong-5110794.html"
+    },
     {
       "category": "Investment",
       "title": "Dollar inches up against dong",
@@ -10,31 +17,17 @@
     },
     {
       "category": "Vietnam Economy",
-      "title": "Singapore logistics firm Cosco Shipping eyes Vietnam, Indonesia expansion",
+      "title": "HCM City businesses urged to strengthen legal safeguards in digital trade: conference",
       "summary": "Vietnam economic news selected for business owners considering market entry, partnerships, or local setup.",
-      "sourceName": "VnExpress International Business",
-      "url": "https://e.vnexpress.net/news/business/companies/singapore-logistics-firm-cosco-shipping-eyes-vietnam-indonesia-expansion-5109903.html"
-    },
-    {
-      "category": "Investment",
-      "title": "Dollar climbs against dong",
-      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
-      "sourceName": "VnExpress International Business",
-      "url": "https://e.vnexpress.net/news/business/markets/dollar-climbs-against-dong-5109981.html"
-    },
-    {
-      "category": "Consumer Demand",
-      "title": "Canadian lobsters win over Vietnamese consumers with lower prices",
-      "summary": "Consumer and service-sector signals help foreign brands judge whether Vietnam is worth testing city by city.",
-      "sourceName": "VnExpress International Business",
-      "url": "https://e.vnexpress.net/news/business/economy/canadian-lobsters-win-over-vietnamese-consumers-with-lower-prices-5109113.html"
-    },
-    {
-      "category": "Investment",
-      "title": "HCM City shifts OCOP focus from earning stars to raising standards",
-      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
       "sourceName": "Vietnam News Economy",
-      "url": "https://vietnamnews.vn/economy/1797667/hcm-city-shifts-ocop-focus-from-earning-stars-to-raising-standards.html"
+      "url": "https://vietnamnews.vn/economy/1797840/hcm-city-businesses-urged-to-strengthen-legal-safeguards-in-digital-trade-conference.html"
+    },
+    {
+      "category": "Infrastructure",
+      "title": "HCM City to integrate IoT into smart transport infrastructure",
+      "summary": "Infrastructure movement can affect office, retail, logistics, industrial, and property-entry decisions for new Vietnam entrants.",
+      "sourceName": "Vietnam News Economy",
+      "url": "https://vietnamnews.vn/society/1797842/hcm-city-to-integrate-iot-into-smart-transport-infrastructure.html"
     },
     {
       "category": "Investment",
@@ -42,6 +35,13 @@
       "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
       "sourceName": "Vietnam News Economy",
       "url": "https://vietnamnews.vn/life-style/1780452/vietnamese-cuisine-gains-global-spotlight-through-leaders-street-food-moments.html"
+    },
+    {
+      "category": "Investment",
+      "title": "Vietnam Investment Review - VIR",
+      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
+      "sourceName": "Vietnam Investment Review",
+      "url": "https://vir.com.vn/"
     }
   ]
 }
