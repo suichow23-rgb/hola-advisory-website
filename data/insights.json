@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T12:45:44.7148130+00:00",
+  "updatedAt": "2026-08-19T01:15:07.3573454+00:00",
   "items": [
     {
       "category": "Investment",
@@ -30,18 +30,18 @@
       "url": "https://e.vnexpress.net/news/business/economy/canadian-lobsters-win-over-vietnamese-consumers-with-lower-prices-5109113.html"
     },
     {
-      "category": "Vietnam Economy",
-      "title": "Vietnam needs to generate $227-231B in exports during final five months",
-      "summary": "Vietnam economic news selected for business owners considering market entry, partnerships, or local setup.",
-      "sourceName": "VnExpress International Business",
-      "url": "https://e.vnexpress.net/news/business/economy/vietnam-needs-to-generate-227-231b-in-exports-during-final-five-months-5109607.html"
-    },
-    {
       "category": "Investment",
       "title": "HCM City shifts OCOP focus from earning stars to raising standards",
       "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
       "sourceName": "Vietnam News Economy",
       "url": "https://vietnamnews.vn/economy/1797667/hcm-city-shifts-ocop-focus-from-earning-stars-to-raising-standards.html"
+    },
+    {
+      "category": "Investment",
+      "title": "Vietnamese cuisine gains global spotlight through leaders’ street food moments",
+      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
+      "sourceName": "Vietnam News Economy",
+      "url": "https://vietnamnews.vn/life-style/1780452/vietnamese-cuisine-gains-global-spotlight-through-leaders-street-food-moments.html"
     }
   ]
 }
