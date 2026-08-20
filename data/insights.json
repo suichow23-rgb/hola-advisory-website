@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T01:14:28.3765337+00:00",
+  "updatedAt": "2026-08-20T12:49:48.9154273+00:00",
   "items": [
     {
       "category": "Investment",
@@ -9,18 +9,18 @@
       "url": "https://e.vnexpress.net/news/business/markets/dollar-dips-against-dong-5110794.html"
     },
     {
-      "category": "Investment",
-      "title": "Dollar inches up against dong",
-      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
-      "sourceName": "VnExpress International Business",
-      "url": "https://e.vnexpress.net/news/business/markets/dollar-inches-up-against-dong-5110298.html"
-    },
-    {
       "category": "Vietnam Economy",
       "title": "HCM City businesses urged to strengthen legal safeguards in digital trade: conference",
       "summary": "Vietnam economic news selected for business owners considering market entry, partnerships, or local setup.",
       "sourceName": "Vietnam News Economy",
       "url": "https://vietnamnews.vn/economy/1797840/hcm-city-businesses-urged-to-strengthen-legal-safeguards-in-digital-trade-conference.html"
+    },
+    {
+      "category": "Investment",
+      "title": "Deputy PM orders 'comprehensive' investigation into Vietnam Airlines VN34 incident in Munich",
+      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
+      "sourceName": "Vietnam News Economy",
+      "url": "https://vietnamnews.vn/society/1797936/deputy-pm-orders-comprehensive-investigation-into-vietnam-airlines-vn34-incident-in-munich.html"
     },
     {
       "category": "Investment",
@@ -37,11 +37,11 @@
       "url": "https://vir.com.vn/"
     },
     {
-      "category": "Vietnam Economy",
-      "title": "Vietnam sees record capital inflows alongside sharp rise in business closures",
-      "summary": "Vietnam economic news selected for business owners considering market entry, partnerships, or local setup.",
+      "category": "Investment",
+      "title": "Vietnam signals stronger investment-led growth in July",
+      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
       "sourceName": "Vietnam Investment Review",
-      "url": "https://vir.com.vn/vietnam-sees-record-capital-inflows-alongside-sharp-rise-in-business-closures-158022.html"
+      "url": "https://vir.com.vn/vietnam-signals-stronger-investment-led-growth-in-july-159111.html"
     }
   ]
 }
