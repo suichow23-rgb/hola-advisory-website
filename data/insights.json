@@ -1,12 +1,19 @@
 {
-  "updatedAt": "2026-08-21T01:18:02.0438866+00:00",
+  "updatedAt": "2026-08-21T12:48:15.2276563+00:00",
   "items": [
     {
       "category": "Investment",
-      "title": "Dollar dips against dong",
+      "title": "Dollar falls against dong",
       "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
       "sourceName": "VnExpress International Business",
-      "url": "https://e.vnexpress.net/news/business/markets/dollar-dips-against-dong-5110794.html"
+      "url": "https://e.vnexpress.net/news/business/markets/dollar-falls-against-dong-5111665.html"
+    },
+    {
+      "category": "Investment",
+      "title": "Việt Nam, Thailand celebrate 50 years of diplomatic ties in HCM City",
+      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
+      "sourceName": "Vietnam News Economy",
+      "url": "https://vietnamnews.vn/politics-laws/1798018/viet-nam-thailand-celebrate-50-years-of-diplomatic-ties-in-hcm-city.html"
     },
     {
       "category": "Investment",
@@ -35,13 +42,6 @@
       "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
       "sourceName": "Vietnam Investment Review",
       "url": "https://vir.com.vn/specific-financial-mechanism-proposed-for-vietnam-railways-158428.html"
-    },
-    {
-      "category": "Finance / Markets",
-      "title": "Vietnam urged to strengthen compliance and competitiveness to expand US market access",
-      "summary": "Finance and market headlines help owners track confidence, currency pressure, consumer sentiment, and timing risk.",
-      "sourceName": "Vietnam Investment Review",
-      "url": "https://vir.com.vn/vietnam-urged-to-strengthen-compliance-and-competitiveness-to-expand-us-market-access-158954.html"
     }
   ]
 }
