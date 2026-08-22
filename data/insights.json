@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-08-22T01:13:58.3299855+00:00",
+  "updatedAt": "2026-08-22T12:38:50.2683279+00:00",
   "items": [
+    {
+      "category": "Investment",
+      "title": "Dollar tiptoes up against dong",
+      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
+      "sourceName": "VnExpress International Business",
+      "url": "https://e.vnexpress.net/news/business/markets/dollar-tiptoes-up-against-dong-5112054.html"
+    },
     {
       "category": "Investment",
       "title": "Dollar falls against dong",
@@ -10,17 +17,24 @@
     },
     {
       "category": "Investment",
-      "title": "Vietnamese cuisine gains global spotlight through leaders’ street food moments",
-      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
-      "sourceName": "Vietnam News Economy",
-      "url": "https://vietnamnews.vn/life-style/1780452/vietnamese-cuisine-gains-global-spotlight-through-leaders-street-food-moments.html"
-    },
-    {
-      "category": "Investment",
       "title": "Vietnam Investment Review - VIR",
       "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
       "sourceName": "Vietnam Investment Review",
       "url": "https://vir.com.vn/"
+    },
+    {
+      "category": "Vietnam Economy",
+      "title": "Nestlé Vietnam beefs up production capacity for coffee exports",
+      "summary": "Vietnam economic news selected for business owners considering market entry, partnerships, or local setup.",
+      "sourceName": "Vietnam Investment Review",
+      "url": "https://vir.com.vn/nestle-vietnam-beefs-up-production-capacity-for-coffee-exports-159266.html"
+    },
+    {
+      "category": "Finance / Markets",
+      "title": "FTSE Russell names 27 Vietnamese stocks in review",
+      "summary": "Finance and market headlines help owners track confidence, currency pressure, consumer sentiment, and timing risk.",
+      "sourceName": "Vietnam Investment Review",
+      "url": "https://vir.com.vn/ftse-russell-names-27-vietnamese-stocks-in-review-159265.html"
     },
     {
       "category": "Investment",
@@ -28,20 +42,6 @@
       "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
       "sourceName": "Vietnam Investment Review",
       "url": "https://vir.com.vn/vietnam-signals-stronger-investment-led-growth-in-july-159111.html"
-    },
-    {
-      "category": "Investment",
-      "title": "Specific financial mechanism proposed for Vietnam Railways",
-      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
-      "sourceName": "Vietnam Investment Review",
-      "url": "https://vir.com.vn/specific-financial-mechanism-proposed-for-vietnam-railways-158428.html"
-    },
-    {
-      "category": "Infrastructure",
-      "title": "Israeli Baran Group offers up to €140 million in preferential financing for Vietnam infrastructure projects",
-      "summary": "Infrastructure movement can affect office, retail, logistics, industrial, and property-entry decisions for new Vietnam entrants.",
-      "sourceName": "Vietnam Investment Review",
-      "url": "https://vir.com.vn/israeli-baran-group-offers-up-to-140-million-in-preferential-financing-for-vietnam-infrastructure-projects-159214.html"
     }
   ]
 }
