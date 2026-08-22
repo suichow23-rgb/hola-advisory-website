@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T12:48:15.2276563+00:00",
+  "updatedAt": "2026-08-22T01:13:58.3299855+00:00",
   "items": [
     {
       "category": "Investment",
@@ -7,13 +7,6 @@
       "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
       "sourceName": "VnExpress International Business",
       "url": "https://e.vnexpress.net/news/business/markets/dollar-falls-against-dong-5111665.html"
-    },
-    {
-      "category": "Investment",
-      "title": "Việt Nam, Thailand celebrate 50 years of diplomatic ties in HCM City",
-      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
-      "sourceName": "Vietnam News Economy",
-      "url": "https://vietnamnews.vn/politics-laws/1798018/viet-nam-thailand-celebrate-50-years-of-diplomatic-ties-in-hcm-city.html"
     },
     {
       "category": "Investment",
@@ -42,6 +35,13 @@
       "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
       "sourceName": "Vietnam Investment Review",
       "url": "https://vir.com.vn/specific-financial-mechanism-proposed-for-vietnam-railways-158428.html"
+    },
+    {
+      "category": "Infrastructure",
+      "title": "Israeli Baran Group offers up to €140 million in preferential financing for Vietnam infrastructure projects",
+      "summary": "Infrastructure movement can affect office, retail, logistics, industrial, and property-entry decisions for new Vietnam entrants.",
+      "sourceName": "Vietnam Investment Review",
+      "url": "https://vir.com.vn/israeli-baran-group-offers-up-to-140-million-in-preferential-financing-for-vietnam-infrastructure-projects-159214.html"
     }
   ]
 }
