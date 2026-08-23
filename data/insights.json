@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T12:38:50.2683279+00:00",
+  "updatedAt": "2026-08-23T01:20:09.4052093+00:00",
   "items": [
     {
       "category": "Investment",
@@ -16,6 +16,20 @@
       "url": "https://e.vnexpress.net/news/business/markets/dollar-falls-against-dong-5111665.html"
     },
     {
+      "category": "Finance / Markets",
+      "title": "FTSE September review adds 17 Vietnamese brokerage stocks",
+      "summary": "Finance and market headlines help owners track confidence, currency pressure, consumer sentiment, and timing risk.",
+      "sourceName": "Vietnam News Economy",
+      "url": "https://vietnamnews.vn/economy/1798074/ftse-september-review-adds-17-vietnamese-brokerage-stocks.html"
+    },
+    {
+      "category": "Investment",
+      "title": "Vietnamese cuisine gains global spotlight through leaders’ street food moments",
+      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
+      "sourceName": "Vietnam News Economy",
+      "url": "https://vietnamnews.vn/life-style/1780452/vietnamese-cuisine-gains-global-spotlight-through-leaders-street-food-moments.html"
+    },
+    {
       "category": "Investment",
       "title": "Vietnam Investment Review - VIR",
       "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
@@ -28,20 +42,6 @@
       "summary": "Vietnam economic news selected for business owners considering market entry, partnerships, or local setup.",
       "sourceName": "Vietnam Investment Review",
       "url": "https://vir.com.vn/nestle-vietnam-beefs-up-production-capacity-for-coffee-exports-159266.html"
-    },
-    {
-      "category": "Finance / Markets",
-      "title": "FTSE Russell names 27 Vietnamese stocks in review",
-      "summary": "Finance and market headlines help owners track confidence, currency pressure, consumer sentiment, and timing risk.",
-      "sourceName": "Vietnam Investment Review",
-      "url": "https://vir.com.vn/ftse-russell-names-27-vietnamese-stocks-in-review-159265.html"
-    },
-    {
-      "category": "Investment",
-      "title": "Vietnam signals stronger investment-led growth in July",
-      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
-      "sourceName": "Vietnam Investment Review",
-      "url": "https://vir.com.vn/vietnam-signals-stronger-investment-led-growth-in-july-159111.html"
     }
   ]
 }
