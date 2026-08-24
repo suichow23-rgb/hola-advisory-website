@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T12:39:24.4590357+00:00",
+  "updatedAt": "2026-08-24T01:17:49.9974663+00:00",
   "items": [
     {
       "category": "Investment",
@@ -24,13 +24,6 @@
     },
     {
       "category": "Investment",
-      "title": "Kansai hosts final of Vietnamese language contest for younger generations",
-      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
-      "sourceName": "Vietnam News Economy",
-      "url": "https://vietnamnews.vn/society/1798102/kansai-hosts-final-of-vietnamese-language-contest-for-younger-generations.html"
-    },
-    {
-      "category": "Investment",
       "title": "Vietnamese cuisine gains global spotlight through leaders’ street food moments",
       "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
       "sourceName": "Vietnam News Economy",
@@ -42,6 +35,13 @@
       "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
       "sourceName": "Vietnam Investment Review",
       "url": "https://vir.com.vn/"
+    },
+    {
+      "category": "Vietnam Economy",
+      "title": "Nestlé Vietnam beefs up production capacity for coffee exports",
+      "summary": "Vietnam economic news selected for business owners considering market entry, partnerships, or local setup.",
+      "sourceName": "Vietnam Investment Review",
+      "url": "https://vir.com.vn/nestle-vietnam-beefs-up-production-capacity-for-coffee-exports-159266.html"
     }
   ]
 }
