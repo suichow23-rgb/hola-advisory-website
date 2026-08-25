@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T12:50:41.2967197+00:00",
+  "updatedAt": "2026-08-25T01:15:53.8235241+00:00",
   "items": [
     {
       "category": "Investment",
@@ -24,6 +24,13 @@
     },
     {
       "category": "Investment",
+      "title": "Vietnam Airlines launches direct flights to Sri Lanka",
+      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
+      "sourceName": "Vietnam News Economy",
+      "url": "https://vietnamnews.vn/economy/1798182/vietnam-airlines-launches-direct-flights-to-sri-lanka.html"
+    },
+    {
+      "category": "Investment",
       "title": "Vietnamese firms urged to join global value chains",
       "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
       "sourceName": "Vietnam News Economy",
@@ -35,13 +42,6 @@
       "summary": "Finance and market headlines help owners track confidence, currency pressure, consumer sentiment, and timing risk.",
       "sourceName": "Vietnam News Economy",
       "url": "https://vietnamnews.vn/economy/1798074/ftse-september-review-adds-17-vietnamese-brokerage-stocks.html"
-    },
-    {
-      "category": "Finance / Markets",
-      "title": "From Vietnam to the U.S: East West Barbershop takes on the world’s most competitive market",
-      "summary": "Finance and market headlines help owners track confidence, currency pressure, consumer sentiment, and timing risk.",
-      "sourceName": "Vietnam News Economy",
-      "url": "https://vietnamnews.vn/media-outreach/1798124/from-vietnam-to-the-u-s-east-west-barbershop-takes-on-the-world-s-most-competitive-market.html"
     }
   ]
 }
