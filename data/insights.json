@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-27T21:52:40.6564139+00:00",
+  "updatedAt": "2026-08-28T09:57:38.6986265+00:00",
   "items": [
     {
       "category": "Investment",
@@ -7,27 +7,6 @@
       "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
       "sourceName": "VnExpress International Business",
       "url": "https://e.vnexpress.net/news/business/markets/dollar-drops-against-dong-5114074.html"
-    },
-    {
-      "category": "Infrastructure",
-      "title": "Vietnam’s largest company Vingroup gets land for $1.5B northern urban project",
-      "summary": "Infrastructure movement can affect office, retail, logistics, industrial, and property-entry decisions for new Vietnam entrants.",
-      "sourceName": "VnExpress International Business",
-      "url": "https://e.vnexpress.net/news/business/property/vietnam-s-largest-company-vingroup-gets-land-for-1-5b-northern-urban-project-5113449.html"
-    },
-    {
-      "category": "Investment",
-      "title": "Dollar weakens against dong",
-      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
-      "sourceName": "VnExpress International Business",
-      "url": "https://e.vnexpress.net/news/business/markets/dollar-weakens-against-dong-5113579.html"
-    },
-    {
-      "category": "Investment",
-      "title": "Home Credit Vietnam releases 2025 Sustainability Report",
-      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
-      "sourceName": "VnExpress International Business",
-      "url": "https://e.vnexpress.net/news/business/home-credit-vietnam-releases-2025-sustainability-report-5113276.html"
     },
     {
       "category": "Investment",
@@ -42,6 +21,27 @@
       "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
       "sourceName": "Vietnam News Economy",
       "url": "https://vietnamnews.vn/economy/1798475/bia-saigon-brings-vietnamese-fans-together-in-asean-cup-2026-victory.html"
+    },
+    {
+      "category": "Investment",
+      "title": "VN-Index rises for six straight days",
+      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
+      "sourceName": "Vietnam News Economy",
+      "url": "https://vietnamnews.vn/economy/1798443/vn-index-rises-for-six-straight-days.html"
+    },
+    {
+      "category": "Investment",
+      "title": "A glass of “Phở” above the clouds: a distinctly Vietnamese experience aboard Sun PhuQuoc Airways",
+      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
+      "sourceName": "Vietnam News Economy",
+      "url": "https://vietnamnews.vn/brandinfo/1798532/a-glass-of-pho-above-the-clouds-a-distinctly-vietnamese-experience-aboard-sun-phuquoc-airways.html"
+    },
+    {
+      "category": "Consumer Demand",
+      "title": "Sun PhuQuoc Airways launches nonstop services from Hà Nội and HCM City to Seoul",
+      "summary": "Consumer and service-sector signals help foreign brands judge whether Vietnam is worth testing city by city.",
+      "sourceName": "Vietnam News Economy",
+      "url": "https://vietnamnews.vn/brandinfo/1798286/sun-phuquoc-airways-launches-nonstop-services-from-ha-noi-and-hcm-city-to-seoul.html"
     }
   ]
 }
