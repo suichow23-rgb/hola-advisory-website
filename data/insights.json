@@ -1,12 +1,26 @@
 {
-  "updatedAt": "2026-08-29T05:56:39.1720271+00:00",
+  "updatedAt": "2026-08-29T16:18:33.9157012+00:00",
   "items": [
     {
       "category": "Investment",
-      "title": "Dollar drops against dong",
+      "title": "Dollar strengthens against dong on black market",
       "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
       "sourceName": "VnExpress International Business",
-      "url": "https://e.vnexpress.net/news/business/markets/dollar-drops-against-dong-5114074.html"
+      "url": "https://e.vnexpress.net/news/business/markets/dollar-strengthens-against-dong-on-black-market-5114879.html"
+    },
+    {
+      "category": "Infrastructure",
+      "title": "Da Nang International Airport",
+      "summary": "Infrastructure movement can affect office, retail, logistics, industrial, and property-entry decisions for new Vietnam entrants.",
+      "sourceName": "VnExpress International Business",
+      "url": "https://e.vnexpress.net/news/business/companies/da-nang-international-airport-s-379m-expansion-project-to-break-ground-in-august-2027-5114544.html"
+    },
+    {
+      "category": "Finance / Markets",
+      "title": "Morocco - gateway for Vietnamese goods to access North African market",
+      "summary": "Finance and market headlines help owners track confidence, currency pressure, consumer sentiment, and timing risk.",
+      "sourceName": "Vietnam News Economy",
+      "url": "https://vietnamnews.vn/economy/1798629/morocco-gateway-for-vietnamese-goods-to-access-north-african-market.html"
     },
     {
       "category": "Investment",
@@ -28,20 +42,6 @@
       "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
       "sourceName": "Vietnam News Economy",
       "url": "https://vietnamnews.vn/economy/1798566/japfa-vietnam-builds-a-safe-efficient-and-sustainable-livestock-value-chain.html"
-    },
-    {
-      "category": "Investment",
-      "title": "A glass of “Phở” above the clouds: a distinctly Vietnamese experience aboard Sun PhuQuoc Airways",
-      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
-      "sourceName": "Vietnam News Economy",
-      "url": "https://vietnamnews.vn/brandinfo/1798532/a-glass-of-pho-above-the-clouds-a-distinctly-vietnamese-experience-aboard-sun-phuquoc-airways.html"
-    },
-    {
-      "category": "Consumer Demand",
-      "title": "Sun PhuQuoc Airways launches nonstop services from Hà Nội and HCM City to Seoul",
-      "summary": "Consumer and service-sector signals help foreign brands judge whether Vietnam is worth testing city by city.",
-      "sourceName": "Vietnam News Economy",
-      "url": "https://vietnamnews.vn/brandinfo/1798286/sun-phuquoc-airways-launches-nonstop-services-from-ha-noi-and-hcm-city-to-seoul.html"
     }
   ]
 }
