@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-28T21:46:18.5527634+00:00",
+  "updatedAt": "2026-08-29T05:56:39.1720271+00:00",
   "items": [
     {
       "category": "Investment",
@@ -10,17 +10,24 @@
     },
     {
       "category": "Investment",
+      "title": "Vietnamese investors await licensed digital asset exchange",
+      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
+      "sourceName": "Vietnam News Economy",
+      "url": "https://vietnamnews.vn/economy/1798592/vietnamese-investors-await-licensed-digital-asset-exchange.html"
+    },
+    {
+      "category": "Vietnam Economy",
+      "title": "HCM City shifts towards urban agricultural economy",
+      "summary": "Vietnam economic news selected for business owners considering market entry, partnerships, or local setup.",
+      "sourceName": "Vietnam News Economy",
+      "url": "https://vietnamnews.vn/economy/1798589/hcm-city-shifts-towards-urban-agricultural-economy.html"
+    },
+    {
+      "category": "Investment",
       "title": "Japfa Vietnam builds a safe, efficient and sustainable livestock value chain",
       "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
       "sourceName": "Vietnam News Economy",
       "url": "https://vietnamnews.vn/economy/1798566/japfa-vietnam-builds-a-safe-efficient-and-sustainable-livestock-value-chain.html"
-    },
-    {
-      "category": "Investment",
-      "title": "HCM City seeks to co-create strategic tech hub with global investors",
-      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
-      "sourceName": "Vietnam News Economy",
-      "url": "https://vietnamnews.vn/economy/1798484/hcm-city-seeks-to-co-create-strategic-tech-hub-with-global-investors.html"
     },
     {
       "category": "Investment",
@@ -35,13 +42,6 @@
       "summary": "Consumer and service-sector signals help foreign brands judge whether Vietnam is worth testing city by city.",
       "sourceName": "Vietnam News Economy",
       "url": "https://vietnamnews.vn/brandinfo/1798286/sun-phuquoc-airways-launches-nonstop-services-from-ha-noi-and-hcm-city-to-seoul.html"
-    },
-    {
-      "category": "Investment",
-      "title": "Vietnamese cuisine gains global spotlight through leaders’ street food moments",
-      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
-      "sourceName": "Vietnam News Economy",
-      "url": "https://vietnamnews.vn/life-style/1780452/vietnamese-cuisine-gains-global-spotlight-through-leaders-street-food-moments.html"
     }
   ]
 }
