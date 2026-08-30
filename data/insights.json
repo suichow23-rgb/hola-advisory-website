@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-08-29T16:18:33.9157012+00:00",
+  "updatedAt": "2026-08-30T04:01:08.2892087+00:00",
   "items": [
+    {
+      "category": "Vietnam Economy",
+      "title": "Samsung phone exports from Vietnam since 2009 hit $500B",
+      "summary": "Vietnam economic news selected for business owners considering market entry, partnerships, or local setup.",
+      "sourceName": "VnExpress International Business",
+      "url": "https://e.vnexpress.net/news/business/companies/samsung-phone-exports-from-vietnam-since-2009-hit-500b-5114455.html"
+    },
     {
       "category": "Investment",
       "title": "Dollar strengthens against dong on black market",
@@ -35,13 +42,6 @@
       "summary": "Vietnam economic news selected for business owners considering market entry, partnerships, or local setup.",
       "sourceName": "Vietnam News Economy",
       "url": "https://vietnamnews.vn/economy/1798589/hcm-city-shifts-towards-urban-agricultural-economy.html"
-    },
-    {
-      "category": "Investment",
-      "title": "Japfa Vietnam builds a safe, efficient and sustainable livestock value chain",
-      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
-      "sourceName": "Vietnam News Economy",
-      "url": "https://vietnamnews.vn/economy/1798566/japfa-vietnam-builds-a-safe-efficient-and-sustainable-livestock-value-chain.html"
     }
   ]
 }
