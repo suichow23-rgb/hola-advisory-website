@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-08-30T04:01:08.2892087+00:00",
+  "updatedAt": "2026-08-30T16:10:58.1823711+00:00",
   "items": [
+    {
+      "category": "Finance / Markets",
+      "title": "German CEO earns $108,000 a month running Vietnamese bank",
+      "summary": "Finance and market headlines help owners track confidence, currency pressure, consumer sentiment, and timing risk.",
+      "sourceName": "VnExpress International Business",
+      "url": "https://e.vnexpress.net/news/business/companies/german-ceo-earns-108-000-a-month-running-vietnamese-bank-5115171.html"
+    },
     {
       "category": "Vietnam Economy",
       "title": "Samsung phone exports from Vietnam since 2009 hit $500B",
@@ -23,25 +30,18 @@
       "url": "https://e.vnexpress.net/news/business/companies/da-nang-international-airport-s-379m-expansion-project-to-break-ground-in-august-2027-5114544.html"
     },
     {
-      "category": "Finance / Markets",
-      "title": "Morocco - gateway for Vietnamese goods to access North African market",
-      "summary": "Finance and market headlines help owners track confidence, currency pressure, consumer sentiment, and timing risk.",
+      "category": "Vietnam Economy",
+      "title": "Leipzig seeks to become connectivity hub for German, Vietnamese businesses",
+      "summary": "Vietnam economic news selected for business owners considering market entry, partnerships, or local setup.",
       "sourceName": "Vietnam News Economy",
-      "url": "https://vietnamnews.vn/economy/1798629/morocco-gateway-for-vietnamese-goods-to-access-north-african-market.html"
+      "url": "https://vietnamnews.vn/economy/1798654/leipzig-seeks-to-become-connectivity-hub-for-german-vietnamese-businesses.html"
     },
     {
       "category": "Investment",
-      "title": "Vietnamese investors await licensed digital asset exchange",
+      "title": "Vietnamese goods gain ground on e-commerce platforms during National Day holiday",
       "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
       "sourceName": "Vietnam News Economy",
-      "url": "https://vietnamnews.vn/economy/1798592/vietnamese-investors-await-licensed-digital-asset-exchange.html"
-    },
-    {
-      "category": "Vietnam Economy",
-      "title": "HCM City shifts towards urban agricultural economy",
-      "summary": "Vietnam economic news selected for business owners considering market entry, partnerships, or local setup.",
-      "sourceName": "Vietnam News Economy",
-      "url": "https://vietnamnews.vn/economy/1798589/hcm-city-shifts-towards-urban-agricultural-economy.html"
+      "url": "https://vietnamnews.vn/economy/1798660/vietnamese-goods-gain-ground-on-e-commerce-platforms-during-national-day-holiday.html"
     }
   ]
 }
