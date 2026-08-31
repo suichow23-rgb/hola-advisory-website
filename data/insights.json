@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-08-31T04:06:29.9723941+00:00",
+  "updatedAt": "2026-08-31T18:52:18.6173876+00:00",
   "items": [
+    {
+      "category": "Investment",
+      "title": "Southeast Asia’s richest man and wife account for nearly 75% of Vietnam’s billionaire wealth",
+      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
+      "sourceName": "VnExpress International Business",
+      "url": "https://e.vnexpress.net/news/business/billionaires/southeast-asia-s-richest-man-and-wife-account-for-nearly-75-of-vietnam-s-billionaire-wealth-5115349.html"
+    },
     {
       "category": "Finance / Markets",
       "title": "German CEO earns $108,000 a month running Vietnamese bank",
@@ -35,13 +42,6 @@
       "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
       "sourceName": "Vietnam News Economy",
       "url": "https://vietnamnews.vn/economy/1798660/vietnamese-goods-gain-ground-on-e-commerce-platforms-during-national-day-holiday.html"
-    },
-    {
-      "category": "Vietnam Economy",
-      "title": "Leipzig seeks to become connectivity hub for German, Vietnamese businesses",
-      "summary": "Vietnam economic news selected for business owners considering market entry, partnerships, or local setup.",
-      "sourceName": "Vietnam News Economy",
-      "url": "https://vietnamnews.vn/economy/1798654/leipzig-seeks-to-become-connectivity-hub-for-german-vietnamese-businesses.html"
     }
   ]
 }
