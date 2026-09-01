@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-09-01T03:55:35.0172439+00:00",
+  "updatedAt": "2026-09-01T16:10:13.1759047+00:00",
   "items": [
+    {
+      "category": "Investment",
+      "title": "Southeast Asia’s 5 richest billionaires, led by Vietnam’s Pham Nhat Vuong, worth $110.7B",
+      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
+      "sourceName": "VnExpress International Business",
+      "url": "https://e.vnexpress.net/news/business/billionaires/southeast-asia-s-5-richest-billionaires-led-by-vietnam-s-pham-nhat-vuong-worth-110-7b-5115569.html"
+    },
     {
       "category": "Investment",
       "title": "Southeast Asia’s richest man and wife account for nearly 75% of Vietnam’s billionaire wealth",
@@ -35,13 +42,6 @@
       "summary": "Infrastructure movement can affect office, retail, logistics, industrial, and property-entry decisions for new Vietnam entrants.",
       "sourceName": "VnExpress International Business",
       "url": "https://e.vnexpress.net/news/business/companies/da-nang-international-airport-s-379m-expansion-project-to-break-ground-in-august-2027-5114544.html"
-    },
-    {
-      "category": "Investment",
-      "title": "Vietnamese goods gain ground on e-commerce platforms during National Day holiday",
-      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
-      "sourceName": "Vietnam News Economy",
-      "url": "https://vietnamnews.vn/economy/1798660/vietnamese-goods-gain-ground-on-e-commerce-platforms-during-national-day-holiday.html"
     }
   ]
 }
