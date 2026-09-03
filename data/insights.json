@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-09-03T03:17:26.6930440+00:00",
+  "updatedAt": "2026-09-03T15:55:00.2259155+00:00",
   "items": [
+    {
+      "category": "Investment",
+      "title": "Dollar rises marginally against dong",
+      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
+      "sourceName": "VnExpress International Business",
+      "url": "https://e.vnexpress.net/news/business/markets/dollar-rises-marginally-against-dong-5116061.html"
+    },
     {
       "category": "Finance / Markets",
       "title": "LivWell, CIMB Bank Vietnam partner on financial protection solution",
@@ -23,25 +30,18 @@
       "url": "https://e.vnexpress.net/news/business/billionaires/southeast-asia-s-richest-man-and-wife-account-for-nearly-75-of-vietnam-s-billionaire-wealth-5115349.html"
     },
     {
-      "category": "Finance / Markets",
-      "title": "German CEO earns $108,000 a month running Vietnamese bank",
-      "summary": "Finance and market headlines help owners track confidence, currency pressure, consumer sentiment, and timing risk.",
-      "sourceName": "VnExpress International Business",
-      "url": "https://e.vnexpress.net/news/business/companies/german-ceo-earns-108-000-a-month-running-vietnamese-bank-5115171.html"
-    },
-    {
       "category": "Investment",
-      "title": "National Day melodies fill the skies aboard Vietnam Airlines flight",
+      "title": "VN-Index sees sharp losses as bargain hunting emerges",
       "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
       "sourceName": "Vietnam News Economy",
-      "url": "https://vietnamnews.vn/economy/1798736/national-day-melodies-fill-the-skies-aboard-vietnam-airlines-flight.html"
+      "url": "https://vietnamnews.vn/economy/1798846/vn-index-sees-sharp-losses-as-bargain-hunting-emerges.html"
     },
     {
-      "category": "Investment",
-      "title": "Bia Saigon connects with young Vietnamese through national concert",
-      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
+      "category": "Vietnam Economy",
+      "title": "Vietnamese businesses make mark at Fine Food Australia 2026",
+      "summary": "Vietnam economic news selected for business owners considering market entry, partnerships, or local setup.",
       "sourceName": "Vietnam News Economy",
-      "url": "https://vietnamnews.vn/economy/1798732/bia-saigon-connects-with-young-vietnamese-through-national-concert.html"
+      "url": "https://vietnamnews.vn/economy/1798822/vietnamese-businesses-make-mark-at-fine-food-australia-2026.html"
     }
   ]
 }
