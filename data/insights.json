@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-09-04T03:15:28.3689156+00:00",
+  "updatedAt": "2026-09-04T15:52:31.7200121+00:00",
   "items": [
+    {
+      "category": "Investment",
+      "title": "Dollar gains over dong",
+      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
+      "sourceName": "VnExpress International Business",
+      "url": "https://e.vnexpress.net/news/business/markets/dollar-gains-over-dong-5116506.html"
+    },
     {
       "category": "Investment",
       "title": "Dollar rises marginally against dong",
@@ -17,20 +24,6 @@
     },
     {
       "category": "Investment",
-      "title": "Southeast Asia’s 5 richest billionaires, led by Vietnam’s Pham Nhat Vuong, worth $110.7B",
-      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
-      "sourceName": "VnExpress International Business",
-      "url": "https://e.vnexpress.net/news/business/billionaires/southeast-asia-s-5-richest-billionaires-led-by-vietnam-s-pham-nhat-vuong-worth-110-7b-5115569.html"
-    },
-    {
-      "category": "Investment",
-      "title": "Southeast Asia’s richest man and wife account for nearly 75% of Vietnam’s billionaire wealth",
-      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
-      "sourceName": "VnExpress International Business",
-      "url": "https://e.vnexpress.net/news/business/billionaires/southeast-asia-s-richest-man-and-wife-account-for-nearly-75-of-vietnam-s-billionaire-wealth-5115349.html"
-    },
-    {
-      "category": "Investment",
       "title": "VN-Index sees sharp losses as bargain hunting emerges",
       "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
       "sourceName": "Vietnam News Economy",
@@ -42,6 +35,13 @@
       "summary": "Vietnam economic news selected for business owners considering market entry, partnerships, or local setup.",
       "sourceName": "Vietnam News Economy",
       "url": "https://vietnamnews.vn/economy/1798822/vietnamese-businesses-make-mark-at-fine-food-australia-2026.html"
+    },
+    {
+      "category": "Investment",
+      "title": "Vietnamese cuisine gains global spotlight through leaders’ street food moments",
+      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
+      "sourceName": "Vietnam News Economy",
+      "url": "https://vietnamnews.vn/life-style/1780452/vietnamese-cuisine-gains-global-spotlight-through-leaders-street-food-moments.html"
     }
   ]
 }
