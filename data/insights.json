@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-09-07T03:16:15.0917058+00:00",
+  "updatedAt": "2026-09-07T17:23:17.8905076+00:00",
   "items": [
+    {
+      "category": "Investment",
+      "title": "Dollar dips against dong",
+      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
+      "sourceName": "VnExpress International Business",
+      "url": "https://e.vnexpress.net/news/business/markets/dollar-dips-against-dong-5117377.html"
+    },
     {
       "category": "Investment",
       "title": "Vietnamese fruit gains stronger foothold in global markets",
@@ -23,25 +30,18 @@
       "url": "https://e.vnexpress.net/news/business/companies/former-bamboo-airways-chairman-barred-from-leaving-vietnam-over-1-7m-tax-debt-5116828.html"
     },
     {
-      "category": "Vietnam Economy",
-      "title": "Vietnam posts record $770B trade turnover in 8 months",
-      "summary": "Vietnam economic news selected for business owners considering market entry, partnerships, or local setup.",
-      "sourceName": "VnExpress International Business",
-      "url": "https://e.vnexpress.net/news/business/economy/vietnam-posts-record-770b-trade-turnover-in-8-months-5116618.html"
+      "category": "Investment",
+      "title": "Myanmar President pledges to facilitate Vietnamese investment",
+      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
+      "sourceName": "Vietnam News Economy",
+      "url": "https://vietnamnews.vn/economy/1798998/myanmar-president-pledges-to-facilitate-vietnamese-investment.html"
     },
     {
       "category": "Investment",
-      "title": "Dollar weakens against dong on black market",
+      "title": "Vietnamese cuisine gains global spotlight through leaders’ street food moments",
       "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
-      "sourceName": "VnExpress International Business",
-      "url": "https://e.vnexpress.net/news/business/markets/dollar-weakens-against-dong-on-black-market-5116856.html"
-    },
-    {
-      "category": "Investment",
-      "title": "Dollar gains over dong",
-      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
-      "sourceName": "VnExpress International Business",
-      "url": "https://e.vnexpress.net/news/business/markets/dollar-gains-over-dong-5116506.html"
+      "sourceName": "Vietnam News Economy",
+      "url": "https://vietnamnews.vn/life-style/1780452/vietnamese-cuisine-gains-global-spotlight-through-leaders-street-food-moments.html"
     }
   ]
 }
