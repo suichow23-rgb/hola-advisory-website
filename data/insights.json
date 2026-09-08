@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T17:23:17.8905076+00:00",
+  "updatedAt": "2026-09-08T03:23:55.5504992+00:00",
   "items": [
     {
       "category": "Investment",
@@ -31,17 +31,17 @@
     },
     {
       "category": "Investment",
-      "title": "Myanmar President pledges to facilitate Vietnamese investment",
-      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
-      "sourceName": "Vietnam News Economy",
-      "url": "https://vietnamnews.vn/economy/1798998/myanmar-president-pledges-to-facilitate-vietnamese-investment.html"
-    },
-    {
-      "category": "Investment",
       "title": "Vietnamese cuisine gains global spotlight through leaders’ street food moments",
       "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
       "sourceName": "Vietnam News Economy",
       "url": "https://vietnamnews.vn/life-style/1780452/vietnamese-cuisine-gains-global-spotlight-through-leaders-street-food-moments.html"
+    },
+    {
+      "category": "Investment",
+      "title": "Vietnam Investment Review - VIR",
+      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
+      "sourceName": "Vietnam Investment Review",
+      "url": "https://vir.com.vn/"
     }
   ]
 }
