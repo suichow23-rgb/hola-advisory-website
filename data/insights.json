@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T16:02:22.9457435+00:00",
+  "updatedAt": "2026-09-10T03:25:41.8507582+00:00",
   "items": [
     {
       "category": "Investment",
@@ -23,25 +23,25 @@
       "url": "https://e.vnexpress.net/news/business/billionaires/vietnam-s-richest-woman-drops-out-of-world-s-top-1-000-billionaires-5117748.html"
     },
     {
-      "category": "Vietnam Economy",
-      "title": "French business community expects top Vietnamese leader’s visit to boost cooperation",
-      "summary": "Vietnam economic news selected for business owners considering market entry, partnerships, or local setup.",
+      "category": "Investment",
+      "title": "Sushi master pairs Japanese techniques with Vietnamese ingredients",
+      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
       "sourceName": "Vietnam News Economy",
-      "url": "https://vietnamnews.vn/economy/1799201/french-business-community-expects-top-vietnamese-leader-s-visit-to-boost-cooperation.html"
-    },
-    {
-      "category": "Infrastructure",
-      "title": "Three Vietnamese airports among Asia-Pacific’s most improved in air connectivity",
-      "summary": "Infrastructure movement can affect office, retail, logistics, industrial, and property-entry decisions for new Vietnam entrants.",
-      "sourceName": "Vietnam News Economy",
-      "url": "https://vietnamnews.vn/economy/1799197/three-vietnamese-airports-among-asia-pacific-s-most-improved-in-air-connectivity.html"
+      "url": "https://vietnamnews.vn/life-style/expat-corner/1799259/sushi-master-pairs-japanese-techniques-with-vietnamese-ingredients.html"
     },
     {
       "category": "Investment",
-      "title": "Vietnam Airlines adjusts London–HCM City flight schedules due to air traffic control issue",
+      "title": "Vietnamese cuisine gains global spotlight through leaders’ street food moments",
       "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
       "sourceName": "Vietnam News Economy",
-      "url": "https://vietnamnews.vn/society/1799281/vietnam-airlines-adjusts-london-hcm-city-flight-schedules-due-to-air-traffic-control-issue.html"
+      "url": "https://vietnamnews.vn/life-style/1780452/vietnamese-cuisine-gains-global-spotlight-through-leaders-street-food-moments.html"
+    },
+    {
+      "category": "Investment",
+      "title": "Vietnam Investment Review - VIR",
+      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
+      "sourceName": "Vietnam Investment Review",
+      "url": "https://vir.com.vn/"
     }
   ]
 }
