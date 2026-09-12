@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-09-12T03:27:46.0772907+00:00",
+  "updatedAt": "2026-09-12T15:07:49.2465667+00:00",
   "items": [
+    {
+      "category": "Investment",
+      "title": "Dollar edges up against dong on black market",
+      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
+      "sourceName": "VnExpress International Business",
+      "url": "https://e.vnexpress.net/news/business/markets/dollar-edges-up-against-dong-on-black-market-5119506.html"
+    },
     {
       "category": "Investment",
       "title": "Dollar tiptoes up against dong",
@@ -17,13 +24,6 @@
     },
     {
       "category": "Investment",
-      "title": "Dollar rises against dong on black market",
-      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
-      "sourceName": "VnExpress International Business",
-      "url": "https://e.vnexpress.net/news/business/markets/dollar-rises-against-dong-on-black-market-5118330.html"
-    },
-    {
-      "category": "Investment",
       "title": "Vietnamese firms urged to strengthen hands-on training for cross-border e-commerce exports",
       "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
       "sourceName": "Vietnam News Economy",
@@ -37,11 +37,11 @@
       "url": "https://vietnamnews.vn/economy/1799466/hcm-city-speeding-up-digital-transformation-to-reshape-economic-growth-official.html"
     },
     {
-      "category": "Finance / Markets",
-      "title": "Vietnamese minister proposes EAEU open market to Vietnamese goods",
-      "summary": "Finance and market headlines help owners track confidence, currency pressure, consumer sentiment, and timing risk.",
+      "category": "Investment",
+      "title": "Vietnamese cuisine gains global spotlight through leaders’ street food moments",
+      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
       "sourceName": "Vietnam News Economy",
-      "url": "https://vietnamnews.vn/economy/1799438/vietnamese-minister-proposes-eaeu-open-market-to-vietnamese-goods.html"
+      "url": "https://vietnamnews.vn/life-style/1780452/vietnamese-cuisine-gains-global-spotlight-through-leaders-street-food-moments.html"
     }
   ]
 }
