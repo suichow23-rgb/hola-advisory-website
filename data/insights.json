@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T15:43:40.0263330+00:00",
+  "updatedAt": "2026-09-14T03:43:47.9179393+00:00",
   "items": [
     {
       "category": "Investment",
@@ -24,13 +24,6 @@
     },
     {
       "category": "Investment",
-      "title": "Vietnamese firms urged to strengthen hands-on training for cross-border e-commerce exports",
-      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
-      "sourceName": "Vietnam News Economy",
-      "url": "https://vietnamnews.vn/economy/1799477/vietnamese-firms-urged-to-strengthen-hands-on-training-for-cross-border-e-commerce-exports.html"
-    },
-    {
-      "category": "Investment",
       "title": "Vietnamese cuisine gains global spotlight through leaders’ street food moments",
       "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
       "sourceName": "Vietnam News Economy",
@@ -42,6 +35,13 @@
       "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
       "sourceName": "Vietnam Investment Review",
       "url": "https://vir.com.vn/"
+    },
+    {
+      "category": "Investment",
+      "title": "Vietnam maps out renewable energy hubs to build green supply chains",
+      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
+      "sourceName": "Vietnam Investment Review",
+      "url": "https://vir.com.vn/vietnam-maps-out-renewable-energy-hubs-to-build-green-supply-chains-160428.html"
     }
   ]
 }
