@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T16:25:42.1405606+00:00",
+  "updatedAt": "2026-09-16T03:41:10.0182478+00:00",
   "items": [
     {
       "category": "Investment",
@@ -30,18 +30,18 @@
       "url": "https://e.vnexpress.net/news/business/markets/dollar-strengthens-against-dong-5120039.html"
     },
     {
-      "category": "Investment",
-      "title": "Canadian seafood imports surge 40% as lobster, snow crab gain favor in Vietnam",
-      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
-      "sourceName": "VnExpress International Business",
-      "url": "https://e.vnexpress.net/news/business/economy/canadian-seafood-imports-surge-40-as-lobster-snow-crab-gain-favor-in-vietnam-5119725.html"
-    },
-    {
       "category": "Finance / Markets",
       "title": "Banking, oil stocks push VN-Index above 1,800 points",
       "summary": "Finance and market headlines help owners track confidence, currency pressure, consumer sentiment, and timing risk.",
       "sourceName": "Vietnam News Economy",
       "url": "https://vietnamnews.vn/economy/1799733/banking-oil-stocks-push-vn-index-above-1-800-points.html"
+    },
+    {
+      "category": "Consumer Demand",
+      "title": "Việt Nam-UK Financial Services Summit 2026 held in HCM City",
+      "summary": "Consumer and service-sector signals help foreign brands judge whether Vietnam is worth testing city by city.",
+      "sourceName": "Vietnam News Economy",
+      "url": "https://vietnamnews.vn/economy/1799652/viet-nam-uk-financial-services-summit-2026-held-in-hcm-city.html"
     }
   ]
 }
