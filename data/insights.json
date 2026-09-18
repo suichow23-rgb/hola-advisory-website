@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-09-17T16:23:51.3429024+00:00",
+  "updatedAt": "2026-09-18T03:32:34.8461391+00:00",
   "items": [
+    {
+      "category": "Investment",
+      "title": "Central Group, controlled by Thai billionaire family Chirathivat, mulls $1.5B Vietnam investment",
+      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
+      "sourceName": "VnExpress International Business",
+      "url": "https://e.vnexpress.net/news/business/companies/central-group-controlled-by-thai-billionaire-family-chirathivat-mulls-1-5b-vietnam-investment-5121667.html"
+    },
+    {
+      "category": "Investment",
+      "title": "Terumo Vietnam, Bach Mai Hospital partner on medical training",
+      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
+      "sourceName": "VnExpress International Business",
+      "url": "https://e.vnexpress.net/news/business/terumo-vietnam-bach-mai-hospital-partner-on-medical-training-5121509.html"
+    },
     {
       "category": "Finance / Markets",
       "title": "Vietnam central bank",
@@ -28,20 +42,6 @@
       "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
       "sourceName": "Vietnam News Economy",
       "url": "https://vietnamnews.vn/economy/1799952/vietnamese-exporters-look-beyond-trade-fairs-to-reach-thai-buyers.html"
-    },
-    {
-      "category": "Finance / Markets",
-      "title": "Vietnamese goods step up market expansion in Russia",
-      "summary": "Finance and market headlines help owners track confidence, currency pressure, consumer sentiment, and timing risk.",
-      "sourceName": "Vietnam News Economy",
-      "url": "https://vietnamnews.vn/economy/1799857/vietnamese-goods-step-up-market-expansion-in-russia.html"
-    },
-    {
-      "category": "Investment",
-      "title": "Vietnamese cuisine gains global spotlight through leaders’ street food moments",
-      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
-      "sourceName": "Vietnam News Economy",
-      "url": "https://vietnamnews.vn/life-style/1780452/vietnamese-cuisine-gains-global-spotlight-through-leaders-street-food-moments.html"
     }
   ]
 }
