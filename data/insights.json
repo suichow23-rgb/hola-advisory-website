@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-09-19T03:29:38.2847119+00:00",
+  "updatedAt": "2026-09-19T15:29:24.9024054+00:00",
   "items": [
+    {
+      "category": "Investment",
+      "title": "Dollar gains against dong on black market",
+      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
+      "sourceName": "VnExpress International Business",
+      "url": "https://e.vnexpress.net/news/business/markets/dollar-gains-against-dong-on-black-market-5122158.html"
+    },
     {
       "category": "Investment",
       "title": "Dollar dips against dong",
@@ -30,18 +37,11 @@
       "url": "https://e.vnexpress.net/news/business/markets/vietnam-central-bank-s-exchange-rate-reaches-another-peak-5121481.html"
     },
     {
-      "category": "Investment",
-      "title": "Dollar strengthens against dong on black market",
-      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
-      "sourceName": "VnExpress International Business",
-      "url": "https://e.vnexpress.net/news/business/markets/dollar-strengthens-against-dong-on-black-market-5121401.html"
-    },
-    {
-      "category": "Infrastructure",
-      "title": "Overseas Vietnamese entrepreneurs seen as bridge for Việt Nam–US business ties",
-      "summary": "Infrastructure movement can affect office, retail, logistics, industrial, and property-entry decisions for new Vietnam entrants.",
+      "category": "Finance / Markets",
+      "title": "HDBank reaffirms position in Forbes Vietnam’s Top 50 listed companies",
+      "summary": "Finance and market headlines help owners track confidence, currency pressure, consumer sentiment, and timing risk.",
       "sourceName": "Vietnam News Economy",
-      "url": "https://vietnamnews.vn/economy/1800089/overseas-vietnamese-entrepreneurs-seen-as-bridge-for-viet-nam-us-business-ties.html"
+      "url": "https://vietnamnews.vn/economy/1800101/hdbank-reaffirms-position-in-forbes-vietnam-s-top-50-listed-companies.html"
     }
   ]
 }
