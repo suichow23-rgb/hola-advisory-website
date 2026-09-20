@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T15:29:24.9024054+00:00",
+  "updatedAt": "2026-09-20T03:46:02.2809610+00:00",
   "items": [
     {
       "category": "Investment",
@@ -31,17 +31,17 @@
     },
     {
       "category": "Finance / Markets",
-      "title": "Vietnam central bank",
-      "summary": "Finance and market headlines help owners track confidence, currency pressure, consumer sentiment, and timing risk.",
-      "sourceName": "VnExpress International Business",
-      "url": "https://e.vnexpress.net/news/business/markets/vietnam-central-bank-s-exchange-rate-reaches-another-peak-5121481.html"
-    },
-    {
-      "category": "Finance / Markets",
       "title": "HDBank reaffirms position in Forbes Vietnam’s Top 50 listed companies",
       "summary": "Finance and market headlines help owners track confidence, currency pressure, consumer sentiment, and timing risk.",
       "sourceName": "Vietnam News Economy",
       "url": "https://vietnamnews.vn/economy/1800101/hdbank-reaffirms-position-in-forbes-vietnam-s-top-50-listed-companies.html"
+    },
+    {
+      "category": "Infrastructure",
+      "title": "Overseas Vietnamese entrepreneurs seen as bridge for Việt Nam–US business ties",
+      "summary": "Infrastructure movement can affect office, retail, logistics, industrial, and property-entry decisions for new Vietnam entrants.",
+      "sourceName": "Vietnam News Economy",
+      "url": "https://vietnamnews.vn/economy/1800089/overseas-vietnamese-entrepreneurs-seen-as-bridge-for-viet-nam-us-business-ties.html"
     }
   ]
 }
