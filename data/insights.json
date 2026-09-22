@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T03:39:49.0246038+00:00",
+  "updatedAt": "2026-09-22T16:25:21.7646438+00:00",
   "items": [
     {
       "category": "Investment",
@@ -31,17 +31,17 @@
     },
     {
       "category": "Finance / Markets",
+      "title": "HCM City steps up efforts to boost trade, expand markets",
+      "summary": "Finance and market headlines help owners track confidence, currency pressure, consumer sentiment, and timing risk.",
+      "sourceName": "Vietnam News Economy",
+      "url": "https://vietnamnews.vn/economy/1800297/hcm-city-steps-up-efforts-to-boost-trade-expand-markets.html"
+    },
+    {
+      "category": "Finance / Markets",
       "title": "VN-Index falls below 1,800 on first day of market upgrade",
       "summary": "Finance and market headlines help owners track confidence, currency pressure, consumer sentiment, and timing risk.",
       "sourceName": "Vietnam News Economy",
       "url": "https://vietnamnews.vn/economy/1800254/vn-index-falls-below-1-800-on-first-day-of-market-upgrade.html"
-    },
-    {
-      "category": "Investment",
-      "title": "Vietnamese, Republic of Korean partners to develop semiconductors and AI",
-      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
-      "sourceName": "Vietnam News Economy",
-      "url": "https://vietnamnews.vn/economy/1800234/vietnamese-republic-of-korean-partners-to-develop-semiconductors-and-ai.html"
     }
   ]
 }
