@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-09-21T17:56:39.9271641+00:00",
+  "updatedAt": "2026-09-22T03:39:49.0246038+00:00",
   "items": [
+    {
+      "category": "Investment",
+      "title": "Dollar increases slightly against dong",
+      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
+      "sourceName": "VnExpress International Business",
+      "url": "https://e.vnexpress.net/news/business/markets/dollar-increases-slightly-against-dong-5123205.html"
+    },
+    {
+      "category": "Vietnam Economy",
+      "title": "Vietnam, US close to reaching reciprocal trade agreement",
+      "summary": "Vietnam economic news selected for business owners considering market entry, partnerships, or local setup.",
+      "sourceName": "VnExpress International Business",
+      "url": "https://e.vnexpress.net/news/business/economy/vietnam-us-close-to-reaching-reciprocal-trade-agreement-5123167.html"
+    },
     {
       "category": "Investment",
       "title": "Dollar slips against dong",
@@ -16,18 +30,11 @@
       "url": "https://e.vnexpress.net/news/business/markets/dollar-gains-against-dong-on-black-market-5122158.html"
     },
     {
-      "category": "Investment",
-      "title": "Dollar dips against dong",
-      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
-      "sourceName": "VnExpress International Business",
-      "url": "https://e.vnexpress.net/news/business/markets/dollar-dips-against-dong-5121789.html"
-    },
-    {
-      "category": "Investment",
-      "title": "Central Group, controlled by Thai billionaire family Chirathivat, mulls $1.5B Vietnam investment",
-      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
-      "sourceName": "VnExpress International Business",
-      "url": "https://e.vnexpress.net/news/business/companies/central-group-controlled-by-thai-billionaire-family-chirathivat-mulls-1-5b-vietnam-investment-5121667.html"
+      "category": "Finance / Markets",
+      "title": "VN-Index falls below 1,800 on first day of market upgrade",
+      "summary": "Finance and market headlines help owners track confidence, currency pressure, consumer sentiment, and timing risk.",
+      "sourceName": "Vietnam News Economy",
+      "url": "https://vietnamnews.vn/economy/1800254/vn-index-falls-below-1-800-on-first-day-of-market-upgrade.html"
     },
     {
       "category": "Investment",
@@ -35,13 +42,6 @@
       "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
       "sourceName": "Vietnam News Economy",
       "url": "https://vietnamnews.vn/economy/1800234/vietnamese-republic-of-korean-partners-to-develop-semiconductors-and-ai.html"
-    },
-    {
-      "category": "Vietnam Economy",
-      "title": "Vietjet flies Vietnamese business, cultural delegation to New York during UN meetings",
-      "summary": "Vietnam economic news selected for business owners considering market entry, partnerships, or local setup.",
-      "sourceName": "Vietnam News Economy",
-      "url": "https://vietnamnews.vn/economy/1800182/vietjet-flies-vietnamese-business-cultural-delegation-to-new-york-during-un-meetings.html"
     }
   ]
 }
