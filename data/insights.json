@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-09-23T03:39:13.7228343+00:00",
+  "updatedAt": "2026-09-23T16:15:15.4332714+00:00",
   "items": [
+    {
+      "category": "Investment",
+      "title": "Dollar slides against dong",
+      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
+      "sourceName": "VnExpress International Business",
+      "url": "https://e.vnexpress.net/news/business/markets/dollar-slides-against-dong-5123750.html"
+    },
     {
       "category": "Investment",
       "title": "Dollar increases slightly against dong",
@@ -16,13 +23,6 @@
       "url": "https://e.vnexpress.net/news/business/economy/vietnam-us-close-to-reaching-reciprocal-trade-agreement-5123167.html"
     },
     {
-      "category": "Investment",
-      "title": "Dollar slips against dong",
-      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
-      "sourceName": "VnExpress International Business",
-      "url": "https://e.vnexpress.net/news/business/markets/dollar-slips-against-dong-5122842.html"
-    },
-    {
       "category": "Finance / Markets",
       "title": "HCM City steps up efforts to boost trade, expand markets",
       "summary": "Finance and market headlines help owners track confidence, currency pressure, consumer sentiment, and timing risk.",
@@ -30,11 +30,11 @@
       "url": "https://vietnamnews.vn/economy/1800297/hcm-city-steps-up-efforts-to-boost-trade-expand-markets.html"
     },
     {
-      "category": "Finance / Markets",
-      "title": "VN-Index falls below 1,800 on first day of market upgrade",
-      "summary": "Finance and market headlines help owners track confidence, currency pressure, consumer sentiment, and timing risk.",
+      "category": "Investment",
+      "title": "500-day campaign: 664 sets of war martyrs’ remains founded at HCM City's park",
+      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
       "sourceName": "Vietnam News Economy",
-      "url": "https://vietnamnews.vn/economy/1800254/vn-index-falls-below-1-800-on-first-day-of-market-upgrade.html"
+      "url": "https://vietnamnews.vn/society/1800416/500-day-campaign-664-sets-of-war-martyrs-remains-founded-at-hcm-city-s-park.html"
     },
     {
       "category": "Investment",
