@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-09-24T03:30:11.1660583+00:00",
+  "updatedAt": "2026-09-24T16:37:42.4438977+00:00",
   "items": [
+    {
+      "category": "Investment",
+      "title": "Dollar strengthens against dong",
+      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
+      "sourceName": "VnExpress International Business",
+      "url": "https://e.vnexpress.net/news/business/markets/dollar-strengthens-against-dong-5124179.html"
+    },
     {
       "category": "Investment",
       "title": "Dollar slides against dong",
@@ -10,31 +17,10 @@
     },
     {
       "category": "Investment",
-      "title": "Dollar increases slightly against dong",
+      "title": "Vietnam Airlines Partners with Visa and AWS to Advance Digital Transformation and AI",
       "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
-      "sourceName": "VnExpress International Business",
-      "url": "https://e.vnexpress.net/news/business/markets/dollar-increases-slightly-against-dong-5123205.html"
-    },
-    {
-      "category": "Vietnam Economy",
-      "title": "Vietnam, US close to reaching reciprocal trade agreement",
-      "summary": "Vietnam economic news selected for business owners considering market entry, partnerships, or local setup.",
-      "sourceName": "VnExpress International Business",
-      "url": "https://e.vnexpress.net/news/business/economy/vietnam-us-close-to-reaching-reciprocal-trade-agreement-5123167.html"
-    },
-    {
-      "category": "Finance / Markets",
-      "title": "HCM City steps up efforts to boost trade, expand markets",
-      "summary": "Finance and market headlines help owners track confidence, currency pressure, consumer sentiment, and timing risk.",
       "sourceName": "Vietnam News Economy",
-      "url": "https://vietnamnews.vn/economy/1800297/hcm-city-steps-up-efforts-to-boost-trade-expand-markets.html"
-    },
-    {
-      "category": "Infrastructure",
-      "title": "HCM City to ‘cut’ power, water to projects, businesses that defy stop orders",
-      "summary": "Infrastructure movement can affect office, retail, logistics, industrial, and property-entry decisions for new Vietnam entrants.",
-      "sourceName": "Vietnam News Economy",
-      "url": "https://vietnamnews.vn/society/1800437/hcm-city-to-cut-power-water-to-projects-businesses-that-defy-stop-orders.html"
+      "url": "https://vietnamnews.vn/media-outreach/1800507/vietnam-airlines-partners-with-visa-and-aws-to-advance-digital-transformation-and-ai.html"
     },
     {
       "category": "Investment",
@@ -42,6 +28,20 @@
       "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
       "sourceName": "Vietnam News Economy",
       "url": "https://vietnamnews.vn/life-style/1780452/vietnamese-cuisine-gains-global-spotlight-through-leaders-street-food-moments.html"
+    },
+    {
+      "category": "Investment",
+      "title": "Vietnam Investment Review - VIR",
+      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
+      "sourceName": "Vietnam Investment Review",
+      "url": "https://vir.com.vn/"
+    },
+    {
+      "category": "Investment",
+      "title": "USTDA funds study for major Vietnam AI data centre campus",
+      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
+      "sourceName": "Vietnam Investment Review",
+      "url": "https://vir.com.vn/ustda-funds-study-for-major-vietnam-ai-data-centre-campus-161540.html"
     }
   ]
 }
