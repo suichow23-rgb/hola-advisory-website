@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-09-26T03:53:13.4889445+00:00",
+  "updatedAt": "2026-09-26T15:56:22.3972356+00:00",
   "items": [
+    {
+      "category": "Investment",
+      "title": "Dollar advances against dong on black market",
+      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
+      "sourceName": "VnExpress International Business",
+      "url": "https://e.vnexpress.net/news/business/markets/dollar-advances-against-dong-on-black-market-5125001.html"
+    },
     {
       "category": "Investment",
       "title": "Dollar gains over dong on black market",
@@ -35,13 +42,6 @@
       "summary": "Consumer and service-sector signals help foreign brands judge whether Vietnam is worth testing city by city.",
       "sourceName": "Vietnam News Economy",
       "url": "https://vietnamnews.vn/economy/1800588/vietnamese-consumers-spread-shopping-across-multiple-peak-season-events.html"
-    },
-    {
-      "category": "Vietnam Economy",
-      "title": "Vietnamese company opens UAV assembly plant in US",
-      "summary": "Vietnam economic news selected for business owners considering market entry, partnerships, or local setup.",
-      "sourceName": "Vietnam News Economy",
-      "url": "https://vietnamnews.vn/economy/1800584/vietnamese-company-opens-uav-assembly-plant-in-us.html"
     }
   ]
 }
