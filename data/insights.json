@@ -1,33 +1,19 @@
 {
-  "updatedAt": "2026-09-28T04:03:56.5829427+00:00",
+  "updatedAt": "2026-09-28T19:20:22.4017419+00:00",
   "items": [
+    {
+      "category": "Investment",
+      "title": "Dollar dips against dong",
+      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
+      "sourceName": "VnExpress International Business",
+      "url": "https://e.vnexpress.net/news/business/markets/dollar-dips-against-dong-5125672.html"
+    },
     {
       "category": "Finance / Markets",
       "title": "Techcombank Hanoi International Marathon generates nearly $14M for local economy",
       "summary": "Finance and market headlines help owners track confidence, currency pressure, consumer sentiment, and timing risk.",
       "sourceName": "VnExpress International Business",
       "url": "https://e.vnexpress.net/news/business/techcombank-hanoi-international-marathon-generates-nearly-14m-for-local-economy-5124790.html"
-    },
-    {
-      "category": "Investment",
-      "title": "Dollar advances against dong on black market",
-      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
-      "sourceName": "VnExpress International Business",
-      "url": "https://e.vnexpress.net/news/business/markets/dollar-advances-against-dong-on-black-market-5125001.html"
-    },
-    {
-      "category": "Investment",
-      "title": "Dollar gains over dong on black market",
-      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
-      "sourceName": "VnExpress International Business",
-      "url": "https://e.vnexpress.net/news/business/markets/dollar-gains-over-dong-on-black-market-5124672.html"
-    },
-    {
-      "category": "Finance / Markets",
-      "title": "Argentine businesses eye expansion into Vietnamese market",
-      "summary": "Finance and market headlines help owners track confidence, currency pressure, consumer sentiment, and timing risk.",
-      "sourceName": "Vietnam News Economy",
-      "url": "https://vietnamnews.vn/economy/1800610/argentine-businesses-eye-expansion-into-vietnamese-market.html"
     },
     {
       "category": "Investment",
@@ -42,6 +28,20 @@
       "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
       "sourceName": "Vietnam Investment Review",
       "url": "https://vir.com.vn/"
+    },
+    {
+      "category": "Consumer Demand",
+      "title": "Vietnam records fastest automotive sales growth among ASEAN-6 markets",
+      "summary": "Consumer and service-sector signals help foreign brands judge whether Vietnam is worth testing city by city.",
+      "sourceName": "Vietnam Investment Review",
+      "url": "https://vir.com.vn/vietnam-records-fastest-automotive-sales-growth-among-asean-6-markets-161624.html"
+    },
+    {
+      "category": "Investment",
+      "title": "USTDA funds study for major Vietnam AI data centre campus",
+      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
+      "sourceName": "Vietnam Investment Review",
+      "url": "https://vir.com.vn/ustda-funds-study-for-major-vietnam-ai-data-centre-campus-161540.html"
     }
   ]
 }
