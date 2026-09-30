@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T17:46:15.5857874+00:00",
+  "updatedAt": "2026-09-30T04:21:05.6168627+00:00",
   "items": [
     {
       "category": "Investment",
@@ -24,6 +24,13 @@
     },
     {
       "category": "Vietnam Economy",
+      "title": "HCM City says how it plans to achieve 10-11% annual export growth for rest of decade",
+      "summary": "Vietnam economic news selected for business owners considering market entry, partnerships, or local setup.",
+      "sourceName": "Vietnam News Economy",
+      "url": "https://vietnamnews.vn/economy/1800864/hcm-city-says-how-it-plans-to-achieve-10-11-annual-export-growth-for-rest-of-decade.html"
+    },
+    {
+      "category": "Vietnam Economy",
       "title": "Digital platform adds new channel for Vietnamese exporters to reach global buyers",
       "summary": "Vietnam economic news selected for business owners considering market entry, partnerships, or local setup.",
       "sourceName": "Vietnam News Economy",
@@ -35,13 +42,6 @@
       "summary": "Vietnam economic news selected for business owners considering market entry, partnerships, or local setup.",
       "sourceName": "Vietnam News Economy",
       "url": "https://vietnamnews.vn/economy/1800834/hcm-city-set-to-host-international-policy-dialogue-autumn-economic-forum.html"
-    },
-    {
-      "category": "Vietnam Economy",
-      "title": "HCM City leads economic restructuring in Southeast region",
-      "summary": "Vietnam economic news selected for business owners considering market entry, partnerships, or local setup.",
-      "sourceName": "Vietnam News Economy",
-      "url": "https://vietnamnews.vn/economy/1800800/hcm-city-leads-economic-restructuring-in-southeast-region.html"
     }
   ]
 }
