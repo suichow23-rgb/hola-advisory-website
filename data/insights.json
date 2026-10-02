@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-02T04:25:23.6127530+00:00",
+  "updatedAt": "2026-10-02T17:33:43.1676306+00:00",
   "items": [
+    {
+      "category": "Investment",
+      "title": "Dollar gains over dong",
+      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
+      "sourceName": "VnExpress International Business",
+      "url": "https://e.vnexpress.net/news/business/markets/dollar-gains-over-dong-5127557.html"
+    },
     {
       "category": "Consumer Demand",
       "title": "Japanese retail giant Aeon targets 300 supermarkets, 30 shopping malls in Vietnam",
@@ -23,13 +30,6 @@
       "url": "https://e.vnexpress.net/news/business/markets/dollar-rises-against-dong-on-black-market-5127056.html"
     },
     {
-      "category": "Investment",
-      "title": "Dollar slips against dong",
-      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
-      "sourceName": "VnExpress International Business",
-      "url": "https://e.vnexpress.net/news/business/markets/dollar-slips-against-dong-5126708.html"
-    },
-    {
       "category": "Finance / Markets",
       "title": "Market extends losses as VN-Index falls by over 19 points",
       "summary": "Finance and market headlines help owners track confidence, currency pressure, consumer sentiment, and timing risk.",
@@ -37,11 +37,11 @@
       "url": "https://vietnamnews.vn/economy/1801028/market-extends-losses-as-vn-index-falls-by-over-19-points.html"
     },
     {
-      "category": "Infrastructure",
-      "title": "GoGlobal sets out roadmap for Vietnamese businesses to expand globally",
-      "summary": "Infrastructure movement can affect office, retail, logistics, industrial, and property-entry decisions for new Vietnam entrants.",
+      "category": "Investment",
+      "title": "US$136.3 billion investment wave opens a historic opportunity for Vietnam’s energy equipment market",
+      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
       "sourceName": "Vietnam News Economy",
-      "url": "https://vietnamnews.vn/economy/1801066/goglobal-sets-out-roadmap-for-vietnamese-businesses-to-expand-globally.html"
+      "url": "https://vietnamnews.vn/media-outreach/1801131/us-136-3-billion-investment-wave-opens-a-historic-opportunity-for-vietnam-s-energy-equipment-market.html"
     }
   ]
 }
