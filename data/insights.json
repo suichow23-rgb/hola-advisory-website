@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T18:07:43.0109629+00:00",
+  "updatedAt": "2026-10-02T04:25:23.6127530+00:00",
   "items": [
     {
       "category": "Consumer Demand",
@@ -30,18 +30,18 @@
       "url": "https://e.vnexpress.net/news/business/markets/dollar-slips-against-dong-5126708.html"
     },
     {
+      "category": "Finance / Markets",
+      "title": "Market extends losses as VN-Index falls by over 19 points",
+      "summary": "Finance and market headlines help owners track confidence, currency pressure, consumer sentiment, and timing risk.",
+      "sourceName": "Vietnam News Economy",
+      "url": "https://vietnamnews.vn/economy/1801028/market-extends-losses-as-vn-index-falls-by-over-19-points.html"
+    },
+    {
       "category": "Infrastructure",
       "title": "GoGlobal sets out roadmap for Vietnamese businesses to expand globally",
       "summary": "Infrastructure movement can affect office, retail, logistics, industrial, and property-entry decisions for new Vietnam entrants.",
       "sourceName": "Vietnam News Economy",
       "url": "https://vietnamnews.vn/economy/1801066/goglobal-sets-out-roadmap-for-vietnamese-businesses-to-expand-globally.html"
-    },
-    {
-      "category": "Investment",
-      "title": "Vietnamese goods hold 2.7 per cent of Australian imports, potential remains",
-      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
-      "sourceName": "Vietnam News Economy",
-      "url": "https://vietnamnews.vn/economy/1800983/vietnamese-goods-hold-2-7-per-cent-of-australian-imports-potential-remains.html"
     }
   ]
 }
