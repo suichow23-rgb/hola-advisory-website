@@ -1,17 +1,6 @@
 {
-  "updatedAt": "2026-10-02T17:33:44.1941506+00:00",
+  "updatedAt": "2026-10-03T04:07:31.8908585+00:00",
   "items": [
-    {
-      "type": "franchise",
-      "category": "Franchise",
-      "title": "Franchise Investor in Prince Edward Island, Canada",
-      "summary": "Automatically discovered public lead. Verify seller identity, financials, ownership, availability, and terms before presenting to any buyer.",
-      "location": "Vietnam",
-      "price": "Check source",
-      "sourceName": "SMERGERS",
-      "url": "https://www.smergers.com/investor/research-scientist-biotechnology-franchise-investor-in-prince-edward-island-looking-to-invest-in-bpos-upto-cad-50-thousand/xadjf/",
-      "verificationStatus": "Public source only"
-    },
     {
       "type": "franchise",
       "category": "Franchise",
@@ -87,6 +76,17 @@
       "price": "Check source",
       "sourceName": "SMERGERS",
       "url": "https://www.smergers.com/startups-for-sale/t2x76b/",
+      "verificationStatus": "Public source only"
+    },
+    {
+      "type": "franchise",
+      "category": "Franchise",
+      "title": "Manufacturing Business for Sale",
+      "summary": "Automatically discovered public lead. Verify seller identity, financials, ownership, availability, and terms before presenting to any buyer.",
+      "location": "Vietnam",
+      "price": "Check source",
+      "sourceName": "SMERGERS",
+      "url": "https://www.smergers.com/manufacturing-businesses-for-sale-and-investment/x88b/",
       "verificationStatus": "Public source only"
     }
   ]
