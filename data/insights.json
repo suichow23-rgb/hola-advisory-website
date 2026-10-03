@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T04:07:30.8631300+00:00",
+  "updatedAt": "2026-10-03T15:49:57.2511528+00:00",
   "items": [
     {
       "category": "Investment",
@@ -30,18 +30,18 @@
       "url": "https://e.vnexpress.net/news/business/markets/dollar-rises-against-dong-on-black-market-5127056.html"
     },
     {
+      "category": "Green Economy",
+      "title": "Construction begins on a rice processing complex linked to biomass energy in Mekong Delta",
+      "summary": "Green-economy and compliance shifts can create opportunities for ESG, manufacturing, energy, and advisory-linked services.",
+      "sourceName": "Vietnam News Economy",
+      "url": "https://vietnamnews.vn/economy/1801178/construction-begins-on-a-rice-processing-complex-linked-to-biomass-energy-in-mekong-delta.html"
+    },
+    {
       "category": "Investment",
       "title": "US$136.3 billion investment wave opens a historic opportunity for Vietnam’s energy equipment market",
       "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
       "sourceName": "Vietnam News Economy",
       "url": "https://vietnamnews.vn/media-outreach/1801131/us-136-3-billion-investment-wave-opens-a-historic-opportunity-for-vietnam-s-energy-equipment-market.html"
-    },
-    {
-      "category": "Investment",
-      "title": "Vietnamese cuisine gains global spotlight through leaders’ street food moments",
-      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
-      "sourceName": "Vietnam News Economy",
-      "url": "https://vietnamnews.vn/life-style/1780452/vietnamese-cuisine-gains-global-spotlight-through-leaders-street-food-moments.html"
     }
   ]
 }
