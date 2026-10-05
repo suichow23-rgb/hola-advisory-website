@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-04T16:32:19.2760317+00:00",
+  "updatedAt": "2026-10-05T04:27:13.3258965+00:00",
   "items": [
+    {
+      "category": "Investment",
+      "title": "Singapore-listed firm to open 250 new Starbucks outlets mainly in Vietnam, Thailand",
+      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
+      "sourceName": "VnExpress International Business",
+      "url": "https://e.vnexpress.net/news/business/companies/singapore-listed-firm-to-open-250-new-starbucks-outlets-mainly-in-vietnam-thailand-5128383.html"
+    },
     {
       "category": "Investment",
       "title": "Dollar gains over dong",
@@ -10,38 +17,31 @@
     },
     {
       "category": "Investment",
-      "title": "Vietnam Investment Review - VIR",
+      "title": "EU raises standards, prompting Vietnamese agricultural producers to adapt",
       "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
-      "sourceName": "Vietnam Investment Review",
-      "url": "https://vir.com.vn/"
+      "sourceName": "Vietnam News Economy",
+      "url": "https://vietnamnews.vn/economy/business-beat/1801191/eu-raises-standards-prompting-vietnamese-agricultural-producers-to-adapt.html"
+    },
+    {
+      "category": "Green Economy",
+      "title": "Construction begins on a rice processing complex linked to biomass energy in Mekong Delta",
+      "summary": "Green-economy and compliance shifts can create opportunities for ESG, manufacturing, energy, and advisory-linked services.",
+      "sourceName": "Vietnam News Economy",
+      "url": "https://vietnamnews.vn/economy/1801178/construction-begins-on-a-rice-processing-complex-linked-to-biomass-energy-in-mekong-delta.html"
     },
     {
       "category": "Investment",
-      "title": "Techcombank helps foreign investors unlock growth opportunities in Vietnam",
+      "title": "US$136.3 billion investment wave opens a historic opportunity for Vietnam’s energy equipment market",
       "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
-      "sourceName": "Vietnam Investment Review",
-      "url": "https://vir.com.vn/techcombank-helps-foreign-investors-unlock-growth-opportunities-in-vietnam-158615.html"
+      "sourceName": "Vietnam News Economy",
+      "url": "https://vietnamnews.vn/media-outreach/1801131/us-136-3-billion-investment-wave-opens-a-historic-opportunity-for-vietnam-s-energy-equipment-market.html"
     },
     {
       "category": "Investment",
-      "title": "AEON exits Thailand’s supermarket business, focuses on Vietnam",
+      "title": "Vietnamese cuisine gains global spotlight through leaders’ street food moments",
       "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
-      "sourceName": "Vietnam Investment Review",
-      "url": "https://vir.com.vn/aeon-exits-thailands-supermarket-business-focuses-on-vietnam-158453.html"
-    },
-    {
-      "category": "Infrastructure",
-      "title": "Vietnam infrastructure push drives demand for advanced technologies",
-      "summary": "Infrastructure movement can affect office, retail, logistics, industrial, and property-entry decisions for new Vietnam entrants.",
-      "sourceName": "Vietnam Investment Review",
-      "url": "https://vir.com.vn/vietnam-infrastructure-push-drives-demand-for-advanced-technologies-160927.html"
-    },
-    {
-      "category": "Vietnam Economy",
-      "title": "Western Australia looks to deepen Vietnam ties beyond trade",
-      "summary": "Vietnam economic news selected for business owners considering market entry, partnerships, or local setup.",
-      "sourceName": "Vietnam Investment Review",
-      "url": "https://vir.com.vn/western-australia-looks-to-deepen-vietnam-ties-beyond-trade-162004.html"
+      "sourceName": "Vietnam News Economy",
+      "url": "https://vietnamnews.vn/life-style/1780452/vietnamese-cuisine-gains-global-spotlight-through-leaders-street-food-moments.html"
     }
   ]
 }
