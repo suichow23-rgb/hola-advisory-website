@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-06T05:13:33.0025350+00:00",
+  "updatedAt": "2026-10-06T18:00:55.6611910+00:00",
   "items": [
+    {
+      "category": "Investment",
+      "title": "Dollar strengthens against dong on black market",
+      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
+      "sourceName": "VnExpress International Business",
+      "url": "https://e.vnexpress.net/news/business/markets/dollar-strengthens-against-dong-on-black-market-5128960.html"
+    },
     {
       "category": "Investment",
       "title": "Dollar up against dong on black market",
@@ -24,24 +31,17 @@
     },
     {
       "category": "Investment",
-      "title": "Vietnamese cuisine gains global spotlight through leaders’ street food moments",
+      "title": "VN-Index finishes higher in last minutes on bargain-hunting demand",
       "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
       "sourceName": "Vietnam News Economy",
-      "url": "https://vietnamnews.vn/life-style/1780452/vietnamese-cuisine-gains-global-spotlight-through-leaders-street-food-moments.html"
+      "url": "https://vietnamnews.vn/economy/1801343/vn-index-finishes-higher-in-last-minutes-on-bargain-hunting-demand.html"
     },
     {
-      "category": "Investment",
-      "title": "Vietnam Investment Review - VIR",
-      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
-      "sourceName": "Vietnam Investment Review",
-      "url": "https://vir.com.vn/"
-    },
-    {
-      "category": "Property",
-      "title": "Honouring businesses in Vietnam’s industrial property development",
-      "summary": "Property and real-estate movement can affect office, retail, industrial, and workspace-entry planning.",
-      "sourceName": "Vietnam Investment Review",
-      "url": "https://vir.com.vn/honouring-businesses-in-vietnams-industrial-property-development-162191.html"
+      "category": "Finance / Markets",
+      "title": "adidas Vietnam: Techcombank Hanoi Marathon brings runners together and aligns with adidas ambitions",
+      "summary": "Finance and market headlines help owners track confidence, currency pressure, consumer sentiment, and timing risk.",
+      "sourceName": "Vietnam News Economy",
+      "url": "https://vietnamnews.vn/economy/1801341/adidas-vietnam-techcombank-hanoi-marathon-brings-runners-together-and-aligns-with-adidas-ambitions.html"
     }
   ]
 }
