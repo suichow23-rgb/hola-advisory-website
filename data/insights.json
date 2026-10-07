@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-06T18:00:55.6611910+00:00",
+  "updatedAt": "2026-10-07T04:41:24.1652178+00:00",
   "items": [
     {
       "category": "Investment",
@@ -16,20 +16,6 @@
       "url": "https://e.vnexpress.net/news/business/markets/dollar-up-against-dong-on-black-market-5128526.html"
     },
     {
-      "category": "Vietnam Economy",
-      "title": "HCMC posts decade-high economic growth of 9.86%",
-      "summary": "Vietnam economic news selected for business owners considering market entry, partnerships, or local setup.",
-      "sourceName": "VnExpress International Business",
-      "url": "https://e.vnexpress.net/news/business/economy/hcmc-posts-decade-high-economic-growth-of-9-86-5127499.html"
-    },
-    {
-      "category": "Investment",
-      "title": "Singapore-listed firm to open 250 new Starbucks outlets mainly in Vietnam, Thailand",
-      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
-      "sourceName": "VnExpress International Business",
-      "url": "https://e.vnexpress.net/news/business/companies/singapore-listed-firm-to-open-250-new-starbucks-outlets-mainly-in-vietnam-thailand-5128383.html"
-    },
-    {
       "category": "Investment",
       "title": "VN-Index finishes higher in last minutes on bargain-hunting demand",
       "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
@@ -42,6 +28,20 @@
       "summary": "Finance and market headlines help owners track confidence, currency pressure, consumer sentiment, and timing risk.",
       "sourceName": "Vietnam News Economy",
       "url": "https://vietnamnews.vn/economy/1801341/adidas-vietnam-techcombank-hanoi-marathon-brings-runners-together-and-aligns-with-adidas-ambitions.html"
+    },
+    {
+      "category": "Investment",
+      "title": "Vietnam Elevator Expo 2026 to connect industry supply chain in HCM City",
+      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
+      "sourceName": "Vietnam News Economy",
+      "url": "https://vietnamnews.vn/economy/1801323/vietnam-elevator-expo-2026-to-connect-industry-supply-chain-in-hcm-city.html"
+    },
+    {
+      "category": "Investment",
+      "title": "Vingroup And Alstom Sign Technology License Agreement To Develop Hanoi’s Next-Generation Urban Rail Network",
+      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
+      "sourceName": "Vietnam News Economy",
+      "url": "https://vietnamnews.vn/media-outreach/1801325/vingroup-and-alstom-sign-technology-license-agreement-to-develop-hanoi-s-next-generation-urban-rail-network.html"
     }
   ]
 }
