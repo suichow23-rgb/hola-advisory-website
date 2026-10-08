@@ -1,19 +1,33 @@
 {
-  "updatedAt": "2026-10-08T04:52:10.9753882+00:00",
+  "updatedAt": "2026-10-08T18:31:08.2958357+00:00",
   "items": [
+    {
+      "category": "Infrastructure",
+      "title": "Vingroup, controlled by Southeast Asia’s richest billionaire, orders 200 driverless metro trains from Alstom for Hanoi",
+      "summary": "Infrastructure movement can affect office, retail, logistics, industrial, and property-entry decisions for new Vietnam entrants.",
+      "sourceName": "VnExpress International Business",
+      "url": "https://e.vnexpress.net/news/business/companies/vingroup-controlled-by-southeast-asia-s-richest-billionaire-orders-200-driverless-metro-trains-from-alstom-for-hanoi-5129327.html"
+    },
+    {
+      "category": "Finance / Markets",
+      "title": "World Bank lifts Vietnam’s 2026 GDP growth forecast to 7.4%",
+      "summary": "Finance and market headlines help owners track confidence, currency pressure, consumer sentiment, and timing risk.",
+      "sourceName": "VnExpress International Business",
+      "url": "https://e.vnexpress.net/news/business/economy/world-bank-lifts-vietnam-s-2026-gdp-growth-forecast-to-7-4-5129856.html"
+    },
+    {
+      "category": "Investment",
+      "title": "Dollar slips against dong",
+      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
+      "sourceName": "VnExpress International Business",
+      "url": "https://e.vnexpress.net/news/business/markets/dollar-slips-against-dong-5129878.html"
+    },
     {
       "category": "Investment",
       "title": "Dollar dips against dong",
       "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
       "sourceName": "VnExpress International Business",
       "url": "https://e.vnexpress.net/news/business/markets/dollar-dips-against-dong-5129437.html"
-    },
-    {
-      "category": "Vietnam Economy",
-      "title": "Five Vietnamese businesswomen named among Fortune’s Asia most powerful",
-      "summary": "Vietnam economic news selected for business owners considering market entry, partnerships, or local setup.",
-      "sourceName": "Vietnam News Economy",
-      "url": "https://vietnamnews.vn/economy/1801394/five-vietnamese-businesswomen-named-among-fortune-s-asia-most-powerful.html"
     },
     {
       "category": "Investment",
@@ -28,20 +42,6 @@
       "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
       "sourceName": "Vietnam Investment Review",
       "url": "https://vir.com.vn/"
-    },
-    {
-      "category": "Investment",
-      "title": "From coffee beans to value: Building a more sustainable coffee industry in Vietnam",
-      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
-      "sourceName": "Vietnam Investment Review",
-      "url": "https://vir.com.vn/from-coffee-beans-to-value-building-a-more-sustainable-coffee-industry-in-vietnam-162204.html"
-    },
-    {
-      "category": "Property",
-      "title": "Honouring businesses in Vietnam’s industrial property development",
-      "summary": "Property and real-estate movement can affect office, retail, industrial, and workspace-entry planning.",
-      "sourceName": "Vietnam Investment Review",
-      "url": "https://vir.com.vn/honouring-businesses-in-vietnams-industrial-property-development-162191.html"
     }
   ]
 }
