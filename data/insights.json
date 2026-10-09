@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-09T04:55:19.7765758+00:00",
+  "updatedAt": "2026-10-09T18:02:38.2211241+00:00",
   "items": [
+    {
+      "category": "Investment",
+      "title": "Dollar weakens against dong",
+      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
+      "sourceName": "VnExpress International Business",
+      "url": "https://e.vnexpress.net/news/business/markets/dollar-weakens-against-dong-5130331.html"
+    },
     {
       "category": "Investment",
       "title": "Terumo Vietnam, VNHA partner on cardiovascular training",
@@ -31,17 +38,10 @@
     },
     {
       "category": "Investment",
-      "title": "Dollar dips against dong",
-      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
-      "sourceName": "VnExpress International Business",
-      "url": "https://e.vnexpress.net/news/business/markets/dollar-dips-against-dong-5129437.html"
-    },
-    {
-      "category": "Investment",
-      "title": "Vietnam Craft Village Fair opens in Hà Nội",
+      "title": "AI platform launched to help Vietnamese businesses build brands",
       "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
       "sourceName": "Vietnam News Economy",
-      "url": "https://vietnamnews.vn/economy/1801585/vietnam-craft-village-fair-opens-in-ha-noi.html"
+      "url": "https://vietnamnews.vn/economy/1801664/ai-platform-launched-to-help-vietnamese-businesses-build-brands.html"
     }
   ]
 }
