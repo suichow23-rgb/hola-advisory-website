@@ -1,28 +1,6 @@
 {
-  "updatedAt": "2026-10-09T18:02:39.9716619+00:00",
+  "updatedAt": "2026-10-10T04:40:36.2957510+00:00",
   "items": [
-    {
-      "type": "sale",
-      "category": "Business For Sale",
-      "title": "Beachside Hotel for Sale – Khanh Hoa, Vietnam",
-      "summary": "Automatically discovered public lead. Verify seller identity, financials, ownership, availability, and terms before presenting to any buyer.",
-      "location": "Vietnam",
-      "price": "Check source",
-      "sourceName": "BusinessesForSale Vietnam",
-      "url": "https://www.businessesforsale.com/beachside-hotel-for-sale-khanh-hoa-vietnam.aspx",
-      "verificationStatus": "Public source only"
-    },
-    {
-      "type": "sale",
-      "category": "Business For Sale",
-      "title": "Successful Established Coworking, Cafe, And Rooftop Spa",
-      "summary": "Automatically discovered public lead. Verify seller identity, financials, ownership, availability, and terms before presenting to any buyer.",
-      "location": "Vietnam",
-      "price": "Check source",
-      "sourceName": "BusinessesForSale Vietnam",
-      "url": "https://www.businessesforsale.com/successful-established-coworking-cafe-and-rooftop-spa.aspx",
-      "verificationStatus": "Public source only"
-    },
     {
       "type": "franchise",
       "category": "Franchise",
@@ -87,6 +65,28 @@
       "price": "Check source",
       "sourceName": "SMERGERS",
       "url": "https://www.smergers.com/businesses-for-sale-by-owner/t2x75b/",
+      "verificationStatus": "Public source only"
+    },
+    {
+      "type": "franchise",
+      "category": "Franchise",
+      "title": "Startups for Sale",
+      "summary": "Automatically discovered public lead. Verify seller identity, financials, ownership, availability, and terms before presenting to any buyer.",
+      "location": "Vietnam",
+      "price": "Check source",
+      "sourceName": "SMERGERS",
+      "url": "https://www.smergers.com/startups-for-sale/t2x76b/",
+      "verificationStatus": "Public source only"
+    },
+    {
+      "type": "franchise",
+      "category": "Franchise",
+      "title": "Manufacturing Business for Sale",
+      "summary": "Automatically discovered public lead. Verify seller identity, financials, ownership, availability, and terms before presenting to any buyer.",
+      "location": "Vietnam",
+      "price": "Check source",
+      "sourceName": "SMERGERS",
+      "url": "https://www.smergers.com/manufacturing-businesses-for-sale-and-investment/x88b/",
       "verificationStatus": "Public source only"
     }
   ]
