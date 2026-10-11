@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-11T04:25:35.1783946+00:00",
+  "updatedAt": "2026-10-11T17:26:00.3484244+00:00",
   "items": [
+    {
+      "category": "Investment",
+      "title": "Vietnam must ensure tax policy stability to retain and attract foreign investors: officials",
+      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
+      "sourceName": "VnExpress International Business",
+      "url": "https://e.vnexpress.net/news/business/economy/vietnam-must-ensure-tax-policy-stability-to-retain-and-attract-foreign-investors-officials-5130952.html"
+    },
     {
       "category": "Vietnam Economy",
       "title": "Vietnam-Cambodia trade gathers pace towards $20B target",
@@ -35,13 +42,6 @@
       "summary": "Infrastructure movement can affect office, retail, logistics, industrial, and property-entry decisions for new Vietnam entrants.",
       "sourceName": "VnExpress International Business",
       "url": "https://e.vnexpress.net/news/business/companies/vingroup-controlled-by-southeast-asia-s-richest-billionaire-orders-200-driverless-metro-trains-from-alstom-for-hanoi-5129327.html"
-    },
-    {
-      "category": "Finance / Markets",
-      "title": "World Bank lifts Vietnam’s 2026 GDP growth forecast to 7.4%",
-      "summary": "Finance and market headlines help owners track confidence, currency pressure, consumer sentiment, and timing risk.",
-      "sourceName": "VnExpress International Business",
-      "url": "https://e.vnexpress.net/news/business/economy/world-bank-lifts-vietnam-s-2026-gdp-growth-forecast-to-7-4-5129856.html"
     }
   ]
 }
