@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-15T03:31:15.9323071+00:00",
+  "updatedAt": "2026-10-15T16:26:39.0920316+00:00",
   "items": [
+    {
+      "category": "Investment",
+      "title": "Dollar falls against dong",
+      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
+      "sourceName": "VnExpress International Business",
+      "url": "https://e.vnexpress.net/news/business/markets/dollar-falls-against-dong-5132596.html"
+    },
     {
       "category": "Consumer Demand",
       "title": "Hanoi apartment sales plunge 50% in Q3",
@@ -23,25 +30,18 @@
       "url": "https://e.vnexpress.net/news/business/economy/singapore-lender-uob-raises-vietnam-s-growth-forecast-to-9-2-5132098.html"
     },
     {
-      "category": "Vietnam Economy",
-      "title": "US hikes pepper imports from Vietnam, slashes purchases from elsewhere",
-      "summary": "Vietnam economic news selected for business owners considering market entry, partnerships, or local setup.",
-      "sourceName": "VnExpress International Business",
-      "url": "https://e.vnexpress.net/news/business/economy/us-hikes-pepper-imports-from-vietnam-slashes-purchases-from-elsewhere-5131167.html"
+      "category": "Investment",
+      "title": "HCM City summit helps SMEs enter high-quality HoReCa supply chains",
+      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
+      "sourceName": "Vietnam News Economy",
+      "url": "https://vietnamnews.vn/economy/1802117/hcm-city-summit-helps-smes-enter-high-quality-horeca-supply-chains.html"
     },
     {
       "category": "Investment",
-      "title": "Dollar slips against dong",
+      "title": "HCM City partners bring AI research closer to real-world use",
       "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
-      "sourceName": "VnExpress International Business",
-      "url": "https://e.vnexpress.net/news/business/markets/dollar-slips-against-dong-5131642.html"
-    },
-    {
-      "category": "Property",
-      "title": "Apartments lead HCM City property demand amid cautious sentiment",
-      "summary": "Property and real-estate movement can affect office, retail, industrial, and workspace-entry planning.",
       "sourceName": "Vietnam News Economy",
-      "url": "https://vietnamnews.vn/economy/1802041/apartments-lead-hcm-city-property-demand-amid-cautious-sentiment.html"
+      "url": "https://vietnamnews.vn/economy/1802079/hcm-city-partners-bring-ai-research-closer-to-real-world-use.html"
     }
   ]
 }
