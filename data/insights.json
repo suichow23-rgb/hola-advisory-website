@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-16T03:27:02.7508102+00:00",
+  "updatedAt": "2026-10-16T16:12:04.5539945+00:00",
   "items": [
+    {
+      "category": "Investment",
+      "title": "Dollar weakens against dong",
+      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
+      "sourceName": "VnExpress International Business",
+      "url": "https://e.vnexpress.net/news/business/markets/dollar-weakens-against-dong-5133150.html"
+    },
     {
       "category": "Investment",
       "title": "Dollar falls against dong",
@@ -17,20 +24,6 @@
     },
     {
       "category": "Investment",
-      "title": "Dollar slides against dong",
-      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
-      "sourceName": "VnExpress International Business",
-      "url": "https://e.vnexpress.net/news/business/markets/dollar-slides-against-dong-5132247.html"
-    },
-    {
-      "category": "Investment",
-      "title": "Singapore lender UOB raises Vietnam’s growth forecast to 9.2%",
-      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
-      "sourceName": "VnExpress International Business",
-      "url": "https://e.vnexpress.net/news/business/economy/singapore-lender-uob-raises-vietnam-s-growth-forecast-to-9-2-5132098.html"
-    },
-    {
-      "category": "Investment",
       "title": "HCM City summit helps SMEs enter high-quality HoReCa supply chains",
       "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
       "sourceName": "Vietnam News Economy",
@@ -38,10 +31,17 @@
     },
     {
       "category": "Investment",
-      "title": "HCM City partners bring AI research closer to real-world use",
+      "title": "Sun PhuQuoc Airways launches daily HCM City–Shanghai route",
       "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
       "sourceName": "Vietnam News Economy",
-      "url": "https://vietnamnews.vn/economy/1802079/hcm-city-partners-bring-ai-research-closer-to-real-world-use.html"
+      "url": "https://vietnamnews.vn/brandinfo/1802146/sun-phuquoc-airways-launches-daily-hcm-city-shanghai-route.html"
+    },
+    {
+      "category": "Vietnam Economy",
+      "title": "Philip Morris Vietnam attends Việt Nam–U.S. Business Summit",
+      "summary": "Vietnam economic news selected for business owners considering market entry, partnerships, or local setup.",
+      "sourceName": "Vietnam News Economy",
+      "url": "https://vietnamnews.vn/brandinfo/1802116/philip-morris-vietnam-attends-viet-nam-u-s-business-summit.html"
     }
   ]
 }
