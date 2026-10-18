@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-18T03:22:17.2630155+00:00",
+  "updatedAt": "2026-10-18T15:28:49.9951379+00:00",
   "items": [
+    {
+      "category": "Vietnam Economy",
+      "title": "Vietnam, EFTA sign free trade agreement after 14 years of negotiations",
+      "summary": "Vietnam economic news selected for business owners considering market entry, partnerships, or local setup.",
+      "sourceName": "VnExpress International Business",
+      "url": "https://e.vnexpress.net/news/business/economy/vietnam-efta-sign-free-trade-agreement-after-14-years-of-negotiations-5133850.html"
+    },
     {
       "category": "Investment",
       "title": "Dollar edges up against dong on black market",
@@ -14,13 +21,6 @@
       "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
       "sourceName": "VnExpress International Business",
       "url": "https://e.vnexpress.net/news/business/markets/dollar-weakens-against-dong-5133150.html"
-    },
-    {
-      "category": "Investment",
-      "title": "Dollar falls against dong",
-      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
-      "sourceName": "VnExpress International Business",
-      "url": "https://e.vnexpress.net/news/business/markets/dollar-falls-against-dong-5132596.html"
     },
     {
       "category": "Property",
