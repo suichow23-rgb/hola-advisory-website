@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-18T15:28:49.9951379+00:00",
+  "updatedAt": "2026-10-19T03:34:16.7877056+00:00",
   "items": [
+    {
+      "category": "Consumer Demand",
+      "title": "Masan has 19 products and services named Vietnam National Brands",
+      "summary": "Consumer and service-sector signals help foreign brands judge whether Vietnam is worth testing city by city.",
+      "sourceName": "VnExpress International Business",
+      "url": "https://e.vnexpress.net/news/business/masan-has-19-products-and-services-named-vietnam-national-brands-5133777.html"
+    },
     {
       "category": "Vietnam Economy",
       "title": "Vietnam, EFTA sign free trade agreement after 14 years of negotiations",
@@ -23,25 +30,18 @@
       "url": "https://e.vnexpress.net/news/business/markets/dollar-weakens-against-dong-5133150.html"
     },
     {
+      "category": "Vietnam Economy",
+      "title": "HCM City to host Nordic-Việt Nam Business Summit",
+      "summary": "Vietnam economic news selected for business owners considering market entry, partnerships, or local setup.",
+      "sourceName": "Vietnam News Economy",
+      "url": "https://vietnamnews.vn/economy/1802249/hcm-city-to-host-nordic-viet-nam-business-summit.html"
+    },
+    {
       "category": "Property",
       "title": "PropertyGuru Vietnam Property Awards honour outstanding developers across nearly 80 categories",
       "summary": "Property and real-estate movement can affect office, retail, industrial, and workspace-entry planning.",
       "sourceName": "Vietnam News Economy",
       "url": "https://vietnamnews.vn/economy/1802229/propertyguru-vietnam-property-awards-honour-outstanding-developers-across-nearly-80-categories.html"
-    },
-    {
-      "category": "Investment",
-      "title": "Sun PhuQuoc Airways launches daily HCM City–Shanghai route",
-      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
-      "sourceName": "Vietnam News Economy",
-      "url": "https://vietnamnews.vn/brandinfo/1802146/sun-phuquoc-airways-launches-daily-hcm-city-shanghai-route.html"
-    },
-    {
-      "category": "Vietnam Economy",
-      "title": "Philip Morris Vietnam attends Việt Nam–U.S. Business Summit",
-      "summary": "Vietnam economic news selected for business owners considering market entry, partnerships, or local setup.",
-      "sourceName": "Vietnam News Economy",
-      "url": "https://vietnamnews.vn/brandinfo/1802116/philip-morris-vietnam-attends-viet-nam-u-s-business-summit.html"
     }
   ]
 }
