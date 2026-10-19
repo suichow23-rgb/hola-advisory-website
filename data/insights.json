@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-19T03:34:16.7877056+00:00",
+  "updatedAt": "2026-10-19T18:25:31.5380929+00:00",
   "items": [
+    {
+      "category": "Investment",
+      "title": "Dollar gains over dong",
+      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
+      "sourceName": "VnExpress International Business",
+      "url": "https://e.vnexpress.net/news/business/markets/dollar-gains-over-dong-5134155.html"
+    },
     {
       "category": "Consumer Demand",
       "title": "Masan has 19 products and services named Vietnam National Brands",
@@ -16,18 +23,11 @@
       "url": "https://e.vnexpress.net/news/business/economy/vietnam-efta-sign-free-trade-agreement-after-14-years-of-negotiations-5133850.html"
     },
     {
-      "category": "Investment",
-      "title": "Dollar edges up against dong on black market",
-      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
-      "sourceName": "VnExpress International Business",
-      "url": "https://e.vnexpress.net/news/business/markets/dollar-edges-up-against-dong-on-black-market-5133554.html"
-    },
-    {
-      "category": "Investment",
-      "title": "Dollar weakens against dong",
-      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
-      "sourceName": "VnExpress International Business",
-      "url": "https://e.vnexpress.net/news/business/markets/dollar-weakens-against-dong-5133150.html"
+      "category": "Property",
+      "title": "HCM City attracts US$5.7 billion into export processing and industrial zones",
+      "summary": "Property and real-estate movement can affect office, retail, industrial, and workspace-entry planning.",
+      "sourceName": "Vietnam News Economy",
+      "url": "https://vietnamnews.vn/economy/1802306/hcm-city-attracts-us-5-7-billion-into-export-processing-and-industrial-zones.html"
     },
     {
       "category": "Vietnam Economy",
@@ -37,11 +37,11 @@
       "url": "https://vietnamnews.vn/economy/1802249/hcm-city-to-host-nordic-viet-nam-business-summit.html"
     },
     {
-      "category": "Property",
-      "title": "PropertyGuru Vietnam Property Awards honour outstanding developers across nearly 80 categories",
-      "summary": "Property and real-estate movement can affect office, retail, industrial, and workspace-entry planning.",
+      "category": "Investment",
+      "title": "Visit Vietnam app to showcase AI-powered platform at ITB Asia 2026",
+      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
       "sourceName": "Vietnam News Economy",
-      "url": "https://vietnamnews.vn/economy/1802229/propertyguru-vietnam-property-awards-honour-outstanding-developers-across-nearly-80-categories.html"
+      "url": "https://vietnamnews.vn/brandinfo/1802354/visit-vietnam-app-to-showcase-ai-powered-platform-at-itb-asia-2026.html"
     }
   ]
 }
