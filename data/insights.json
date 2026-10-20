@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-19T18:25:31.5380929+00:00",
+  "updatedAt": "2026-10-20T03:44:46.5596653+00:00",
   "items": [
+    {
+      "category": "Investment",
+      "title": "Dollar inches down against dong",
+      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
+      "sourceName": "VnExpress International Business",
+      "url": "https://e.vnexpress.net/news/business/markets/dollar-inches-down-against-dong-5134499.html"
+    },
     {
       "category": "Investment",
       "title": "Dollar gains over dong",
@@ -23,25 +30,18 @@
       "url": "https://e.vnexpress.net/news/business/economy/vietnam-efta-sign-free-trade-agreement-after-14-years-of-negotiations-5133850.html"
     },
     {
-      "category": "Property",
-      "title": "HCM City attracts US$5.7 billion into export processing and industrial zones",
-      "summary": "Property and real-estate movement can affect office, retail, industrial, and workspace-entry planning.",
-      "sourceName": "Vietnam News Economy",
-      "url": "https://vietnamnews.vn/economy/1802306/hcm-city-attracts-us-5-7-billion-into-export-processing-and-industrial-zones.html"
-    },
-    {
-      "category": "Vietnam Economy",
-      "title": "HCM City to host Nordic-Việt Nam Business Summit",
-      "summary": "Vietnam economic news selected for business owners considering market entry, partnerships, or local setup.",
-      "sourceName": "Vietnam News Economy",
-      "url": "https://vietnamnews.vn/economy/1802249/hcm-city-to-host-nordic-viet-nam-business-summit.html"
-    },
-    {
       "category": "Investment",
-      "title": "Visit Vietnam app to showcase AI-powered platform at ITB Asia 2026",
+      "title": "Vietnam Airlines to launch direct Hanoi–Hangzhou flights in November",
       "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
       "sourceName": "Vietnam News Economy",
-      "url": "https://vietnamnews.vn/brandinfo/1802354/visit-vietnam-app-to-showcase-ai-powered-platform-at-itb-asia-2026.html"
+      "url": "https://vietnamnews.vn/economy/1802376/vietnam-airlines-to-launch-direct-hanoi-hangzhou-flights-in-november.html"
+    },
+    {
+      "category": "Finance / Markets",
+      "title": "Losses in heavy-weight stocks push VN-Index below 1,700 points",
+      "summary": "Finance and market headlines help owners track confidence, currency pressure, consumer sentiment, and timing risk.",
+      "sourceName": "Vietnam News Economy",
+      "url": "https://vietnamnews.vn/economy/1802378/losses-in-heavy-weight-stocks-push-vn-index-below-1-700-points.html"
     }
   ]
 }
