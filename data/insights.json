@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-10-20T03:44:46.5596653+00:00",
+  "updatedAt": "2026-10-20T16:27:09.3080055+00:00",
   "items": [
+    {
+      "category": "Infrastructure",
+      "title": "France’s Alstom gets $900M order from Vingroup for Hanoi metro trains",
+      "summary": "Infrastructure movement can affect office, retail, logistics, industrial, and property-entry decisions for new Vietnam entrants.",
+      "sourceName": "VnExpress International Business",
+      "url": "https://e.vnexpress.net/news/business/companies/france-s-alstom-gets-900m-order-from-vingroup-for-hanoi-metro-trains-5134472.html"
+    },
+    {
+      "category": "Property",
+      "title": "CapitaLand Development wins seven awards at PropertyGuru Vietnam 2026",
+      "summary": "Property and real-estate movement can affect office, retail, industrial, and workspace-entry planning.",
+      "sourceName": "VnExpress International Business",
+      "url": "https://e.vnexpress.net/news/business/capitaland-development-wins-seven-awards-at-propertyguru-vietnam-2026-5134471.html"
+    },
     {
       "category": "Investment",
       "title": "Dollar inches down against dong",
@@ -24,24 +38,10 @@
     },
     {
       "category": "Vietnam Economy",
-      "title": "Vietnam, EFTA sign free trade agreement after 14 years of negotiations",
+      "title": "Top Vietnamese leader attends Việt Nam–Denmark Business Forum",
       "summary": "Vietnam economic news selected for business owners considering market entry, partnerships, or local setup.",
-      "sourceName": "VnExpress International Business",
-      "url": "https://e.vnexpress.net/news/business/economy/vietnam-efta-sign-free-trade-agreement-after-14-years-of-negotiations-5133850.html"
-    },
-    {
-      "category": "Investment",
-      "title": "Vietnam Airlines to launch direct Hanoi–Hangzhou flights in November",
-      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
       "sourceName": "Vietnam News Economy",
-      "url": "https://vietnamnews.vn/economy/1802376/vietnam-airlines-to-launch-direct-hanoi-hangzhou-flights-in-november.html"
-    },
-    {
-      "category": "Finance / Markets",
-      "title": "Losses in heavy-weight stocks push VN-Index below 1,700 points",
-      "summary": "Finance and market headlines help owners track confidence, currency pressure, consumer sentiment, and timing risk.",
-      "sourceName": "Vietnam News Economy",
-      "url": "https://vietnamnews.vn/economy/1802378/losses-in-heavy-weight-stocks-push-vn-index-below-1-700-points.html"
+      "url": "https://vietnamnews.vn/economy/1802478/top-vietnamese-leader-attends-viet-nam-denmark-business-forum.html"
     }
   ]
 }
