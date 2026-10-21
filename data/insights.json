@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-21T03:36:07.1490303+00:00",
+  "updatedAt": "2026-10-21T16:44:10.2408186+00:00",
   "items": [
+    {
+      "category": "Investment",
+      "title": "Dollar strengthens against dong",
+      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
+      "sourceName": "VnExpress International Business",
+      "url": "https://e.vnexpress.net/news/business/markets/dollar-strengthens-against-dong-5135050.html"
+    },
     {
       "category": "Investment",
       "title": "Vietnam well positioned to attract higher-value investment: Citi executive",
@@ -30,18 +37,11 @@
       "url": "https://e.vnexpress.net/news/business/markets/dollar-inches-down-against-dong-5134499.html"
     },
     {
-      "category": "Vietnam Economy",
-      "title": "Top Vietnamese leader attends Việt Nam–Denmark Business Forum",
-      "summary": "Vietnam economic news selected for business owners considering market entry, partnerships, or local setup.",
+      "category": "Finance / Markets",
+      "title": "VN-Index soars above 1,700 points on Vin-related stocks",
+      "summary": "Finance and market headlines help owners track confidence, currency pressure, consumer sentiment, and timing risk.",
       "sourceName": "Vietnam News Economy",
-      "url": "https://vietnamnews.vn/economy/1802478/top-vietnamese-leader-attends-viet-nam-denmark-business-forum.html"
-    },
-    {
-      "category": "Vietnam Economy",
-      "title": "HCM City addresses manufacturing, land hurdles for Q4 growth push",
-      "summary": "Vietnam economic news selected for business owners considering market entry, partnerships, or local setup.",
-      "sourceName": "Vietnam News Economy",
-      "url": "https://vietnamnews.vn/economy/1802437/hcm-city-addresses-manufacturing-land-hurdles-for-q4-growth-push.html"
+      "url": "https://vietnamnews.vn/economy/1802567/vn-index-soars-above-1-700-points-on-vin-related-stocks.html"
     }
   ]
 }
