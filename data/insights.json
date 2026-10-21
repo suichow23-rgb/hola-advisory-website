@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-20T16:27:09.3080055+00:00",
+  "updatedAt": "2026-10-21T03:36:07.1490303+00:00",
   "items": [
+    {
+      "category": "Investment",
+      "title": "Vietnam well positioned to attract higher-value investment: Citi executive",
+      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
+      "sourceName": "VnExpress International Business",
+      "url": "https://e.vnexpress.net/news/business/vietnam-well-positioned-to-attract-higher-value-investment-citi-executive-5134665.html"
+    },
     {
       "category": "Infrastructure",
       "title": "France’s Alstom gets $900M order from Vingroup for Hanoi metro trains",
@@ -23,25 +30,18 @@
       "url": "https://e.vnexpress.net/news/business/markets/dollar-inches-down-against-dong-5134499.html"
     },
     {
-      "category": "Investment",
-      "title": "Dollar gains over dong",
-      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
-      "sourceName": "VnExpress International Business",
-      "url": "https://e.vnexpress.net/news/business/markets/dollar-gains-over-dong-5134155.html"
-    },
-    {
-      "category": "Consumer Demand",
-      "title": "Masan has 19 products and services named Vietnam National Brands",
-      "summary": "Consumer and service-sector signals help foreign brands judge whether Vietnam is worth testing city by city.",
-      "sourceName": "VnExpress International Business",
-      "url": "https://e.vnexpress.net/news/business/masan-has-19-products-and-services-named-vietnam-national-brands-5133777.html"
-    },
-    {
       "category": "Vietnam Economy",
       "title": "Top Vietnamese leader attends Việt Nam–Denmark Business Forum",
       "summary": "Vietnam economic news selected for business owners considering market entry, partnerships, or local setup.",
       "sourceName": "Vietnam News Economy",
       "url": "https://vietnamnews.vn/economy/1802478/top-vietnamese-leader-attends-viet-nam-denmark-business-forum.html"
+    },
+    {
+      "category": "Vietnam Economy",
+      "title": "HCM City addresses manufacturing, land hurdles for Q4 growth push",
+      "summary": "Vietnam economic news selected for business owners considering market entry, partnerships, or local setup.",
+      "sourceName": "Vietnam News Economy",
+      "url": "https://vietnamnews.vn/economy/1802437/hcm-city-addresses-manufacturing-land-hurdles-for-q4-growth-push.html"
     }
   ]
 }
