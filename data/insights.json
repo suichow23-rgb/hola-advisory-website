@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T16:44:36.1009760+00:00",
+  "updatedAt": "2026-10-23T03:40:30.7756847+00:00",
   "items": [
     {
       "category": "Investment",
@@ -23,11 +23,18 @@
       "url": "https://e.vnexpress.net/news/business/vietnam-well-positioned-to-attract-higher-value-investment-citi-executive-5134665.html"
     },
     {
-      "category": "Infrastructure",
-      "title": "France’s Alstom gets $900M order from Vingroup for Hanoi metro trains",
-      "summary": "Infrastructure movement can affect office, retail, logistics, industrial, and property-entry decisions for new Vietnam entrants.",
-      "sourceName": "VnExpress International Business",
-      "url": "https://e.vnexpress.net/news/business/companies/france-s-alstom-gets-900m-order-from-vingroup-for-hanoi-metro-trains-5134472.html"
+      "category": "Vietnam Economy",
+      "title": "Vietnam Expo HCMC 2026 to feature over 1,000 trade exhibition booths",
+      "summary": "Vietnam economic news selected for business owners considering market entry, partnerships, or local setup.",
+      "sourceName": "Vietnam News Economy",
+      "url": "https://vietnamnews.vn/economy/1802671/vietnam-expo-hcmc-2026-to-feature-over-1-000-trade-exhibition-booths.html"
+    },
+    {
+      "category": "Property",
+      "title": "HCM City property buyers increasingly seek ‘real value’ beyond city centre",
+      "summary": "Property and real-estate movement can affect office, retail, industrial, and workspace-entry planning.",
+      "sourceName": "Vietnam News Economy",
+      "url": "https://vietnamnews.vn/economy/1802602/hcm-city-property-buyers-increasingly-seek-real-value-beyond-city-centre.html"
     },
     {
       "category": "Finance / Markets",
@@ -35,13 +42,6 @@
       "summary": "Finance and market headlines help owners track confidence, currency pressure, consumer sentiment, and timing risk.",
       "sourceName": "Vietnam News Economy",
       "url": "https://vietnamnews.vn/economy/1802642/market-mixed-vn-index-extends-strong-rallies.html"
-    },
-    {
-      "category": "Investment",
-      "title": "Vietnam Airlines to Launch Daily Nonstop Flights Between Da Nang and Singapore on November 17",
-      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
-      "sourceName": "Vietnam News Economy",
-      "url": "https://vietnamnews.vn/media-outreach/1802629/vietnam-airlines-to-launch-daily-nonstop-flights-between-da-nang-and-singapore-on-november-17.html"
     }
   ]
 }
