@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-23T03:40:30.7756847+00:00",
+  "updatedAt": "2026-10-23T16:35:30.0582686+00:00",
   "items": [
+    {
+      "category": "Investment",
+      "title": "Dollar edges up against dong",
+      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
+      "sourceName": "VnExpress International Business",
+      "url": "https://e.vnexpress.net/news/business/markets/dollar-edges-up-against-dong-5136000.html"
+    },
     {
       "category": "Investment",
       "title": "Dollar dips against dong",
@@ -23,25 +30,18 @@
       "url": "https://e.vnexpress.net/news/business/vietnam-well-positioned-to-attract-higher-value-investment-citi-executive-5134665.html"
     },
     {
+      "category": "Green Economy",
+      "title": "Vietnamese businesses strengthen links to advance green exports",
+      "summary": "Green-economy and compliance shifts can create opportunities for ESG, manufacturing, energy, and advisory-linked services.",
+      "sourceName": "Vietnam News Economy",
+      "url": "https://vietnamnews.vn/economy/1802695/vietnamese-businesses-strengthen-links-to-advance-green-exports.html"
+    },
+    {
       "category": "Vietnam Economy",
       "title": "Vietnam Expo HCMC 2026 to feature over 1,000 trade exhibition booths",
       "summary": "Vietnam economic news selected for business owners considering market entry, partnerships, or local setup.",
       "sourceName": "Vietnam News Economy",
       "url": "https://vietnamnews.vn/economy/1802671/vietnam-expo-hcmc-2026-to-feature-over-1-000-trade-exhibition-booths.html"
-    },
-    {
-      "category": "Property",
-      "title": "HCM City property buyers increasingly seek ‘real value’ beyond city centre",
-      "summary": "Property and real-estate movement can affect office, retail, industrial, and workspace-entry planning.",
-      "sourceName": "Vietnam News Economy",
-      "url": "https://vietnamnews.vn/economy/1802602/hcm-city-property-buyers-increasingly-seek-real-value-beyond-city-centre.html"
-    },
-    {
-      "category": "Finance / Markets",
-      "title": "Market mixed, VN-Index extends strong rallies",
-      "summary": "Finance and market headlines help owners track confidence, currency pressure, consumer sentiment, and timing risk.",
-      "sourceName": "Vietnam News Economy",
-      "url": "https://vietnamnews.vn/economy/1802642/market-mixed-vn-index-extends-strong-rallies.html"
     }
   ]
 }
