@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T03:34:54.5088219+00:00",
+  "updatedAt": "2026-10-24T15:29:41.3996436+00:00",
   "items": [
     {
       "category": "Property",
@@ -23,25 +23,25 @@
       "url": "https://e.vnexpress.net/news/business/markets/dollar-dips-against-dong-5135474.html"
     },
     {
-      "category": "Investment",
-      "title": "Dollar strengthens against dong",
-      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
-      "sourceName": "VnExpress International Business",
-      "url": "https://e.vnexpress.net/news/business/markets/dollar-strengthens-against-dong-5135050.html"
-    },
-    {
-      "category": "Green Economy",
-      "title": "Vietnamese businesses strengthen links to advance green exports",
-      "summary": "Green-economy and compliance shifts can create opportunities for ESG, manufacturing, energy, and advisory-linked services.",
-      "sourceName": "Vietnam News Economy",
-      "url": "https://vietnamnews.vn/economy/1802695/vietnamese-businesses-strengthen-links-to-advance-green-exports.html"
-    },
-    {
       "category": "Vietnam Economy",
-      "title": "Vietnam Expo HCMC 2026 to feature over 1,000 trade exhibition booths",
+      "title": "Vietnamese exporters urged to tap UAE trade pact to expand into Middle East, Africa",
       "summary": "Vietnam economic news selected for business owners considering market entry, partnerships, or local setup.",
       "sourceName": "Vietnam News Economy",
-      "url": "https://vietnamnews.vn/economy/1802671/vietnam-expo-hcmc-2026-to-feature-over-1-000-trade-exhibition-booths.html"
+      "url": "https://vietnamnews.vn/economy/1802790/vietnamese-exporters-urged-to-tap-uae-trade-pact-to-expand-into-middle-east-africa.html"
+    },
+    {
+      "category": "Investment",
+      "title": "HCM City inaugurates semiconductor training lab to boost high-tech workforce",
+      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
+      "sourceName": "Vietnam News Economy",
+      "url": "https://vietnamnews.vn/economy/1802785/hcm-city-inaugurates-semiconductor-training-lab-to-boost-high-tech-workforce.html"
+    },
+    {
+      "category": "Finance / Markets",
+      "title": "Vietnamese agricultural products seek more direct access to Italian market",
+      "summary": "Finance and market headlines help owners track confidence, currency pressure, consumer sentiment, and timing risk.",
+      "sourceName": "Vietnam News Economy",
+      "url": "https://vietnamnews.vn/economy/1802784/vietnamese-agricultural-products-seek-more-direct-access-to-italian-market.html"
     }
   ]
 }
