@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T15:29:41.3996436+00:00",
+  "updatedAt": "2026-10-25T03:31:25.4305495+00:00",
   "items": [
     {
       "category": "Property",
@@ -14,13 +14,6 @@
       "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
       "sourceName": "VnExpress International Business",
       "url": "https://e.vnexpress.net/news/business/markets/dollar-edges-up-against-dong-5136000.html"
-    },
-    {
-      "category": "Investment",
-      "title": "Dollar dips against dong",
-      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
-      "sourceName": "VnExpress International Business",
-      "url": "https://e.vnexpress.net/news/business/markets/dollar-dips-against-dong-5135474.html"
     },
     {
       "category": "Vietnam Economy",
@@ -42,6 +35,13 @@
       "summary": "Finance and market headlines help owners track confidence, currency pressure, consumer sentiment, and timing risk.",
       "sourceName": "Vietnam News Economy",
       "url": "https://vietnamnews.vn/economy/1802784/vietnamese-agricultural-products-seek-more-direct-access-to-italian-market.html"
+    },
+    {
+      "category": "Investment",
+      "title": "Japanese FDI supports green transition in Việt Nam's manufacturing sector",
+      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
+      "sourceName": "Vietnam News Economy",
+      "url": "https://vietnamnews.vn/economy/1802772/japanese-fdi-supports-green-transition-in-viet-nam-s-manufacturing-sector.html"
     }
   ]
 }
