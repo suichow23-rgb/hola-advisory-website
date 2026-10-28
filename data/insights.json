@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-10-28T04:23:11.8869621+00:00",
+  "updatedAt": "2026-10-28T17:57:28.2264872+00:00",
   "items": [
+    {
+      "category": "Investment",
+      "title": "Dollar dips against dong on black market",
+      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
+      "sourceName": "VnExpress International Business",
+      "url": "https://e.vnexpress.net/news/business/markets/dollar-dips-against-dong-on-black-market-5137833.html"
+    },
+    {
+      "category": "Infrastructure",
+      "title": "HCMC financial center’s 10 members pledge to raise $2.7B for projects",
+      "summary": "Infrastructure movement can affect office, retail, logistics, industrial, and property-entry decisions for new Vietnam entrants.",
+      "sourceName": "VnExpress International Business",
+      "url": "https://e.vnexpress.net/news/business/economy/hcmc-financial-center-s-10-members-pledge-to-raise-2-7b-for-projects-5137928.html"
+    },
     {
       "category": "Vietnam Economy",
       "title": "Vietnam coffee king’s eldest son becomes deputy CEO of mother’s company",
@@ -24,24 +38,10 @@
     },
     {
       "category": "Investment",
-      "title": "Dollar gains over dong",
-      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
-      "sourceName": "VnExpress International Business",
-      "url": "https://e.vnexpress.net/news/business/markets/dollar-gains-over-dong-5136990.html"
-    },
-    {
-      "category": "Vietnam Economy",
-      "title": "Vietnamese businesses face tax hurdles",
-      "summary": "Vietnam economic news selected for business owners considering market entry, partnerships, or local setup.",
-      "sourceName": "Vietnam News Economy",
-      "url": "https://vietnamnews.vn/economy/1803008/vietnamese-businesses-face-tax-hurdles.html"
-    },
-    {
-      "category": "Investment",
-      "title": "HCM City seeks new growth model in AI era",
+      "title": "HCMC chairman concludes AEF 2026 with development commitments",
       "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
       "sourceName": "Vietnam News Economy",
-      "url": "https://vietnamnews.vn/economy/1803020/hcm-city-seeks-new-growth-model-in-ai-era.html"
+      "url": "https://vietnamnews.vn/economy/1803099/hcmc-chairman-concludes-aef-2026-with-development-commitments.html"
     }
   ]
 }
