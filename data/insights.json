@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-29T04:42:12.7847235+00:00",
+  "updatedAt": "2026-10-29T18:06:58.8288118+00:00",
   "items": [
+    {
+      "category": "Investment",
+      "title": "Dollar strengthens against dong",
+      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
+      "sourceName": "VnExpress International Business",
+      "url": "https://e.vnexpress.net/news/business/markets/dollar-strengthens-against-dong-5138288.html"
+    },
     {
       "category": "Investment",
       "title": "Dollar dips against dong on black market",
@@ -31,17 +38,10 @@
     },
     {
       "category": "Investment",
-      "title": "Wife of Southeast Asia’s richest man returns to second place in Vietnam’s billionaire ranking",
-      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
-      "sourceName": "VnExpress International Business",
-      "url": "https://e.vnexpress.net/news/business/billionaires/wife-of-southeast-asia-s-richest-man-returns-to-second-place-in-vietnam-s-billionaire-ranking-5137061.html"
-    },
-    {
-      "category": "Investment",
-      "title": "HCMC chairman concludes AEF 2026 with development commitments",
+      "title": "HCM City welcomes Chinese investments in logistics",
       "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
       "sourceName": "Vietnam News Economy",
-      "url": "https://vietnamnews.vn/economy/1803099/hcmc-chairman-concludes-aef-2026-with-development-commitments.html"
+      "url": "https://vietnamnews.vn/economy/1803189/hcm-city-welcomes-chinese-investments-in-logistics.html"
     }
   ]
 }
