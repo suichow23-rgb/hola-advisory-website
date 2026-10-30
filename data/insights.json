@@ -1,6 +1,34 @@
 {
-  "updatedAt": "2026-10-30T04:41:50.8278579+00:00",
+  "updatedAt": "2026-10-30T17:46:46.6654208+00:00",
   "items": [
+    {
+      "category": "Infrastructure",
+      "title": "Investors pledge $16.4B for 12 projects in HCMC",
+      "summary": "Infrastructure movement can affect office, retail, logistics, industrial, and property-entry decisions for new Vietnam entrants.",
+      "sourceName": "VnExpress International Business",
+      "url": "https://e.vnexpress.net/news/business/investors-pledge-16-4b-for-12-projects-in-hcmc-5138807.html"
+    },
+    {
+      "category": "Finance / Markets",
+      "title": "Old growth model cannot make Vietnam rich: World Bank official",
+      "summary": "Finance and market headlines help owners track confidence, currency pressure, consumer sentiment, and timing risk.",
+      "sourceName": "VnExpress International Business",
+      "url": "https://e.vnexpress.net/news/business/old-growth-model-cannot-make-vietnam-rich-world-bank-official-5138858.html"
+    },
+    {
+      "category": "Vietnam Economy",
+      "title": "Vietnam trade crosses $1 trillion for first time",
+      "summary": "Vietnam economic news selected for business owners considering market entry, partnerships, or local setup.",
+      "sourceName": "VnExpress International Business",
+      "url": "https://e.vnexpress.net/news/business/economy/vietnam-trade-crosses-1-trillion-for-first-time-5138655.html"
+    },
+    {
+      "category": "Investment",
+      "title": "Dollar weakens against dong",
+      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
+      "sourceName": "VnExpress International Business",
+      "url": "https://e.vnexpress.net/news/business/markets/dollar-weakens-against-dong-5138735.html"
+    },
     {
       "category": "Investment",
       "title": "Dollar strengthens against dong",
@@ -14,34 +42,6 @@
       "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
       "sourceName": "VnExpress International Business",
       "url": "https://e.vnexpress.net/news/business/markets/dollar-dips-against-dong-on-black-market-5137833.html"
-    },
-    {
-      "category": "Infrastructure",
-      "title": "HCMC financial center’s 10 members pledge to raise $2.7B for projects",
-      "summary": "Infrastructure movement can affect office, retail, logistics, industrial, and property-entry decisions for new Vietnam entrants.",
-      "sourceName": "VnExpress International Business",
-      "url": "https://e.vnexpress.net/news/business/economy/hcmc-financial-center-s-10-members-pledge-to-raise-2-7b-for-projects-5137928.html"
-    },
-    {
-      "category": "Vietnam Economy",
-      "title": "Vietnam coffee king’s eldest son becomes deputy CEO of mother’s company",
-      "summary": "Vietnam economic news selected for business owners considering market entry, partnerships, or local setup.",
-      "sourceName": "VnExpress International Business",
-      "url": "https://e.vnexpress.net/news/business/companies/vietnam-coffee-king-s-eldest-son-becomes-deputy-ceo-of-mother-s-company-5137747.html"
-    },
-    {
-      "category": "Investment",
-      "title": "HCM City welcomes Chinese investments in logistics",
-      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
-      "sourceName": "Vietnam News Economy",
-      "url": "https://vietnamnews.vn/economy/1803189/hcm-city-welcomes-chinese-investments-in-logistics.html"
-    },
-    {
-      "category": "Investment",
-      "title": "Vietnamese cuisine gains global spotlight through leaders’ street food moments",
-      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
-      "sourceName": "Vietnam News Economy",
-      "url": "https://vietnamnews.vn/life-style/1780452/vietnamese-cuisine-gains-global-spotlight-through-leaders-street-food-moments.html"
     }
   ]
 }
