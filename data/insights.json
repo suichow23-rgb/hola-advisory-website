@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-10-30T17:46:46.6654208+00:00",
+  "updatedAt": "2026-10-31T04:26:06.5765864+00:00",
   "items": [
+    {
+      "category": "Finance / Markets",
+      "title": "Deputy PM wants HCMC financial center to admit bank member in November",
+      "summary": "Finance and market headlines help owners track confidence, currency pressure, consumer sentiment, and timing risk.",
+      "sourceName": "VnExpress International Business",
+      "url": "https://e.vnexpress.net/news/business/deputy-pm-wants-hcmc-financial-center-to-admit-bank-member-in-november-5138901.html"
+    },
+    {
+      "category": "Investment",
+      "title": "Vietnam, China seek deeper ties in global supply chains",
+      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
+      "sourceName": "VnExpress International Business",
+      "url": "https://e.vnexpress.net/news/business/vietnam-china-seek-deeper-ties-in-global-supply-chains-5138893.html"
+    },
+    {
+      "category": "Property",
+      "title": "Keppel wins two awards for real estate excellence in Vietnam",
+      "summary": "Property and real-estate movement can affect office, retail, industrial, and workspace-entry planning.",
+      "sourceName": "VnExpress International Business",
+      "url": "https://e.vnexpress.net/news/business/keppel-wins-two-awards-for-real-estate-excellence-in-vietnam-5138676.html"
+    },
     {
       "category": "Infrastructure",
       "title": "Investors pledge $16.4B for 12 projects in HCMC",
@@ -21,27 +42,6 @@
       "summary": "Vietnam economic news selected for business owners considering market entry, partnerships, or local setup.",
       "sourceName": "VnExpress International Business",
       "url": "https://e.vnexpress.net/news/business/economy/vietnam-trade-crosses-1-trillion-for-first-time-5138655.html"
-    },
-    {
-      "category": "Investment",
-      "title": "Dollar weakens against dong",
-      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
-      "sourceName": "VnExpress International Business",
-      "url": "https://e.vnexpress.net/news/business/markets/dollar-weakens-against-dong-5138735.html"
-    },
-    {
-      "category": "Investment",
-      "title": "Dollar strengthens against dong",
-      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
-      "sourceName": "VnExpress International Business",
-      "url": "https://e.vnexpress.net/news/business/markets/dollar-strengthens-against-dong-5138288.html"
-    },
-    {
-      "category": "Investment",
-      "title": "Dollar dips against dong on black market",
-      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
-      "sourceName": "VnExpress International Business",
-      "url": "https://e.vnexpress.net/news/business/markets/dollar-dips-against-dong-on-black-market-5137833.html"
     }
   ]
 }
