@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-11-01T04:45:04.9972928+00:00",
+  "updatedAt": "2026-11-01T17:42:24.8085350+00:00",
   "items": [
+    {
+      "category": "Infrastructure",
+      "title": "Developer of Long Thanh, Vietnam’s largest airport, cuts nearly 1,400 employees in three months",
+      "summary": "Infrastructure movement can affect office, retail, logistics, industrial, and property-entry decisions for new Vietnam entrants.",
+      "sourceName": "VnExpress International Business",
+      "url": "https://e.vnexpress.net/news/business/companies/developer-of-long-thanh-vietnam-s-largest-airport-cuts-nearly-1-400-employees-in-three-months-5139349.html"
+    },
     {
       "category": "Investment",
       "title": "Dollar dips to 18-month low against dong",
@@ -35,13 +42,6 @@
       "summary": "Infrastructure movement can affect office, retail, logistics, industrial, and property-entry decisions for new Vietnam entrants.",
       "sourceName": "VnExpress International Business",
       "url": "https://e.vnexpress.net/news/business/investors-pledge-16-4b-for-12-projects-in-hcmc-5138807.html"
-    },
-    {
-      "category": "Finance / Markets",
-      "title": "Old growth model cannot make Vietnam rich: World Bank official",
-      "summary": "Finance and market headlines help owners track confidence, currency pressure, consumer sentiment, and timing risk.",
-      "sourceName": "VnExpress International Business",
-      "url": "https://e.vnexpress.net/news/business/old-growth-model-cannot-make-vietnam-rich-world-bank-official-5138858.html"
     }
   ]
 }
