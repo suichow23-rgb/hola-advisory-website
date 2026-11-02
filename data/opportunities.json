@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T04:47:01.6815331+00:00",
+  "updatedAt": "2026-11-02T21:27:36.0619696+00:00",
   "items": [
     {
       "type": "sale",
@@ -10,6 +10,17 @@
       "price": "Check source",
       "sourceName": "BusinessesForSale Vietnam",
       "url": "https://www.businessesforsale.com/draft-beer-and-alcoholic-beverages-shop-in-vietnam.aspx",
+      "verificationStatus": "Public source only"
+    },
+    {
+      "type": "sale",
+      "category": "Business For Sale",
+      "title": "Contact seller of Draft Beer and Alcoholic Beverages Shop in Vietnam",
+      "summary": "Automatically discovered public lead. Verify seller identity, financials, ownership, availability, and terms before presenting to any buyer.",
+      "location": "Vietnam",
+      "price": "Check source",
+      "sourceName": "BusinessesForSale Vietnam",
+      "url": "https://www.businessesforsale.com/draft-beer-and-alcoholic-beverages-shop-in-vietnam/contact",
       "verificationStatus": "Public source only"
     },
     {
@@ -26,12 +37,34 @@
     {
       "type": "sale",
       "category": "Business For Sale",
+      "title": "Contact seller of Beachside Hotel for Sale – Khanh Hoa, Vietnam",
+      "summary": "Automatically discovered public lead. Verify seller identity, financials, ownership, availability, and terms before presenting to any buyer.",
+      "location": "Vietnam",
+      "price": "Check source",
+      "sourceName": "BusinessesForSale Vietnam",
+      "url": "https://www.businessesforsale.com/beachside-hotel-for-sale-khanh-hoa-vietnam/contact",
+      "verificationStatus": "Public source only"
+    },
+    {
+      "type": "sale",
+      "category": "Business For Sale",
       "title": "Successful Established Coworking, Cafe, And Rooftop Spa",
       "summary": "Automatically discovered public lead. Verify seller identity, financials, ownership, availability, and terms before presenting to any buyer.",
       "location": "Vietnam",
       "price": "Check source",
       "sourceName": "BusinessesForSale Vietnam",
       "url": "https://www.businessesforsale.com/successful-established-coworking-cafe-and-rooftop-spa.aspx",
+      "verificationStatus": "Public source only"
+    },
+    {
+      "type": "sale",
+      "category": "Business For Sale",
+      "title": "Contact seller of Successful Established Coworking, Cafe, And Rooftop Spa",
+      "summary": "Automatically discovered public lead. Verify seller identity, financials, ownership, availability, and terms before presenting to any buyer.",
+      "location": "Vietnam",
+      "price": "Check source",
+      "sourceName": "BusinessesForSale Vietnam",
+      "url": "https://www.businessesforsale.com/successful-established-coworking-cafe-and-rooftop-spa/contact",
       "verificationStatus": "Public source only"
     },
     {
@@ -54,39 +87,6 @@
       "price": "Check source",
       "sourceName": "SMERGERS",
       "url": "https://www.smergers.com/restaurants-for-sale-and-investment/s409b/",
-      "verificationStatus": "Public source only"
-    },
-    {
-      "type": "franchise",
-      "category": "Franchise",
-      "title": "Franchise for Sale",
-      "summary": "Automatically discovered public lead. Verify seller identity, financials, ownership, availability, and terms before presenting to any buyer.",
-      "location": "Vietnam",
-      "price": "Check source",
-      "sourceName": "SMERGERS",
-      "url": "https://www.smergers.com/franchises-for-sale-and-investment/x146b/",
-      "verificationStatus": "Public source only"
-    },
-    {
-      "type": "franchise",
-      "category": "Franchise",
-      "title": "Business for Sale Near Me",
-      "summary": "Automatically discovered public lead. Verify seller identity, financials, ownership, availability, and terms before presenting to any buyer.",
-      "location": "Vietnam",
-      "price": "Check source",
-      "sourceName": "SMERGERS",
-      "url": "https://www.smergers.com/businesses-for-sale-near-me/t2x215b/",
-      "verificationStatus": "Public source only"
-    },
-    {
-      "type": "sale",
-      "category": "Business For Sale",
-      "title": "Startup Investors",
-      "summary": "Automatically discovered public lead. Verify seller identity, financials, ownership, availability, and terms before presenting to any buyer.",
-      "location": "Vietnam",
-      "price": "Check source",
-      "sourceName": "SMERGERS",
-      "url": "https://www.smergers.com/startup-investors/t2x144i/",
       "verificationStatus": "Public source only"
     }
   ]
