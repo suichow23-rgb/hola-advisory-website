@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-11-02T21:27:34.4632303+00:00",
+  "updatedAt": "2026-11-03T05:38:00.5289971+00:00",
   "items": [
+    {
+      "category": "Investment",
+      "title": "Dollar continues to slide against dong",
+      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
+      "sourceName": "VnExpress International Business",
+      "url": "https://e.vnexpress.net/news/business/markets/dollar-continues-to-slide-against-dong-5140051.html"
+    },
     {
       "category": "Consumer Demand",
       "title": "Asian brands drive demand for HCMC retail space",
@@ -35,13 +42,6 @@
       "summary": "Infrastructure movement can affect office, retail, logistics, industrial, and property-entry decisions for new Vietnam entrants.",
       "sourceName": "VnExpress International Business",
       "url": "https://e.vnexpress.net/news/business/companies/developer-of-long-thanh-vietnam-s-largest-airport-cuts-nearly-1-400-employees-in-three-months-5139349.html"
-    },
-    {
-      "category": "Investment",
-      "title": "Dollar dips to 18-month low against dong",
-      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
-      "sourceName": "VnExpress International Business",
-      "url": "https://e.vnexpress.net/news/business/markets/dollar-dips-to-18-month-low-against-dong-5139104.html"
     }
   ]
 }
