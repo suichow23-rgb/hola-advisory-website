@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-11-04T05:07:19.5845306+00:00",
+  "updatedAt": "2026-11-04T19:27:13.5848448+00:00",
   "items": [
+    {
+      "category": "Finance / Markets",
+      "title": "Techcombank CEO upbeat on Vietnam",
+      "summary": "Finance and market headlines help owners track confidence, currency pressure, consumer sentiment, and timing risk.",
+      "sourceName": "VnExpress International Business",
+      "url": "https://e.vnexpress.net/news/business/techcombank-ceo-upbeat-on-vietnam-s-growth-outlook-at-fortune-summit-2026-5140730.html"
+    },
+    {
+      "category": "Investment",
+      "title": "Dollar hits 1.5-year low against dong",
+      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
+      "sourceName": "VnExpress International Business",
+      "url": "https://e.vnexpress.net/news/business/markets/dollar-hits-1-5-year-low-against-dong-5140628.html"
+    },
     {
       "category": "Investment",
       "title": "Vietnam needs 1,000 aircraft over next 20 years",
@@ -17,31 +31,17 @@
     },
     {
       "category": "Investment",
-      "title": "Dollar continues to slide against dong",
-      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
-      "sourceName": "VnExpress International Business",
-      "url": "https://e.vnexpress.net/news/business/markets/dollar-continues-to-slide-against-dong-5140051.html"
-    },
-    {
-      "category": "Consumer Demand",
-      "title": "Asian brands drive demand for HCMC retail space",
-      "summary": "Consumer and service-sector signals help foreign brands judge whether Vietnam is worth testing city by city.",
-      "sourceName": "VnExpress International Business",
-      "url": "https://e.vnexpress.net/news/business/asian-brands-drive-demand-for-hcmc-retail-space-5139372.html"
-    },
-    {
-      "category": "Investment",
-      "title": "Vietnam needs $300B in annual investment, productivity gains to achieve double-digit growth",
-      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
-      "sourceName": "VnExpress International Business",
-      "url": "https://e.vnexpress.net/news/business/economy/vietnam-needs-300b-in-annual-investment-productivity-gains-to-achieve-double-digit-growth-5139710.html"
-    },
-    {
-      "category": "Investment",
-      "title": "Vietnam Airlines posts consolidated revenue of over VNĐ114 trillion in nine months",
+      "title": "Vietnamese localities strengthen investment links with Korean businesses",
       "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
       "sourceName": "Vietnam News Economy",
-      "url": "https://vietnamnews.vn/economy/1803492/vietnam-airlines-posts-consolidated-revenue-of-over-vnd114-trillion-in-nine-months.html"
+      "url": "https://vietnamnews.vn/economy/1803599/vietnamese-localities-strengthen-investment-links-with-korean-businesses.html"
+    },
+    {
+      "category": "Green Economy",
+      "title": "Five international exhibitions on water, energy, HVACR, supporting industries and data centres open in HCM City",
+      "summary": "Green-economy and compliance shifts can create opportunities for ESG, manufacturing, energy, and advisory-linked services.",
+      "sourceName": "Vietnam News Economy",
+      "url": "https://vietnamnews.vn/economy/1803575/five-international-exhibitions-on-water-energy-hvacr-supporting-industries-and-data-centres-open-in-hcm-city.html"
     }
   ]
 }
