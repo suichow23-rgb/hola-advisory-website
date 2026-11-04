@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-11-03T19:09:56.2991410+00:00",
+  "updatedAt": "2026-11-04T05:07:19.5845306+00:00",
   "items": [
+    {
+      "category": "Investment",
+      "title": "Vietnam needs 1,000 aircraft over next 20 years",
+      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
+      "sourceName": "VnExpress International Business",
+      "url": "https://e.vnexpress.net/news/business/economy/vietnam-needs-1-000-aircraft-over-next-20-years-5140537.html"
+    },
     {
       "category": "Vietnam Economy",
       "title": "Vietnam posts back-to-back monthly trade surpluses",
@@ -31,17 +38,10 @@
     },
     {
       "category": "Investment",
-      "title": "Dollar rises against dong on black market",
+      "title": "Vietnam Airlines posts consolidated revenue of over VNĐ114 trillion in nine months",
       "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
-      "sourceName": "VnExpress International Business",
-      "url": "https://e.vnexpress.net/news/business/markets/dollar-rises-against-dong-on-black-market-5139750.html"
-    },
-    {
-      "category": "Investment",
-      "title": "Vietnam must be more strategically proactive amid global uncertainty: PM",
-      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
-      "sourceName": "VnExpress International Business",
-      "url": "https://e.vnexpress.net/news/business/vietnam-must-be-more-strategically-proactive-amid-global-uncertainty-pm-5139375.html"
+      "sourceName": "Vietnam News Economy",
+      "url": "https://vietnamnews.vn/economy/1803492/vietnam-airlines-posts-consolidated-revenue-of-over-vnd114-trillion-in-nine-months.html"
     }
   ]
 }
