@@ -1,28 +1,6 @@
 {
-  "updatedAt": "2026-11-05T05:28:51.0100188+00:00",
+  "updatedAt": "2026-11-05T19:36:48.4409943+00:00",
   "items": [
-    {
-      "type": "sale",
-      "category": "Business For Sale",
-      "title": "Beachside Hotel for Sale – Khanh Hoa, Vietnam",
-      "summary": "Automatically discovered public lead. Verify seller identity, financials, ownership, availability, and terms before presenting to any buyer.",
-      "location": "Vietnam",
-      "price": "Check source",
-      "sourceName": "BusinessesForSale Vietnam",
-      "url": "https://www.businessesforsale.com/beachside-hotel-for-sale-khanh-hoa-vietnam.aspx",
-      "verificationStatus": "Public source only"
-    },
-    {
-      "type": "sale",
-      "category": "Business For Sale",
-      "title": "Contact seller of Beachside Hotel for Sale – Khanh Hoa, Vietnam",
-      "summary": "Automatically discovered public lead. Verify seller identity, financials, ownership, availability, and terms before presenting to any buyer.",
-      "location": "Vietnam",
-      "price": "Check source",
-      "sourceName": "BusinessesForSale Vietnam",
-      "url": "https://www.businessesforsale.com/beachside-hotel-for-sale-khanh-hoa-vietnam/contact",
-      "verificationStatus": "Public source only"
-    },
     {
       "type": "sale",
       "category": "Business For Sale",
@@ -48,6 +26,28 @@
     {
       "type": "sale",
       "category": "Business For Sale",
+      "title": "Beachside Hotel for Sale – Khanh Hoa, Vietnam",
+      "summary": "Automatically discovered public lead. Verify seller identity, financials, ownership, availability, and terms before presenting to any buyer.",
+      "location": "Vietnam",
+      "price": "Check source",
+      "sourceName": "BusinessesForSale Vietnam",
+      "url": "https://www.businessesforsale.com/beachside-hotel-for-sale-khanh-hoa-vietnam.aspx",
+      "verificationStatus": "Public source only"
+    },
+    {
+      "type": "sale",
+      "category": "Business For Sale",
+      "title": "Contact seller of Beachside Hotel for Sale – Khanh Hoa, Vietnam",
+      "summary": "Automatically discovered public lead. Verify seller identity, financials, ownership, availability, and terms before presenting to any buyer.",
+      "location": "Vietnam",
+      "price": "Check source",
+      "sourceName": "BusinessesForSale Vietnam",
+      "url": "https://www.businessesforsale.com/beachside-hotel-for-sale-khanh-hoa-vietnam/contact",
+      "verificationStatus": "Public source only"
+    },
+    {
+      "type": "sale",
+      "category": "Business For Sale",
       "title": "Successful Established Coworking, Cafe, And Rooftop Spa",
       "summary": "Automatically discovered public lead. Verify seller identity, financials, ownership, availability, and terms before presenting to any buyer.",
       "location": "Vietnam",
@@ -68,25 +68,25 @@
       "verificationStatus": "Public source only"
     },
     {
-      "type": "franchise",
-      "category": "Franchise",
-      "title": "Low Cost Franchise",
+      "type": "sale",
+      "category": "Business For Sale",
+      "title": "Real Estate For Sale in Vietnam",
       "summary": "Automatically discovered public lead. Verify seller identity, financials, ownership, availability, and terms before presenting to any buyer.",
       "location": "Vietnam",
       "price": "Check source",
-      "sourceName": "SMERGERS",
-      "url": "https://www.smergers.com/low-cost-franchise-opportunities/t11x216b/",
+      "sourceName": "BusinessesForSale Vietnam",
+      "url": "https://www.businessesforsale.com/search/real-estate-for-sale-in-vietnam",
       "verificationStatus": "Public source only"
     },
     {
-      "type": "franchise",
-      "category": "Franchise",
-      "title": "Restaurants for Sale",
+      "type": "sale",
+      "category": "Business For Sale",
+      "title": "Retail Businesses For Sale Worldwide",
       "summary": "Automatically discovered public lead. Verify seller identity, financials, ownership, availability, and terms before presenting to any buyer.",
       "location": "Vietnam",
       "price": "Check source",
-      "sourceName": "SMERGERS",
-      "url": "https://www.smergers.com/restaurants-for-sale-and-investment/s409b/",
+      "sourceName": "BusinessesForSale Vietnam",
+      "url": "https://www.businessesforsale.com/search/retail-businesses-for-sale",
       "verificationStatus": "Public source only"
     }
   ]
