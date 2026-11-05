@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-11-04T19:27:13.5848448+00:00",
+  "updatedAt": "2026-11-05T05:28:49.2544077+00:00",
   "items": [
+    {
+      "category": "Investment",
+      "title": "Dollar drops against dong",
+      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
+      "sourceName": "VnExpress International Business",
+      "url": "https://e.vnexpress.net/news/business/markets/dollar-drops-against-dong-5141041.html"
+    },
     {
       "category": "Finance / Markets",
       "title": "Techcombank CEO upbeat on Vietnam",
@@ -23,11 +30,11 @@
       "url": "https://e.vnexpress.net/news/business/economy/vietnam-needs-1-000-aircraft-over-next-20-years-5140537.html"
     },
     {
-      "category": "Vietnam Economy",
-      "title": "Vietnam posts back-to-back monthly trade surpluses",
-      "summary": "Vietnam economic news selected for business owners considering market entry, partnerships, or local setup.",
-      "sourceName": "VnExpress International Business",
-      "url": "https://e.vnexpress.net/news/business/economy/vietnam-posts-back-to-back-monthly-trade-surpluses-5140266.html"
+      "category": "Finance / Markets",
+      "title": "US dollar hits 18-month low at Vietnamese banks",
+      "summary": "Finance and market headlines help owners track confidence, currency pressure, consumer sentiment, and timing risk.",
+      "sourceName": "Vietnam News Economy",
+      "url": "https://vietnamnews.vn/economy/1803613/us-dollar-hits-18-month-low-at-vietnamese-banks.html"
     },
     {
       "category": "Investment",
@@ -35,13 +42,6 @@
       "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
       "sourceName": "Vietnam News Economy",
       "url": "https://vietnamnews.vn/economy/1803599/vietnamese-localities-strengthen-investment-links-with-korean-businesses.html"
-    },
-    {
-      "category": "Green Economy",
-      "title": "Five international exhibitions on water, energy, HVACR, supporting industries and data centres open in HCM City",
-      "summary": "Green-economy and compliance shifts can create opportunities for ESG, manufacturing, energy, and advisory-linked services.",
-      "sourceName": "Vietnam News Economy",
-      "url": "https://vietnamnews.vn/economy/1803575/five-international-exhibitions-on-water-energy-hvacr-supporting-industries-and-data-centres-open-in-hcm-city.html"
     }
   ]
 }
