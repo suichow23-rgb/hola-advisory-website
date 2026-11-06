@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-11-05T19:36:46.4105396+00:00",
+  "updatedAt": "2026-11-06T05:27:23.6501093+00:00",
   "items": [
+    {
+      "category": "Vietnam Economy",
+      "title": "China buys 96% of Vietnam’s durian exports",
+      "summary": "Vietnam economic news selected for business owners considering market entry, partnerships, or local setup.",
+      "sourceName": "VnExpress International Business",
+      "url": "https://e.vnexpress.net/news/business/economy/china-buys-96-of-vietnam-s-durian-exports-5141054.html"
+    },
     {
       "category": "Infrastructure",
       "title": "Ho Chi Minh City to issue bonds to finance major infrastructure projects",
@@ -24,24 +31,17 @@
     },
     {
       "category": "Investment",
-      "title": "Dollar hits 1.5-year low against dong",
+      "title": "Earnings growth fails to lift Vietnamese stocks as investors remain cautious",
       "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
-      "sourceName": "VnExpress International Business",
-      "url": "https://e.vnexpress.net/news/business/markets/dollar-hits-1-5-year-low-against-dong-5140628.html"
+      "sourceName": "Vietnam News Economy",
+      "url": "https://vietnamnews.vn/economy/1803628/earnings-growth-fails-to-lift-vietnamese-stocks-as-investors-remain-cautious.html"
     },
     {
       "category": "Investment",
-      "title": "Vietnam needs 1,000 aircraft over next 20 years",
+      "title": "HCM City works to clear the way for RoK investors",
       "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
-      "sourceName": "VnExpress International Business",
-      "url": "https://e.vnexpress.net/news/business/economy/vietnam-needs-1-000-aircraft-over-next-20-years-5140537.html"
-    },
-    {
-      "category": "Investment",
-      "title": "Vietnam Investment Review - VIR",
-      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
-      "sourceName": "Vietnam Investment Review",
-      "url": "https://vir.com.vn/"
+      "sourceName": "Vietnam News Economy",
+      "url": "https://vietnamnews.vn/economy/1803666/hcm-city-works-to-clear-the-way-for-rok-investors.html"
     }
   ]
 }
