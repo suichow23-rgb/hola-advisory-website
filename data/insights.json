@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-11-06T05:27:23.6501093+00:00",
+  "updatedAt": "2026-11-06T18:57:53.2077510+00:00",
   "items": [
+    {
+      "category": "Investment",
+      "title": "Dollar slips against dong",
+      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
+      "sourceName": "VnExpress International Business",
+      "url": "https://e.vnexpress.net/news/business/markets/dollar-slips-against-dong-5141533.html"
+    },
     {
       "category": "Vietnam Economy",
       "title": "China buys 96% of Vietnam’s durian exports",
@@ -23,25 +30,18 @@
       "url": "https://e.vnexpress.net/news/business/markets/dollar-drops-against-dong-5141041.html"
     },
     {
-      "category": "Finance / Markets",
-      "title": "Techcombank CEO upbeat on Vietnam",
-      "summary": "Finance and market headlines help owners track confidence, currency pressure, consumer sentiment, and timing risk.",
-      "sourceName": "VnExpress International Business",
-      "url": "https://e.vnexpress.net/news/business/techcombank-ceo-upbeat-on-vietnam-s-growth-outlook-at-fortune-summit-2026-5140730.html"
+      "category": "Vietnam Economy",
+      "title": "Vietnamese businesses shift from manufacturing to brand building",
+      "summary": "Vietnam economic news selected for business owners considering market entry, partnerships, or local setup.",
+      "sourceName": "Vietnam News Economy",
+      "url": "https://vietnamnews.vn/economy/1803768/vietnamese-businesses-shift-from-manufacturing-to-brand-building.html"
     },
     {
       "category": "Investment",
-      "title": "Earnings growth fails to lift Vietnamese stocks as investors remain cautious",
+      "title": "Saigon Co.op opens new Co.opmart Pro supermarket in HCM City",
       "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
       "sourceName": "Vietnam News Economy",
-      "url": "https://vietnamnews.vn/economy/1803628/earnings-growth-fails-to-lift-vietnamese-stocks-as-investors-remain-cautious.html"
-    },
-    {
-      "category": "Investment",
-      "title": "HCM City works to clear the way for RoK investors",
-      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
-      "sourceName": "Vietnam News Economy",
-      "url": "https://vietnamnews.vn/economy/1803666/hcm-city-works-to-clear-the-way-for-rok-investors.html"
+      "url": "https://vietnamnews.vn/economy/1803762/saigon-co-op-opens-new-co-opmart-pro-supermarket-in-hcm-city.html"
     }
   ]
 }

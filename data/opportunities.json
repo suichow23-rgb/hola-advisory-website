@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-11-06T05:27:24.9888768+00:00",
+  "updatedAt": "2026-11-06T18:57:54.6722422+00:00",
   "items": [
+    {
+      "type": "sale",
+      "category": "Business For Sale",
+      "title": "A Premium Coffee Brand In Vietnam",
+      "summary": "Automatically discovered public lead. Verify seller identity, financials, ownership, availability, and terms before presenting to any buyer.",
+      "location": "Vietnam",
+      "price": "Check source",
+      "sourceName": "BusinessesForSale Vietnam",
+      "url": "https://www.businessesforsale.com/a-premium-coffee-brand-in-vietnam.aspx",
+      "verificationStatus": "Public source only"
+    },
+    {
+      "type": "sale",
+      "category": "Business For Sale",
+      "title": "Contact seller of A Premium Coffee Brand In Vietnam",
+      "summary": "Automatically discovered public lead. Verify seller identity, financials, ownership, availability, and terms before presenting to any buyer.",
+      "location": "Vietnam",
+      "price": "Check source",
+      "sourceName": "BusinessesForSale Vietnam",
+      "url": "https://www.businessesforsale.com/a-premium-coffee-brand-in-vietnam/contact",
+      "verificationStatus": "Public source only"
+    },
     {
       "type": "sale",
       "category": "Business For Sale",
@@ -65,28 +87,6 @@
       "price": "Check source",
       "sourceName": "BusinessesForSale Vietnam",
       "url": "https://www.businessesforsale.com/successful-established-coworking-cafe-and-rooftop-spa/contact",
-      "verificationStatus": "Public source only"
-    },
-    {
-      "type": "sale",
-      "category": "Business For Sale",
-      "title": "Real Estate For Sale in Vietnam",
-      "summary": "Automatically discovered public lead. Verify seller identity, financials, ownership, availability, and terms before presenting to any buyer.",
-      "location": "Vietnam",
-      "price": "Check source",
-      "sourceName": "BusinessesForSale Vietnam",
-      "url": "https://www.businessesforsale.com/search/real-estate-for-sale-in-vietnam",
-      "verificationStatus": "Public source only"
-    },
-    {
-      "type": "sale",
-      "category": "Business For Sale",
-      "title": "Retail Businesses For Sale Worldwide",
-      "summary": "Automatically discovered public lead. Verify seller identity, financials, ownership, availability, and terms before presenting to any buyer.",
-      "location": "Vietnam",
-      "price": "Check source",
-      "sourceName": "BusinessesForSale Vietnam",
-      "url": "https://www.businessesforsale.com/search/retail-businesses-for-sale",
       "verificationStatus": "Public source only"
     }
   ]
