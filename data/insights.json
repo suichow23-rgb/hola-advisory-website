@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T04:55:57.6301660+00:00",
+  "updatedAt": "2026-11-07T17:30:17.3786335+00:00",
   "items": [
     {
       "category": "Investment",
@@ -30,18 +30,18 @@
       "url": "https://e.vnexpress.net/news/business/ho-chi-minh-city-to-issue-bonds-to-finance-major-infrastructure-projects-5140816.html"
     },
     {
+      "category": "Finance / Markets",
+      "title": "Vietnamese goods eye greater access to Australian market",
+      "summary": "Finance and market headlines help owners track confidence, currency pressure, consumer sentiment, and timing risk.",
+      "sourceName": "Vietnam News Economy",
+      "url": "https://vietnamnews.vn/economy/1803791/vietnamese-goods-eye-greater-access-to-australian-market.html"
+    },
+    {
       "category": "Vietnam Economy",
       "title": "Vietnamese businesses shift from manufacturing to brand building",
       "summary": "Vietnam economic news selected for business owners considering market entry, partnerships, or local setup.",
       "sourceName": "Vietnam News Economy",
       "url": "https://vietnamnews.vn/economy/1803768/vietnamese-businesses-shift-from-manufacturing-to-brand-building.html"
-    },
-    {
-      "category": "Investment",
-      "title": "Saigon Co.op opens new Co.opmart Pro supermarket in HCM City",
-      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
-      "sourceName": "Vietnam News Economy",
-      "url": "https://vietnamnews.vn/economy/1803762/saigon-co-op-opens-new-co-opmart-pro-supermarket-in-hcm-city.html"
     }
   ]
 }
