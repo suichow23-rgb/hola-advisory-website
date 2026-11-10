@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-11-09T21:59:42.2451422+00:00",
+  "updatedAt": "2026-11-10T06:14:04.8853535+00:00",
   "items": [
+    {
+      "category": "Investment",
+      "title": "Dollar strengthens against dong",
+      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
+      "sourceName": "VnExpress International Business",
+      "url": "https://e.vnexpress.net/news/business/markets/dollar-strengthens-against-dong-5142879.html"
+    },
+    {
+      "category": "Investment",
+      "title": "Foreign investment in HCMC surges 4.2-fold",
+      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
+      "sourceName": "VnExpress International Business",
+      "url": "https://e.vnexpress.net/news/business/foreign-investment-in-hcmc-surges-4-2-fold-5142420.html"
+    },
     {
       "category": "Investment",
       "title": "Dollar dips against dong",
@@ -10,38 +24,24 @@
     },
     {
       "category": "Investment",
-      "title": "Dollar weakens against dong on black market",
-      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
-      "sourceName": "VnExpress International Business",
-      "url": "https://e.vnexpress.net/news/business/markets/dollar-weakens-against-dong-on-black-market-5141852.html"
-    },
-    {
-      "category": "Investment",
-      "title": "Top leader attends 10th anniversary of Vietnam Airlines, ANA Holdings partnership, joint venture deal",
-      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
-      "sourceName": "Vietnam News Economy",
-      "url": "https://vietnamnews.vn/economy/1803861/top-leader-attends-10th-anniversary-of-vietnam-airlines-ana-holdings-partnership-joint-venture-deal.html"
-    },
-    {
-      "category": "Investment",
-      "title": "3,000 job opportunities offered at HCM City Career Fair",
-      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
-      "sourceName": "Vietnam News Economy",
-      "url": "https://vietnamnews.vn/society/1803903/3-000-job-opportunities-offered-at-hcm-city-career-fair.html"
-    },
-    {
-      "category": "Investment",
-      "title": "Vietnamese cuisine gains global spotlight through leaders’ street food moments",
-      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
-      "sourceName": "Vietnam News Economy",
-      "url": "https://vietnamnews.vn/life-style/1780452/vietnamese-cuisine-gains-global-spotlight-through-leaders-street-food-moments.html"
-    },
-    {
-      "category": "Investment",
       "title": "Vietnam Investment Review - VIR",
       "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
       "sourceName": "Vietnam Investment Review",
       "url": "https://vir.com.vn/"
+    },
+    {
+      "category": "Finance / Markets",
+      "title": "Techcombank named Vietnam",
+      "summary": "Finance and market headlines help owners track confidence, currency pressure, consumer sentiment, and timing risk.",
+      "sourceName": "Vietnam Investment Review",
+      "url": "https://vir.com.vn/techcombank-named-vietnams-best-transaction-bank-164817.html"
+    },
+    {
+      "category": "Infrastructure",
+      "title": "Ho Chi Minh City seeks South Korean investment in major projects",
+      "summary": "Infrastructure movement can affect office, retail, logistics, industrial, and property-entry decisions for new Vietnam entrants.",
+      "sourceName": "Vietnam Investment Review",
+      "url": "https://vir.com.vn/ho-chi-minh-city-seeks-south-korean-investment-in-major-projects-164556.html"
     }
   ]
 }
