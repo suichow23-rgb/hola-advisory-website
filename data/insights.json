@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-11-10T19:24:45.1977790+00:00",
+  "updatedAt": "2026-11-11T04:58:58.9415416+00:00",
   "items": [
+    {
+      "category": "Finance / Markets",
+      "title": "American products become increasingly common in Vietnamese supermarkets",
+      "summary": "Finance and market headlines help owners track confidence, currency pressure, consumer sentiment, and timing risk.",
+      "sourceName": "VnExpress International Business",
+      "url": "https://e.vnexpress.net/news/business/economy/american-products-become-increasingly-common-in-vietnamese-supermarkets-5143322.html"
+    },
     {
       "category": "Vietnam Economy",
       "title": "HCMC plans logistics hub network across 10 locations",
@@ -30,11 +37,11 @@
       "url": "https://e.vnexpress.net/news/business/markets/dollar-dips-against-dong-5142440.html"
     },
     {
-      "category": "Vietnam Economy",
-      "title": "VietNam Economic Times",
-      "summary": "Vietnam economic news selected for business owners considering market entry, partnerships, or local setup.",
-      "sourceName": "VnEconomy",
-      "url": "https://premium.vneconomy.vn/an-pham-tap-chi-kinh-te-viet-nam.html"
+      "category": "Investment",
+      "title": "Vietnam Investment Review - VIR",
+      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
+      "sourceName": "Vietnam Investment Review",
+      "url": "https://vir.com.vn/"
     }
   ]
 }
