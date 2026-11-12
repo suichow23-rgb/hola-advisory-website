@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-11-11T19:18:43.6462770+00:00",
+  "updatedAt": "2026-11-12T06:01:42.2416864+00:00",
   "items": [
+    {
+      "category": "Investment",
+      "title": "Dollar gains against dong",
+      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
+      "sourceName": "VnExpress International Business",
+      "url": "https://e.vnexpress.net/news/business/markets/dollar-gains-against-dong-5143766.html"
+    },
     {
       "category": "Investment",
       "title": "Dollar rises against dong",
@@ -24,24 +31,17 @@
     },
     {
       "category": "Investment",
-      "title": "Dollar strengthens against dong",
+      "title": "Vietnam Investment Review - VIR",
       "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
-      "sourceName": "VnExpress International Business",
-      "url": "https://e.vnexpress.net/news/business/markets/dollar-strengthens-against-dong-5142879.html"
+      "sourceName": "Vietnam Investment Review",
+      "url": "https://vir.com.vn/"
     },
     {
-      "category": "Investment",
-      "title": "Foreign investment in HCMC surges 4.2-fold",
-      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
-      "sourceName": "VnExpress International Business",
-      "url": "https://e.vnexpress.net/news/business/foreign-investment-in-hcmc-surges-4-2-fold-5142420.html"
-    },
-    {
-      "category": "Vietnam Economy",
-      "title": "Vietnam, US boost agricultural trade cooperation",
-      "summary": "Vietnam economic news selected for business owners considering market entry, partnerships, or local setup.",
-      "sourceName": "VnEconomy",
-      "url": "https://en.vneconomy.vn/vietnam-us-boost-agricultural-trade-cooperation.htm"
+      "category": "Finance / Markets",
+      "title": "BJC and MM Mega Market Vietnam connect supply and markets at Vietnam Foodexpo",
+      "summary": "Finance and market headlines help owners track confidence, currency pressure, consumer sentiment, and timing risk.",
+      "sourceName": "Vietnam Investment Review",
+      "url": "https://vir.com.vn/bjc-and-mm-mega-market-vietnam-connect-supply-and-markets-at-vietnam-foodexpo-164934.html"
     }
   ]
 }
