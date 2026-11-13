@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-11-12T19:37:02.2692748+00:00",
+  "updatedAt": "2026-11-13T05:26:09.4489910+00:00",
   "items": [
+    {
+      "category": "Investment",
+      "title": "Dollar weakens against dong",
+      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
+      "sourceName": "VnExpress International Business",
+      "url": "https://e.vnexpress.net/news/business/markets/dollar-weakens-against-dong-5144228.html"
+    },
     {
       "category": "Investment",
       "title": "Nearly 150 new businesses established daily in HCMC",
@@ -17,20 +24,6 @@
     },
     {
       "category": "Investment",
-      "title": "Dollar rises against dong",
-      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
-      "sourceName": "VnExpress International Business",
-      "url": "https://e.vnexpress.net/news/business/markets/dollar-rises-against-dong-5143392.html"
-    },
-    {
-      "category": "Finance / Markets",
-      "title": "American products become increasingly common in Vietnamese supermarkets",
-      "summary": "Finance and market headlines help owners track confidence, currency pressure, consumer sentiment, and timing risk.",
-      "sourceName": "VnExpress International Business",
-      "url": "https://e.vnexpress.net/news/business/economy/american-products-become-increasingly-common-in-vietnamese-supermarkets-5143322.html"
-    },
-    {
-      "category": "Investment",
       "title": "Vietnam Investment Review - VIR",
       "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
       "sourceName": "Vietnam Investment Review",
@@ -42,6 +35,13 @@
       "summary": "Finance and market headlines help owners track confidence, currency pressure, consumer sentiment, and timing risk.",
       "sourceName": "Vietnam Investment Review",
       "url": "https://vir.com.vn/bjc-and-mm-mega-market-vietnam-connect-supply-and-markets-at-vietnam-foodexpo-164934.html"
+    },
+    {
+      "category": "Vietnam Economy",
+      "title": "US blueberry exports to Vietnam surge 160 per cent",
+      "summary": "Vietnam economic news selected for business owners considering market entry, partnerships, or local setup.",
+      "sourceName": "Vietnam Investment Review",
+      "url": "https://vir.com.vn/us-blueberry-exports-to-vietnam-surge-160-per-cent-164918.html"
     }
   ]
 }
