@@ -1,28 +1,6 @@
 {
-  "updatedAt": "2026-11-16T05:07:07.7548051+00:00",
+  "updatedAt": "2026-11-16T21:41:55.8240924+00:00",
   "items": [
-    {
-      "type": "sale",
-      "category": "Business For Sale",
-      "title": "Draft Beer and Alcoholic Beverages Shop in Vietnam",
-      "summary": "Automatically discovered public lead. Verify seller identity, financials, ownership, availability, and terms before presenting to any buyer.",
-      "location": "Vietnam",
-      "price": "Check source",
-      "sourceName": "BusinessesForSale Vietnam",
-      "url": "https://www.businessesforsale.com/draft-beer-and-alcoholic-beverages-shop-in-vietnam.aspx",
-      "verificationStatus": "Public source only"
-    },
-    {
-      "type": "sale",
-      "category": "Business For Sale",
-      "title": "Contact Seller of Draft Beer and Alcoholic Beverages Shop in Vietnam",
-      "summary": "Automatically discovered public lead. Verify seller identity, financials, ownership, availability, and terms before presenting to any buyer.",
-      "location": "Vietnam",
-      "price": "Check source",
-      "sourceName": "BusinessesForSale Vietnam",
-      "url": "https://www.businessesforsale.com/draft-beer-and-alcoholic-beverages-shop-in-vietnam/contact",
-      "verificationStatus": "Public source only"
-    },
     {
       "type": "sale",
       "category": "Business For Sale",
@@ -37,12 +15,34 @@
     {
       "type": "sale",
       "category": "Business For Sale",
-      "title": "Contact Seller of A Premium Coffee Brand In Vietnam",
+      "title": "Contact seller of A Premium Coffee Brand In Vietnam",
       "summary": "Automatically discovered public lead. Verify seller identity, financials, ownership, availability, and terms before presenting to any buyer.",
       "location": "Vietnam",
       "price": "Check source",
       "sourceName": "BusinessesForSale Vietnam",
       "url": "https://www.businessesforsale.com/a-premium-coffee-brand-in-vietnam/contact",
+      "verificationStatus": "Public source only"
+    },
+    {
+      "type": "sale",
+      "category": "Business For Sale",
+      "title": "Draft Beer and Alcoholic Beverages Shop in Vietnam",
+      "summary": "Automatically discovered public lead. Verify seller identity, financials, ownership, availability, and terms before presenting to any buyer.",
+      "location": "Vietnam",
+      "price": "Check source",
+      "sourceName": "BusinessesForSale Vietnam",
+      "url": "https://www.businessesforsale.com/draft-beer-and-alcoholic-beverages-shop-in-vietnam.aspx",
+      "verificationStatus": "Public source only"
+    },
+    {
+      "type": "sale",
+      "category": "Business For Sale",
+      "title": "Contact seller of Draft Beer and Alcoholic Beverages Shop in Vietnam",
+      "summary": "Automatically discovered public lead. Verify seller identity, financials, ownership, availability, and terms before presenting to any buyer.",
+      "location": "Vietnam",
+      "price": "Check source",
+      "sourceName": "BusinessesForSale Vietnam",
+      "url": "https://www.businessesforsale.com/draft-beer-and-alcoholic-beverages-shop-in-vietnam/contact",
       "verificationStatus": "Public source only"
     },
     {
@@ -59,7 +59,7 @@
     {
       "type": "sale",
       "category": "Business For Sale",
-      "title": "Contact Seller of Beachside Hotel for Sale – Khanh Hoa, Vietnam",
+      "title": "Contact seller of Beachside Hotel for Sale – Khanh Hoa, Vietnam",
       "summary": "Automatically discovered public lead. Verify seller identity, financials, ownership, availability, and terms before presenting to any buyer.",
       "location": "Vietnam",
       "price": "Check source",
@@ -81,7 +81,7 @@
     {
       "type": "sale",
       "category": "Business For Sale",
-      "title": "Contact Seller of Successful Established Coworking, Cafe, And Rooftop Spa",
+      "title": "Contact seller of Successful Established Coworking, Cafe, And Rooftop Spa",
       "summary": "Automatically discovered public lead. Verify seller identity, financials, ownership, availability, and terms before presenting to any buyer.",
       "location": "Vietnam",
       "price": "Check source",
