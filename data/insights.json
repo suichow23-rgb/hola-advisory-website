@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-19T06:14:48.6644062+00:00",
+  "updatedAt": "2026-11-19T20:01:57.8644329+00:00",
   "items": [
     {
       "category": "Investment",
@@ -7,13 +7,6 @@
       "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
       "sourceName": "VnExpress International Business",
       "url": "https://e.vnexpress.net/news/business/markets/dollar-slides-against-dong-5146086.html"
-    },
-    {
-      "category": "Vietnam Economy",
-      "title": "What’s next for Vietnam after hitting $1 trillion trade milestone?",
-      "summary": "Vietnam economic news selected for business owners considering market entry, partnerships, or local setup.",
-      "sourceName": "VnExpress International Business",
-      "url": "https://e.vnexpress.net/news/business/economy/what-s-next-for-vietnam-after-hitting-1-trillion-trade-milestone-5145619.html"
     },
     {
       "category": "Investment",
@@ -42,6 +35,13 @@
       "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
       "sourceName": "Vietnam Investment Review",
       "url": "https://vir.com.vn/vietnams-semiconductor-ambitions-must-go-beyond-investment-to-mastering-technology-165387.html"
+    },
+    {
+      "category": "Investment",
+      "title": "Vietnam in global top 50 for digital competitiveness and AI",
+      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
+      "sourceName": "Vietnam Investment Review",
+      "url": "https://vir.com.vn/vietnam-in-global-top-50-for-digital-competitiveness-and-ai-165060.html"
     }
   ]
 }
