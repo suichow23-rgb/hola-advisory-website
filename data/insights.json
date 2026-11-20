@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-11-19T20:01:57.8644329+00:00",
+  "updatedAt": "2026-11-20T05:59:34.4424597+00:00",
   "items": [
+    {
+      "category": "Investment",
+      "title": "Dollar gains over dong",
+      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
+      "sourceName": "VnExpress International Business",
+      "url": "https://e.vnexpress.net/news/business/markets/dollar-gains-over-dong-5146950.html"
+    },
     {
       "category": "Investment",
       "title": "Dollar slides against dong",
@@ -23,11 +30,11 @@
       "url": "https://vir.com.vn/monsoon-wind-powering-vietnam-laos-energy-cooperation-transforming-local-lives-165287.html"
     },
     {
-      "category": "Finance / Markets",
-      "title": "BJC and MM Mega Market Vietnam connect supply and markets at Vietnam Foodexpo",
-      "summary": "Finance and market headlines help owners track confidence, currency pressure, consumer sentiment, and timing risk.",
+      "category": "Investment",
+      "title": "Ho Chi Minh City seeks to attract greater investment from Singapore",
+      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
       "sourceName": "Vietnam Investment Review",
-      "url": "https://vir.com.vn/bjc-and-mm-mega-market-vietnam-connect-supply-and-markets-at-vietnam-foodexpo-164934.html"
+      "url": "https://vir.com.vn/ho-chi-minh-city-seeks-to-attract-greater-investment-from-singapore-165621.html"
     },
     {
       "category": "Investment",
@@ -35,13 +42,6 @@
       "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
       "sourceName": "Vietnam Investment Review",
       "url": "https://vir.com.vn/vietnams-semiconductor-ambitions-must-go-beyond-investment-to-mastering-technology-165387.html"
-    },
-    {
-      "category": "Investment",
-      "title": "Vietnam in global top 50 for digital competitiveness and AI",
-      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
-      "sourceName": "Vietnam Investment Review",
-      "url": "https://vir.com.vn/vietnam-in-global-top-50-for-digital-competitiveness-and-ai-165060.html"
     }
   ]
 }
