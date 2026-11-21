@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-11-21T05:54:11.1437014+00:00",
+  "updatedAt": "2026-11-21T18:46:12.9243741+00:00",
   "items": [
+    {
+      "category": "Investment",
+      "title": "VietinBank connects foreign investors with local partners at HCMC forum",
+      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
+      "sourceName": "VnExpress International Business",
+      "url": "https://e.vnexpress.net/news/business/vietinbank-connects-foreign-investors-with-local-partners-at-hcmc-forum-5147163.html"
+    },
     {
       "category": "Investment",
       "title": "Dollar edges up against dong on black market",
@@ -35,13 +42,6 @@
       "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
       "sourceName": "Vietnam Investment Review",
       "url": "https://vir.com.vn/"
-    },
-    {
-      "category": "Green Economy",
-      "title": "Monsoon Wind: Powering Vietnam-Laos energy cooperation, transforming local lives",
-      "summary": "Green-economy and compliance shifts can create opportunities for ESG, manufacturing, energy, and advisory-linked services.",
-      "sourceName": "Vietnam Investment Review",
-      "url": "https://vir.com.vn/monsoon-wind-powering-vietnam-laos-energy-cooperation-transforming-local-lives-165287.html"
     }
   ]
 }
