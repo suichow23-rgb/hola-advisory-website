@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-11-23T23:28:39.1429108+00:00",
+  "updatedAt": "2026-11-24T08:44:16.0584879+00:00",
   "items": [
+    {
+      "category": "Infrastructure",
+      "title": "Outlet centers and duty-free shops proposed for Vietnam’s largest airport Long Thanh",
+      "summary": "Infrastructure movement can affect office, retail, logistics, industrial, and property-entry decisions for new Vietnam entrants.",
+      "sourceName": "VnExpress International Business",
+      "url": "https://e.vnexpress.net/news/business/economy/outlet-centers-and-duty-free-shops-proposed-for-vietnam-s-largest-airport-long-thanh-5148294.html"
+    },
     {
       "category": "Investment",
       "title": "Dollar hits 4-week peak against dong",
@@ -23,25 +30,18 @@
       "url": "https://e.vnexpress.net/news/business/markets/dollar-edges-up-against-dong-on-black-market-5147378.html"
     },
     {
-      "category": "Property",
-      "title": "How Vietnamese property tycoon sold illegal houses to 519 buyers",
-      "summary": "Property and real-estate movement can affect office, retail, industrial, and workspace-entry planning.",
-      "sourceName": "VnExpress International Business",
-      "url": "https://e.vnexpress.net/news/companies/how-vietnamese-property-tycoon-sold-illegal-houses-to-519-buyers-5147226.html"
-    },
-    {
-      "category": "Vietnam Economy",
-      "title": "3 more execs resign from Vietnam’s largest listed jewelry company PNJ",
-      "summary": "Vietnam economic news selected for business owners considering market entry, partnerships, or local setup.",
-      "sourceName": "VnExpress International Business",
-      "url": "https://e.vnexpress.net/news/business/companies/3-more-execs-resign-from-vietnam-s-largest-listed-jewelry-company-pnj-5147121.html"
-    },
-    {
       "category": "Investment",
       "title": "Vietnam Investment Review - VIR",
       "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
       "sourceName": "Vietnam Investment Review",
       "url": "https://vir.com.vn/"
+    },
+    {
+      "category": "Investment",
+      "title": "Ho Chi Minh City seeks to attract greater investment from Singapore",
+      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
+      "sourceName": "Vietnam Investment Review",
+      "url": "https://vir.com.vn/ho-chi-minh-city-seeks-to-attract-greater-investment-from-singapore-165621.html"
     }
   ]
 }
