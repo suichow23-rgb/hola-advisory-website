@@ -1,12 +1,26 @@
 {
-  "updatedAt": "2026-11-25T07:19:29.7906086+00:00",
+  "updatedAt": "2026-11-25T21:11:00.1909536+00:00",
   "items": [
+    {
+      "category": "Investment",
+      "title": "Seven banks in Vietnam appoint new CEOs, chairpersons in two months",
+      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
+      "sourceName": "VnExpress International Business",
+      "url": "https://e.vnexpress.net/news/business/companies/seven-banks-in-vietnam-appoint-new-ceos-chairpersons-in-two-months-5148812.html"
+    },
     {
       "category": "Investment",
       "title": "Dollar dips against dong",
       "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
       "sourceName": "VnExpress International Business",
       "url": "https://e.vnexpress.net/news/business/markets/dollar-dips-against-dong-5148659.html"
+    },
+    {
+      "category": "Investment",
+      "title": "Seven new HCMC financial center members plan to raise $5B",
+      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
+      "sourceName": "VnExpress International Business",
+      "url": "https://e.vnexpress.net/news/business/seven-new-hcmc-financial-center-members-plan-to-raise-5b-5148164.html"
     },
     {
       "category": "Infrastructure",
@@ -16,32 +30,18 @@
       "url": "https://e.vnexpress.net/news/business/economy/outlet-centers-and-duty-free-shops-proposed-for-vietnam-s-largest-airport-long-thanh-5148294.html"
     },
     {
-      "category": "Investment",
-      "title": "Dollar hits 4-week peak against dong",
-      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
-      "sourceName": "VnExpress International Business",
-      "url": "https://e.vnexpress.net/news/business/markets/dollar-hits-4-week-peak-against-dong-5147962.html"
+      "category": "Vietnam Economy",
+      "title": "VietNam Economic Times",
+      "summary": "Vietnam economic news selected for business owners considering market entry, partnerships, or local setup.",
+      "sourceName": "VnEconomy",
+      "url": "https://premium.vneconomy.vn/an-pham-tap-chi-kinh-te-viet-nam.html"
     },
     {
       "category": "Investment",
-      "title": "Vietnam Investment Review - VIR",
+      "title": "CMC chính thức ra mắt nền tảng AI pháp lý Make in Vietnam",
       "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
-      "sourceName": "Vietnam Investment Review",
-      "url": "https://vir.com.vn/"
-    },
-    {
-      "category": "Investment",
-      "title": "Ho Chi Minh City seeks to attract greater investment from Singapore",
-      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
-      "sourceName": "Vietnam Investment Review",
-      "url": "https://vir.com.vn/ho-chi-minh-city-seeks-to-attract-greater-investment-from-singapore-165621.html"
-    },
-    {
-      "category": "Investment",
-      "title": "HCMC unveils 100-year plan, targets $7.7 billion in financial-centre investment",
-      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
-      "sourceName": "Vietnam Investment Review",
-      "url": "https://vir.com.vn/hcmc-unveils-100-year-plan-targets-77-billion-in-financial-centre-investment-165819.html"
+      "sourceName": "VnEconomy",
+      "url": "https://vneconomy.vn/techconnect/cmc-chinh-thuc-ra-mat-nen-tang-ai-phap-ly-make-in-vietnam.htm"
     }
   ]
 }
