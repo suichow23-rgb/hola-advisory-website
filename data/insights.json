@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-11-26T07:07:47.4245266+00:00",
+  "updatedAt": "2026-11-26T20:59:59.7397972+00:00",
   "items": [
+    {
+      "category": "Vietnam Economy",
+      "title": "Vietnam makes unprecedented commitments in US trade talks: ministry",
+      "summary": "Vietnam economic news selected for business owners considering market entry, partnerships, or local setup.",
+      "sourceName": "VnExpress International Business",
+      "url": "https://e.vnexpress.net/news/business/economy/vietnam-makes-unprecedented-commitments-in-us-trade-talks-ministry-5149359.html"
+    },
+    {
+      "category": "Investment",
+      "title": "Vietnamese billionaires lose nearly $3B as stocks tumble after US tariff proposal",
+      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
+      "sourceName": "VnExpress International Business",
+      "url": "https://e.vnexpress.net/news/business/billionaires/vietnamese-billionaires-lose-nearly-3b-as-stocks-tumble-after-us-tariff-proposal-5149346.html"
+    },
     {
       "category": "Investment",
       "title": "Dollar reaches 5-week high against dong",
@@ -24,24 +38,10 @@
     },
     {
       "category": "Investment",
-      "title": "Seven new HCMC financial center members plan to raise $5B",
-      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
-      "sourceName": "VnExpress International Business",
-      "url": "https://e.vnexpress.net/news/business/seven-new-hcmc-financial-center-members-plan-to-raise-5b-5148164.html"
-    },
-    {
-      "category": "Investment",
       "title": "Vietnam Investment Review - VIR",
       "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
       "sourceName": "Vietnam Investment Review",
       "url": "https://vir.com.vn/"
-    },
-    {
-      "category": "Investment",
-      "title": "Ho Chi Minh City seeks to attract greater investment from Singapore",
-      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
-      "sourceName": "Vietnam Investment Review",
-      "url": "https://vir.com.vn/ho-chi-minh-city-seeks-to-attract-greater-investment-from-singapore-165621.html"
     }
   ]
 }
