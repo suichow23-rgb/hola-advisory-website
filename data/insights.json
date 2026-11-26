@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-11-25T21:11:00.1909536+00:00",
+  "updatedAt": "2026-11-26T07:07:47.4245266+00:00",
   "items": [
+    {
+      "category": "Investment",
+      "title": "Dollar reaches 5-week high against dong",
+      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
+      "sourceName": "VnExpress International Business",
+      "url": "https://e.vnexpress.net/news/business/markets/dollar-reaches-5-week-high-against-dong-5149137.html"
+    },
     {
       "category": "Investment",
       "title": "Seven banks in Vietnam appoint new CEOs, chairpersons in two months",
@@ -23,25 +30,18 @@
       "url": "https://e.vnexpress.net/news/business/seven-new-hcmc-financial-center-members-plan-to-raise-5b-5148164.html"
     },
     {
-      "category": "Infrastructure",
-      "title": "Outlet centers and duty-free shops proposed for Vietnam’s largest airport Long Thanh",
-      "summary": "Infrastructure movement can affect office, retail, logistics, industrial, and property-entry decisions for new Vietnam entrants.",
-      "sourceName": "VnExpress International Business",
-      "url": "https://e.vnexpress.net/news/business/economy/outlet-centers-and-duty-free-shops-proposed-for-vietnam-s-largest-airport-long-thanh-5148294.html"
-    },
-    {
-      "category": "Vietnam Economy",
-      "title": "VietNam Economic Times",
-      "summary": "Vietnam economic news selected for business owners considering market entry, partnerships, or local setup.",
-      "sourceName": "VnEconomy",
-      "url": "https://premium.vneconomy.vn/an-pham-tap-chi-kinh-te-viet-nam.html"
+      "category": "Investment",
+      "title": "Vietnam Investment Review - VIR",
+      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
+      "sourceName": "Vietnam Investment Review",
+      "url": "https://vir.com.vn/"
     },
     {
       "category": "Investment",
-      "title": "CMC chính thức ra mắt nền tảng AI pháp lý Make in Vietnam",
+      "title": "Ho Chi Minh City seeks to attract greater investment from Singapore",
       "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
-      "sourceName": "VnEconomy",
-      "url": "https://vneconomy.vn/techconnect/cmc-chinh-thuc-ra-mat-nen-tang-ai-phap-ly-make-in-vietnam.htm"
+      "sourceName": "Vietnam Investment Review",
+      "url": "https://vir.com.vn/ho-chi-minh-city-seeks-to-attract-greater-investment-from-singapore-165621.html"
     }
   ]
 }
