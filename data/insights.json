@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-11-27T20:46:01.6516566+00:00",
+  "updatedAt": "2026-11-28T06:37:19.7692985+00:00",
   "items": [
+    {
+      "category": "Investment",
+      "title": "Moody’s raises Vietnam’s credit rating to one notch below investment grade",
+      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
+      "sourceName": "VnExpress International Business",
+      "url": "https://e.vnexpress.net/news/business/economy/moody-s-raises-vietnam-s-credit-rating-to-one-notch-below-investment-grade-5149915.html"
+    },
+    {
+      "category": "Investment",
+      "title": "Dollar edges up against dong on black market",
+      "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
+      "sourceName": "VnExpress International Business",
+      "url": "https://e.vnexpress.net/news/business/markets/dollar-edges-up-against-dong-on-black-market-5149145.html"
+    },
+    {
+      "category": "Infrastructure",
+      "title": "HCMC seeks Singapore investment in three strategic infrastructure areas",
+      "summary": "Infrastructure movement can affect office, retail, logistics, industrial, and property-entry decisions for new Vietnam entrants.",
+      "sourceName": "VnExpress International Business",
+      "url": "https://e.vnexpress.net/news/business/hcmc-seeks-singapore-investment-in-three-strategic-infrastructure-areas-5149767.html"
+    },
     {
       "category": "Investment",
       "title": "Dollar strengthened against dong",
@@ -9,39 +30,18 @@
       "url": "https://e.vnexpress.net/news/business/markets/dollar-strengthened-against-dong-5149568.html"
     },
     {
-      "category": "Vietnam Economy",
-      "title": "Vietnam makes unprecedented commitments in US trade talks: ministry",
-      "summary": "Vietnam economic news selected for business owners considering market entry, partnerships, or local setup.",
-      "sourceName": "VnExpress International Business",
-      "url": "https://e.vnexpress.net/news/business/economy/vietnam-makes-unprecedented-commitments-in-us-trade-talks-ministry-5149359.html"
-    },
-    {
       "category": "Investment",
-      "title": "Vietnamese billionaires lose nearly $3B as stocks tumble after US tariff proposal",
+      "title": "Vietnam Investment Review - VIR",
       "summary": "Investment activity is a useful signal for sectors attracting capital, partners, suppliers, and business-support demand.",
-      "sourceName": "VnExpress International Business",
-      "url": "https://e.vnexpress.net/news/business/billionaires/vietnamese-billionaires-lose-nearly-3b-as-stocks-tumble-after-us-tariff-proposal-5149346.html"
+      "sourceName": "Vietnam Investment Review",
+      "url": "https://vir.com.vn/"
     },
     {
       "category": "Vietnam Economy",
-      "title": "Argentine Week 2026 promotes trade and culture in Hanoi",
+      "title": "Vietnam-Australia Economic Partnership Ministerial Conference convenes a fifth time",
       "summary": "Vietnam economic news selected for business owners considering market entry, partnerships, or local setup.",
-      "sourceName": "VnEconomy",
-      "url": "https://en.vneconomy.vn/argentine-week-2026-promotes-trade-and-culture-in-hanoi.htm"
-    },
-    {
-      "category": "Infrastructure",
-      "title": "Vietnam-Russia Joint Venture Bank a bridge connecting the Vietnamese & Russian economies",
-      "summary": "Infrastructure movement can affect office, retail, logistics, industrial, and property-entry decisions for new Vietnam entrants.",
-      "sourceName": "VnEconomy",
-      "url": "https://en.vneconomy.vn/vietnam-russia-joint-venture-bank-a-bridge-connecting-the-vietnamese-russian-economies.htm"
-    },
-    {
-      "category": "Vietnam Economy",
-      "title": "VietNam Economic Times",
-      "summary": "Vietnam economic news selected for business owners considering market entry, partnerships, or local setup.",
-      "sourceName": "VnEconomy",
-      "url": "https://premium.vneconomy.vn/an-pham-tap-chi-kinh-te-viet-nam.html"
+      "sourceName": "Vietnam Investment Review",
+      "url": "https://vir.com.vn/vietnam-australia-economic-partnership-ministerial-conference-convenes-a-fifth-time-166153.html"
     }
   ]
 }
